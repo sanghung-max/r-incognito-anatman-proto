@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>無道啟示錄</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app-viewport">
+  <!-- Main Stage Area (Breadcrumb + Content Stacked) -->
+  <div id="main-stage" style="flex: 1; min-width: 0; display: flex; flex-direction: column;">
+    
+   <!-- HEADER BAR: BREADCRUMBS & TOP FIND ELEMENT -->
+<div class="header-bar">
+  <div id="breadcrumb-container" style="flex: 1;"></div>
+  
+  <!-- Minimalist Search Icon Button (No label, no box outline) -->
+  <!-- Minimalist Search Icon Button -->
+  <button id="find-toggle-btn" class="find-icon-btn" onclick="toggleFindDropdown()" aria-label="Search and Filter"></button>
+
+  <!-- Persistent Search Dropdown Overlay -->
+  <div id="find-dropdown-panel" class="find-dropdown-panel hidden">
+    <div class="filter-group">
+      <label for="filter-language">Language</label>
+      <select id="filter-language" onchange="handleFilterChange()">
+        <option value="all">All Languages</option>
+        <option value="en">English (EN)</option>
+        <option value="zh">Chinese (ZH)</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-board">Board</label>
+      <select id="filter-board" onchange="handleBoardFilterChange()">
+        <option value="all">All Boards</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-subcategory">Subcategory</label>
+      <select id="filter-subcategory" onchange="handleFilterChange()">
+        <option value="all">All Subcategories</option>
+      </select>
+    </div>
+
+    <!-- Media Type moved to the bottom -->
+    <div class="filter-group">
+      <label for="filter-media-type">Media Type</label>
+      <select id="filter-media-type" onchange="handleFilterChange()">
+        <option value="all">All Types</option>
+        <option value="pdf">PDF Document</option>
+        <option value="image">Image</option>
+        <option value="video">Video</option>
+        <option value="audio">Audio</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+    <!-- Left Main Dynamic Stage Viewport Container -->
+    <main id="archive-container" style="flex: 1;"></main>
+    
+  </div>
+
+<!-- Floating Peek Toggle Button for Non-Leaf Metadata -->
+ 
+<button id="side-nav-peek-toggle" class="peek-toggle-btn hidden" onclick="toggleSideNavPeek()" aria-label="Toggle Metadata Panel">
+  <span id="peek-icon-container"></span>
+  <span class="peek-badge-dot"></span>
+</button>
+
+
+ <!-- Workspace Sidebar Drawer -->
+<aside id="expert-side-nav" class="side-nav-hidden">
+  <div class="sidebar-sticky-content">
+    
+    <!-- Multi-Stage Drawer Controls -->
+    <div id="drawer-width-controls" class="drawer-controls" style="display: none;">
+      <button id="btn-drawer-standard" class="drawer-btn active" onclick="setDrawerWidth('standard')">Standard</button>
+      <button id="btn-drawer-split" class="drawer-btn" onclick="setDrawerWidth('split')">50%</button>
+      <button id="btn-drawer-expanded" class="drawer-btn" onclick="setDrawerWidth('expanded')">75%</button>
+      <button id="btn-drawer-full" class="drawer-btn" onclick="setDrawerWidth('full')">Focus</button>
+    </div>
+
+    <!-- Dynamic Sidebar Navigation Tabs -->
+<div class="nav-tabs" id="drawer-tabs">
+  <button class="tab-btn active" onclick="switchDrawerTab('vista')">Vista</button>
+  <button class="tab-btn" onclick="switchDrawerTab('text')">Text</button>
+  <button class="tab-btn" onclick="switchDrawerTab('epoche')">Epoche</button>
+  <button class="tab-btn" onclick="switchDrawerTab('wissen')">Wissen</button>
+  <button class="tab-btn" onclick="switchDrawerTab('interpret')">Interpret</button>
+  <button class="tab-btn" onclick="switchDrawerTab('deconstruct')">Deconstruct</button>
+  <button class="tab-btn" onclick="switchDrawerTab('ai-experts')">AI Experts</button>
+</div>
+
+    <!-- Dynamic Tab Display Container -->
+    <div id="tab-display-pane" class="tab-display-pane">
+      <p class="muted-notice">Select an entry or enter subcategory space to stream metadata...</p>
+    </div>
+  </div>
+</aside>
+</div>
+
+  <!-- Runtime Assets -->
+  <script src="js/icons.js"></script>
+  <script src="js/archive_data.js"></script>
+  <script src="js/state.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/media.js"></script>
+  <script src="js/filter.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/main.js"></script>
+  
+</body>
+</html>

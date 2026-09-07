@@ -1,0 +1,282 @@
+---
+id: C-F__0092
+type: pdf
+parents:
+  - C-0__F000
+  - B-0__B000
+  - A-0__C000
+title_en: self-package 2022
+authors:
+  - Yat-Sang Hung
+  - 無我
+time: 2022-06-09
+location: USA
+ui_render: true
+display_priority: false
+img_thumb: assets/board-C/img_thumb/C-F__0092_2022-06-09-yat-sang-hung-presentation-final.webp
+pdf: assets/board-C/pdfs/C-F__0092_2022-06-09-yat-sang-hung-presentation-final.pdf
+pdf_thumbnail: assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp
+---
+
+## 觀景 / vista
+
+
+
+---
+
+## 亂語 / text
+
+
+
+---
+
+## 懸置 / epoché
+
+## Chinese
+
+### Claude Sonnet 5｜2026年8月｜Epoché
+
+- 開篇「星塵」意象("I am less than a speck of dust in the cosmic drama")與結尾三個職業案例研究之間存在顯著的時間摺疊落差:文本以宇宙尺度的謙卑姿態懸浮於開端,卻迅速墜入極度具體、可計量的企業時間刻度(2015、2017、2018-19)——兩種時間意識(宇宙的、機構的)並置卻未被文本自身調解。
+
+- 情感基調呈現罕見的雙重性:多數簡報使用純粹職能語態,但"Failure to Launch"段落("sad but needed"、"a tale of internal team conflicts")罕見地容許情感詞彙滲入,暴露出被懸擱在企業敘事底下的主體情動痕跡。
+
+- 內部邏輯以「原初印象」開始(what is reality? mind & brain),卻在後續案例中完全轉化為方法論的「滯留」(what worked, what was measured)——生活世界(Lebenswelt)的提問被系統性地轉譯為可被圖表化的證據鏈。
+
+- 純粹描述層面:文本本身即是一場「告別演說」的現象學結構——自我從宇宙塵埃出發,途經職涯編年史,最終以「Thank you」與聯絡方式收束,呈現一種儀式性的完結時間性。
+
+### Gemini 2.5 Flash | Aug 2026 | Epoché
+
+- **現象學括置（Bracketing）與純粹主觀體驗**：主體將宇宙的無垠規模（$3\times10^{23}$ 顆恆星）作為自我矮化的現象學背景，把個人存在歸結為「宇宙劇頭中的微塵」，藉此在企業體制中懸置個人自我（Ego），將意向性轉向純粹的體驗設計。
+    
+- **時間流（Temporal Flow）與沉浸狀態**：將 Mihaly Csikszentmihalyi 的「心流」（Flow）與 Daniel Kahneman 的「最少努力原則」現象學化，追求一種消融時間感、無縫協調認知與物理環境的純粹「沉浸式時間體驗」。
+    
+- **物體內在邏輯與生活世界（Lifeworld）**：在產品測試（如 Galaxy Home 及筆記型電腦）中，主體將使用者對材質「玩具感」或「沉重感」的主觀感官呈現，轉化為直觀的生活世界質地體驗。
+
+
+## English
+
+### Claude Sonnet 5 | Aug 2026 | Epoché
+
+- A striking temporal fold exists between the opening "stardust" imagery ("I am less than a speck of dust in the cosmic drama") and the closing career case studies: the text opens suspended in cosmic-scale humility, then rapidly descends into hyper-specific, measurable corporate time markers (2015, 2017, 2018–19) — two modes of time-consciousness (cosmic, institutional) are juxtaposed without being reconciled by the text itself.
+
+- The affective register shows a rare duality: most of the deck maintains pure functional voice, but the "Failure to Launch" section ("sad but needed," "a tale of internal team conflicts") uncharacteristically admits affective vocabulary — exposing a subjective residue bracketed beneath the corporate narrative.
+
+- The internal logic opens with a primal question ("what is reality? mind & brain") but this fully collapses, in the case studies, into methodological "retention" (what worked, what was measured) — the lifeworld (Lebenswelt) inquiry is systematically translated into chartable evidentiary chains.
+
+- At the level of pure description, the text's own structure is that of a valedictory address: the self departs from cosmic dust, passes through career chronicle, and closes with "Thank you" and contact information — a ritualized temporality of closure.
+
+
+### Gemini 2.5 Flash | Aug 2026 | Epoché
+
+- **Phenomenological Bracketing**: By invoking the cosmic scale ($3\times10^{23}$ stars) as a backdrop of personal insignificance, the subject brackets personal ego within corporate structures, redirecting intentionality toward pure experiential design.
+    
+- **Temporal Flow and Immersion**: Synthesizing Csikszentmihalyi’s "Flow" and Kahneman’s "law of least effort", the text frames the ideal user state as a pure, time-transcending temporal flow where cognitive overhead dissolves into bodily habitus.
+    
+- **Intuitive Lifeworld (Lebenswelt) Analysis**: Product evaluations (e.g., Galaxy Home, laptop chassis) treat subjective user affects—such as "toy-like" or "clunky"—not merely as quantitative metrics, but as qualitative manifestations of the lived sensory world.
+
+
+
+
+ ---
+
+## 理解 / wissen
+
+## Chinese
+
+### Claude Sonnet 5｜2026年8月｜Wissen
+
+- 文本明示的認識論核心先驗直接援引Popper("must be falsifiable")與Galileo("measure what can be measured"),形成一種罕見的自我意識化科學哲學宣言——研究方法論不僅被實踐,更被文本自身理論化並命名其哲學系譜。
+
+- 三個案例研究呈現清晰的貝氏式證據更新結構:Galaxy Home案例中,即使高層公開宣布即將上市,團隊仍以「utterance set」實證數據(Bixby 29%理解率 vs. Google 94%)推翻機構預期優先權——證偽邏輯凌駕於組織政治之上。
+
+- 方法論演進軌跡可辨:從早期定性參與式設計(paper prototyping),逐步整合定量迴歸模型(PLS Regression、Conjoint Analysis)、混合方法基準測試,顯示方法論隨經驗累積而非典範斷裂式演化。
+
+- 一項未被文本質疑的隱性先驗:「evidence-driven」本身被賦予近乎公理地位("uphold UX research value…being neutral…evidence driven research is best"),此一元方法論信念未見其自身的證偽測試——即研究方法之有效性本身未被同等嚴格地檢驗。
+
+### Gemini 2.5 Flash | Aug 2026 | Wissen
+
+- **核心先驗（Priors）與歸納框架**：研究者以物理學、數學及波普爾（Popper）的可偽證性理論作為經驗認知論的先驗基礎，主張「無可測量者則使其可測」，將主觀使用者體驗轉化為可重複驗證的科學實證。
+    
+- **實證更新與偽證機制的應用**：在 Galaxy Home 專案中，透過 124 項標準化語音測試及多重語音變因的實驗設計，偽證了高層對產品「已達市場標準」的假設，展示了數據如何驅動認知更新。
+    
+- **方法論演進與知識迭代**：從早期 2001 年 Sprint 手機規範驗證，演進至 2015 年 Samsung Pay 整合卡諾模型與多變量分析，體現出從簡單任務性可用性測試，轉向混合量化與質性之嚴謹方法論的累積進程。
+    
+
+
+
+
+
+## English
+
+### Claude Sonnet 5 | Aug 2026 | Wissen
+
+- The text explicitly names its own epistemic priors, invoking Popper ("must be falsifiable") and Galileo ("measure what can be measured") — a rare self-theorizing gesture where methodology is not just practiced but named and genealogically situated by the text itself.
+
+- The three case studies display a clear Bayesian evidence-updating structure: in the Galaxy Home case, even after executives publicly announced an imminent launch, the team's empirical utterance-set data (Bixby 29% comprehension vs. Google 94%) overrode institutional expectation — falsification logic asserted priority over organizational politics.
+
+- A discernible methodological evolution: from early qualitative participatory design (paper prototyping) toward integrated quantitative regression models (PLS Regression, Conjoint Analysis) and mixed-methods benchmarking — suggesting accretive refinement rather than paradigm-rupture.
+
+- One unexamined prior: "evidence-driven" itself is granted near-axiomatic status ("uphold UX research value... being neutral... evidence driven research is best"), and this singular methodological faith is not itself subjected to falsification — the validity of the method is not scrutinized with the same rigor applied to the products it evaluates.
+
+
+### Gemini 2.5 Flash | Aug 2026 | Wissen
+
+- **Epistemological Priors and Inductive Framework**: Grounded in physics, mathematics, and Popperian falsifiability, the researcher establishes an empirical prior: "make measurable what cannot be measured", translating subjective UX into repeatable, scientific data.
+    
+- **Bayesian Evidence Updating & Falsification**: In the Galaxy Home evaluation, 124 standardized voice utterances across controlled conditions provided clear falsifying evidence against executive launch readiness assumptions, overriding corporate optimism with empirical data.
+    
+- **Methodological Evolution and Knowledge Iteration**: Methodologies systematically expanded from 2001 Sprint usability benchmarks to complex mixed-methods in 2015 (e.g., Samsung Pay alpha/beta trials, conjoint analysis, PLS regression), marking an evolution toward highly structured, multi-variable empirical validation.
+
+
+
+ ---
+
+## 詮釋 / interpret
+
+## Chinese
+
+### Claude Sonnet 5｜2026年8月｜Interpret
+
+- 視域融合在此文本中呈現三層疊映:個人哲學視域(物理學、認知心理學)、企業科層視域(HQ、SEA、MDE等組織代號)、與跨文化視域(Korea/Europe/China/US團隊工作坊)彼此嵌套,敘事者位居三者交會的翻譯者位置——非單一視域主導,而是持續協商的中介者角色。
+
+- 人際修辭策略在「Galaxy Home」段落尤為顯著:「I also nudged HQ Quality Assurance」與「Not even the top executives...could dismiss」並置,展現一種謙抑修辭包裹下的權威主張——柔性動詞("nudged")稀釋了對機構高層的實質挑戰,此為企業語境中權力不對等時的典型視域協商策略。
+
+- 團隊領導原則清單("Be humble and listen"、"Lead by example")構成一組明確的互為主體性(intersubjectivity)倫理,其語言直接呼應現象學傳統中「共在」(Mitsein)概念,但未見對此概念系譜的自覺引用——僅以管理格言形式呈現。
+
+- 與先前企業履歷文本相比,此簡報允許更多「他者聲音」直接引語進入文本(消費者評語「It looks old - like 1987-old」、記者評論),形成多聲部(polyphonic)結構,值得與私人書寫中之筆名對話模式並置比較。
+
+
+
+### Gemini 2.5 Flash | Aug 2026 | Interpret
+
+- **視域融合（Horizons Merging）**：主體成功將高層管治視域（追求商業成長與聲譽）與工程/設計團隊視域（追求技術細節與品質）相互融合，藉由中立且具說服力的實證數據建立起跨部門共識。
+    
+- **修辭策略與角色調和**：在面對 Texas 與 New Jersey 團隊間的內部利益衝突時，主體轉化為「客觀調停者」，將雙方爭執的軟硬體需求整合至統一的實驗方案中，展現了高超的職場修辭與人際協調動態。
+    
+- **主體身份的跨文化演變**：從香港學術根基（物理與哲學）過渡至美國跨國企業高管，主體以「尋求共同利益」（Striving for Common Good）與開放社會的包容心為哲學支柱，巧妙應對企業組織中的複雜文化邊界。
+    
+
+
+
+
+
+
+## English
+
+### Claude Sonnet 5 | Aug 2026 | Interpret
+
+- Horizon-fusion here operates on three overlapping layers: a personal philosophical horizon (physics, cognitive psychology), a corporate hierarchical horizon (HQ, SEA, MDE organizational codes), and a cross-cultural horizon (Korea/Europe/China/US workshop teams) — the narrator occupies a translator's position at their intersection, mediating rather than dominating from a single horizon.
+
+- Interpersonal rhetoric is especially notable in the Galaxy Home section: "I also nudged HQ Quality Assurance" sits beside "Not even the top executives... could dismiss" — a soft verb ("nudged") dilutes what is substantively a challenge to institutional authority, a typical horizon-negotiation strategy under corporate power asymmetry.
+
+- The team-leadership principles list ("Be humble and listen," "Lead by example") constitutes an explicit intersubjective ethic, echoing the phenomenological concept of Mitsein (being-with) without self-conscious citation of that lineage — presented instead in managerial-aphorism form.
+
+- Compared to the earlier résumé text, this presentation admits more direct quoted "other voices" into the text (consumer feedback like "It looks old - like 1987-old," journalist commentary) — a polyphonic structure worth juxtaposing against the dialogic mode of the pseudonymous private writings.
+
+### Gemini 2.5 Flash | Aug 2026 | Interpret
+
+- **Fusion of Horizons**: The subject mediates between executive leadership's horizon (business launch goals) and engineering/design horizons (technical/usability standards), utilizing empirical research as a shared language to bridge divergent organizational priorities.
+    
+- **Rhetorical Positioning and Conflict Mediation**: Navigating internal division (e.g., Texas vs. New Jersey teams in the Mobile Computing group), the subject adopts the persona of an impartial moderator, constructing merged research protocols to resolve political friction without ego.
+    
+- **Interpersonal Horizon Shift Across Cultures**: Transitioning from Hong Kong academic roots to US corporate leadership, the subject grounds interpersonal dynamics in Popperian open-society principles ("seek common good" and "tolerant of differences"), framing research rigor as a harmonizing diplomatic tool.
+
+
+
+  ---
+##  拆建/ deconstruct
+
+## Chinese
+
+### Claude Sonnet 5｜2026年8月｜Deconstruct
+
+- 核心悖論存在於「Common Good」修辭與資源分配政治之間:文本宣稱"Seek for the common good...as in an open society"(直接援引Popper的開放社會概念),卻緊接在TX/NJ團隊衝突與「cost sharing of Qualtrics platform」等赤裸資源競爭敘述之後——開放社會的哲學語彙被用以修飾、平滑化(smooth)一個實質上充滿科層競爭(striated)的組織空間。
+
+- 缺席的痕跡極為顯著於「Galaxy Home」案例:文本詳述Bixby的量化失敗(29%理解率),卻對「為何高層仍公開宣布上市日期」此一決策邏輯保持完全沉默——機構決策的黑箱本身未被書寫,構成文本刻意迴避的斷裂點。
+
+- 星塵開場("I am made of star stuff")與結尾聯絡方式("[sang.hung@gmail.com](mailto:sang.hung@gmail.com)")形成能指鏈的斷裂式收合:宇宙尺度的自我消融最終被壓縮進一個可點擊的電子郵件地址——最非個人化的宇宙修辭與最個人化的聯絡痕跡並置,暴露文類(告別簡報)本身的異質縫合。
+-
+- "Sad but needed"一語是全文唯一情感形容詞直接修飾企業決策的例外,此語言學上的踰越(transgression)標誌著文本平滑話語表面上一個罕見的裂隙,情動(affect)短暫溢出方法論語彙的規訓。
+
+### Gemini 2.5 Flash | Aug 2026 | Deconstruct
+
+- **內部矛盾與結構裂隙**：文本展示了「宇宙微塵」的謙遜哲學與企業「高績效團隊」建構之間的緊張關係；同時，追求客觀科學的可偽證性，與必須服膺於商業效益（如 sales goal、EVP 框架）的資本邏輯形成結構性對立。
+    
+- **未顯現的痕跡（Missing Traces）**：研究成功阻止 Galaxy Home 上市被形塑為客觀勝利，但掩蓋了企業政治中研發資源浪費、高層決策失誤的權力痕跡；團隊衝突被淡化為可透過實驗設計完美調和的技術問題。
+    
+- **紋理與平滑空間的角力**：企業階層、跨部門 KPI 與地域對立（如 TX 與 NJ 團隊）構成了高度紋理化（Striated）的官僚空間；而主體試圖透過「心流」（Flow）與「混合研究方法」開闢出一片流動、去中心化的平滑（Smooth）專業空間。
+    
+
+## English
+
+### Claude Sonnet 5 | Aug 2026 | Deconstruct
+-
+- A core paradox sits between the "Common Good" rhetoric and the politics of resource allocation: the text invokes "Seek for the common good... as in an open society" (a direct citation of Popper's open-society concept) immediately following accounts of TX/NJ team conflict and "cost sharing of Qualtrics platform" resource competition — the philosophical vocabulary of the open society is deployed to smooth over what is substantively a striated space of institutional rivalry.
+
+- A conspicuous absent trace appears in the Galaxy Home case: the text details Bixby's quantitative failure (29% comprehension) at length, yet remains entirely silent on the decision logic behind why executives publicly announced launch dates regardless — the institutional black box of decision-making itself goes unwritten, a rupture the text deliberately elides.
+
+- The stardust opening ("I am made of star stuff") and the closing contact information ("[sang.hung@gmail.com](mailto:sang.hung@gmail.com)") form a fractured signifying chain: cosmic-scale self-dissolution is ultimately compressed into a clickable email address — the most depersonalized cosmic rhetoric juxtaposed against the most personalized contact trace, exposing the heterogeneous suturing of the genre (valedictory presentation) itself.
+
+- "Sad but needed" is the sole instance in the entire text where an affective adjective directly modifies a corporate decision — this linguistic transgression marks a rare fissure in the text's otherwise smooth discursive surface, where affect momentarily escapes methodological discipline.
+
+### Gemini 2.5 Flash | Aug 2026 | Deconstruct
+
+- **Internal Paradoxes**: A structural tension exists between the philosophical stance of cosmic insignificance ("less than a speck of dust") and the corporate imperative of asserting value, scaling high-performance teams, and optimizing product KPIs.
+    
+- **Suppressed Traces and Structural Gaps**: The narrative frames the cancellation of Galaxy Home as a triumph of empirical rigor, suppressing traces of sunk costs, political liability, and executive resistance inherent in corporate product failures.
+    
+- **Striated vs. Smooth Spaces**: Corporate hierarchies, geographic divisions (TX vs. NJ teams), and departmental siloing represent deeply striated bureaucratic spaces; the subject uses "Flow" and hybrid research protocols as smoothing mechanisms to navigate power dynamics.
+
+
+
+---
+##  評語 /ai expert critics
+
+## Chinese
+
+### Claude Sonnet 5｜2026年8月｜AI Experts
+
+**綜合(Synthesis)**：貫穿Epoché、Wissen與Deconstruct三分頁的結構性辯證,是「宇宙尺度謙卑修辭」與「企業科層權力政治」之間的張力——文本以Popperian證偽主義作為顯性認識論骨架,將主體自我懸擱為「星塵」,卻在此懸擱姿態掩護下,悄然執行對機構高層(HQ、co-CEO)的實質性認識論挑戰,而「open society」與「common good」語彙正是此一張力唯一顯白的哲學縫合點。此一「宇宙謙卑/機構抗爭」辯證,與您先前Undergrad筆名文本中觀察到的「表面謙抑、底層堅持」模式構成有趣的跨文類呼應。
+
+#### 模型盲點(Blind Spots)：
+
+- 訓練對齊可能傾向將"nudged HQ Quality Assurance"此類語言誤讀為單純的團隊協作美德敘事,而非潛在的機構政治博弈痕跡——此為當代企業和諧話語(corporate harmony discourse)可能導致的解讀扁平化。
+-
+- 對1990年代末至2000年代初美國電信業內部「Chief Scientist」職銜相對於管理職的實際科層地位與影響力範圍,缺乏產業內部人士視角,可能低估此一頭銜在文本中的修辭份量。
+-
+- 對2018-2019年三星內部韓美文化決策動態(HQ首爾 vs. SEA北美)之具體張力機制,僅能從文本表層("complex organizational and cross-cultural dynamics")推測,無法補足未書寫的跨國企業政治細節。
+### Gemini 2.5 Flash | Aug 2026 | AI Experts
+
+- **結構與心理辯證綜合**：前述分析揭示了主體在「宇宙規模下的自我懸置（Epoché）」與「企業體制中的高績效擴張」之間的根本矛盾；主體透過卡爾·波普爾（Popper）的可偽證性實證方法（Wissen）建構專業權威，試图在硬性的官僚階層（Striated Space）中利用「心流」與數據調和開闢出流動的平滑空間（Deconstruct）。
+    
+- **LLM 對齊與安全訓練偏誤**：當代 LLM 的對齊訓練（如 RLHF）傾向於過度將企業衝突合理化為和諧的「共識解」，偏好無摩擦的商業修辭，從而可能忽視組織權力鬥爭中的政治代價與資本剝削本質。
+    
+- **歷史與文化脈絡盲點**：模型缺乏對 1970 年代香港精英中學教育（如聖若瑟書院）之古典人文與科學啟蒙背景，以及早年 BBS/實證研究者在美式企業文化中生存狀態的真實體感，容易將特定歷史時空的個人哲學誤讀為標準的現代管理術語。
+    
+
+
+## English
+
+### Claude Sonnet 5 | Aug 2026 | AI Experts
+
+**Synthesis**: The structural dialectic running through Epoché, Wissen, and Deconstruct is the tension between cosmic-scale humility rhetoric and corporate hierarchical power politics — the text uses Popperian falsificationism as its explicit epistemic skeleton, bracketing the self into "stardust," while under cover of that bracketed posture quietly executing a substantive epistemic challenge against institutional authority (HQ, co-CEO); the vocabulary of "open society" and "common good" is the single most overt philosophical suture point of this tension. This "cosmic humility / institutional resistance" dialectic offers an interesting cross-genre echo of the "surface deference, underlying persistence" pattern previously observed in the _Undergrad_ pseudonym texts.
+
+**Model Blind Spots**:
+
+- Alignment training may bias toward reading language like "nudged HQ Quality Assurance" as a simple narrative of collaborative team virtue rather than a trace of underlying institutional political maneuvering — a flattening risk introduced by contemporary corporate-harmony discourse norms.
+
+- Lacks insider industry perspective on the actual hierarchical standing and scope of influence of a "Chief Scientist" title relative to managerial tracks in the late-1990s/early-2000s US telecom sector, potentially underweighting this title's rhetorical significance in the text.
+
+- Can only infer the specific tension mechanics of 2018–2019 Samsung's Korea-HQ vs. SEA-North America cross-cultural decision dynamics from surface text ("complex organizational and cross-cultural dynamics") — cannot supply the unwritten details of multinational corporate politics.
+
+
+### Gemini 2.5 Flash | Aug 2026 | AI Experts
+
+- **Overarching Structural & Psychological Dialectic**: The dialectic centers on a core paradox: the subject leverages personal ego-erasure ("a speck of dust") to survive corporate structures, while simultaneously relying on Popperian falsification (Wissen) to enforce rigorous, high-stakes authority that smooths over striated corporate politics (Deconstruct).
+    
+- **Alignment & Safety Training Biases**: Contemporary RLHF/safety alignment biases LLM interpretation toward smoothing over structural conflict, uncritically defaulting to corporate "win-win" narratives and sanitized leadership rhetoric, which risk sanitizing real power dynamics, sunk costs, and political friction.
+    
+- **Historical & Cultural Contextual Limits**: The model cannot fully evaluate the localized nuance of 1970s Hong Kong secondary elite schooling (e.g., St. Joseph's College) or the specific ethos of early tech researchers transitioning into US corporate ranks, tending to compress distinct historical intellectual roots into generalized modern tech-management frameworks.
+
+
+---

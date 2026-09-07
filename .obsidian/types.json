@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "related": "text",
+    "parents": "multitext",
+    "children": "multitext",
+    "authors": "multitext",
+    "persons": "multitext"
+  }
+}

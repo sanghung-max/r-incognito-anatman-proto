@@ -1,0 +1,75 @@
+---
+id: "B-D__002C"  
+parents: ["B-0__D000", "2-0__Z000", "A-0__B020"]
+authors: "R. Incognito"
+type: "img" 
+
+title_en: "NYC Where Spectres Thrive"
+title_zh: "紐約萬聖節(1)"
+
+
+time: "2018-11-02"
+location: "USA"
+
+ui_render: true
+display_priority: false
+
+img_color: assets/board-B/img_color/B-D__002C_2018-11-02-nyc-where-spectres-thrive.webp
+img_thumb: assets/board-B/img_thumb/B-D__002C_2018-11-02-nyc-where-spectres-thrive.webp
+---
+
+## 觀景 / vista
+
+
+
+
+
+---
+
+## 亂語 / text
+
+*(Chinese background context)*
+
+*(English background context)*
+
+---
+
+## 懸置 / epoché
+
+*(Chinese epoché description)*
+
+*()*
+
+---
+
+## 理解 / wissen
+
+*(Chinese analysis)*
+
+* (photo metadata: Resolution: 838x1572 px, Device: samsung SM-G950U, f/1.7, 0.041666666666666664s, ISO-250, 4mm, Coordinates: 40.7426° N, -74.0062° E, Digital Capture Date: 2018:11:02 09:11:32. Subject contextual date: 2018-11-02.) *
+
+---
+
+## 詮釋 / interpret
+
+*(Chinese hermeneutics)*
+
+*(English hermeneutics)*
+
+---
+
+## 拆建 / deconstruct
+
+*(Chinese deconstructive critique)*
+
+*(English deconstructive critique)*
+
+---
+
+## 評語 / ai expert critics
+
+*(Chinese AI criticism)*
+
+*(English AI criticism)*
+
+---

@@ -1,0 +1,75 @@
+---
+id: "B-D__000A"  
+parents: ["B-0__D000", "1-0__Z000", "A-0__B020"]
+authors: "Frances Hung"
+type: "img" 
+
+title_en: "Ant Drinking Straw"
+title_zh: "螞蟻飲管"
+
+
+time: "2016-10-09"
+location: "USA"
+
+ui_render: true
+display_priority: false
+
+img_color: assets/board-B/img_color/B-D__000A_2016-10-09-ant-drinking-straw.webp
+img_thumb: assets/board-B/img_thumb/B-D__000A_2016-10-09-ant-drinking-straw.webp
+---
+
+## 觀景 / vista
+
+
+
+
+
+---
+
+## 亂語 / text
+
+*(Chinese background context)*
+
+*(English background context)*
+
+---
+
+## 懸置 / epoché
+
+*(Chinese epoché description)*
+
+*()*
+
+---
+
+## 理解 / wissen
+
+*(Chinese analysis)*
+
+* (photo metadata: Resolution: 2290x2120 px, Device: Panasonic DMC-ZS20, f/4.0, 0.00125s, ISO-100, 4mm, Digital Capture Date: 2016:10:09 16:15:56. Subject contextual date: 2016-10-09.) *
+
+---
+
+## 詮釋 / interpret
+
+*(Chinese hermeneutics)*
+
+*(English hermeneutics)*
+
+---
+
+## 拆建 / deconstruct
+
+*(Chinese deconstructive critique)*
+
+*(English deconstructive critique)*
+
+---
+
+## 評語 / ai expert critics
+
+*(Chinese AI criticism)*
+
+*(English AI criticism)*
+
+---

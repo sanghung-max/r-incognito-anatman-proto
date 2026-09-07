@@ -1,0 +1,11 @@
+# Exclude Node dependencies
+node_modules/
+
+# Exclude build output / temp folders
+dist/
+build/
+.cache/
+
+# Exclude OS system files
+Thumbs.db
+.DS_Store

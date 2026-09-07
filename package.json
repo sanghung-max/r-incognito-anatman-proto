@@ -1,0 +1,48 @@
+{
+  "name": "ri-archives",
+  "version": "1.0.0",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron .",
+	"pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.riarchives.app",
+    "productName": "RI Archives",
+    "files": [
+      "electron-main.js",
+      "index.html",
+	  "style.css",
+      "js/**/*"
+    ],
+	"extraResources": [
+	 {
+		"from": "assets",
+		"to": "assets"
+	 }
+	],
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.png"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "assets/icon.png"
+    }
+  },
+  "dependencies": {
+    "0g": "^0.4.2",
+    "npm": "^12.0.2"
+  },
+  "allowScripts": {
+    "electron@30.5.1": true
+  }
+}

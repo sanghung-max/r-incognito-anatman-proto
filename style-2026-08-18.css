@@ -1,0 +1,779 @@
+/* ==========================================================================
+   1. Baseline Reset & Document Grid Structure
+   ========================================================================== */
+body {
+  margin: 0;
+  background-color: #121212;
+  font-family: "Consolas", Monaco, monospace;
+  color: #ffffff;
+}
+
+.app-viewport {
+  display: flex;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#archive-container {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ==========================================================================
+   2. Dynamic Layout Tiers (Level 1, Level 2, and Level 3)
+   ========================================================================== */
+
+/* LEVEL 1: Broad Boards (Fluid Masonry Style) */
+.board-grid.level-boards {
+  column-width: 300px; 
+  column-gap: 24px;   
+  padding: 40px;
+  display: block;
+}
+.level-boards .board-tile {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+/* Apply capped track sizes to BOTH Level 2 and Level 3 grids */
+.board-grid.level-mesoscopic,
+.board-grid.level-gallery,
+.board-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 280px));
+  justify-content: center;
+  gap: 24px;
+  padding: 0 40px 40px 40px;
+}
+
+/* Ensure individual tiles never expand past 320px regardless of level */
+.board-tile,
+.level-mesoscopic .board-tile,
+.level-gallery .board-tile {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+/* Container badge overlay positioning */
+.board-badge {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  padding: 3px 8px;
+  border-radius: 12px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* Hide badge when hovering over card */
+.board-tile:hover .board-badge {
+  opacity: 0;
+}
+
+/* Embedded SVG styling */
+.type-icon {
+  width: 12px;
+  height: 12px;
+  stroke: rgba(255, 255, 255, 0.85);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Specialized subtle tints for media types */
+.board-badge.type-pdf .type-icon { stroke: #f87171; }    /* Muted Red */
+.board-badge.type-audio .type-icon { stroke: #60a5fa; }  /* Muted Blue */
+.board-badge.type-video .type-icon { stroke: #34d399; }  /* Muted Green */
+
+.pdf-icon {
+  color: #ff0000;
+}
+
+/* ==========================================================================
+   3. Pure Typography & Hover Animations
+   ========================================================================== */
+.board-tile {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  background-color: #121212;
+}
+
+.board-tile:hover img {
+  transform: scale(1.03);
+  opacity: 0.18;
+  filter: grayscale(100%);
+}
+
+/* Dynamic Pill Badge (Item Count & Age Capsule) */
+.board-tile[data-badge]::after {
+  content: attr(data-badge);
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding: 3px 9px;
+  border-radius: 20px;
+  z-index: 10;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.board-tile:hover::after {
+  opacity: 0;
+}
+
+/* Typography Canvas Overlay */
+.tile-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  box-sizing: border-box;
+  text-align: center;
+  pointer-events: none;
+}
+
+.tile-title, .tile-desc {
+  opacity: 0;
+  transform: scale(0.96);
+  transition: opacity 0.35s ease-out, transform 0.35s ease-out;
+}
+
+.board-tile:hover .tile-title,
+.board-tile:hover .tile-desc {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.tile-title {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0 0 6px 0;
+  letter-spacing: 0.04em;
+}
+
+.tile-desc {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* ==========================================================================
+   4. Context Headers & Sidebar Panel Elements
+   ========================================================================== */
+.meso-header-block {
+  width: 100%;
+  max-width: 900px;
+  padding: 40px 40px 20px 40px;
+  box-sizing: border-box;
+}
+
+.meso-header-block h2 {
+  font-size: 1.8rem;
+  margin: 0 0 12px 0;
+  letter-spacing: 0.05em;
+}
+
+.meso-header-block p {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.back-btn {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.6);
+  padding: 6px 14px;
+  font-family: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: all 0.2s;
+}
+
+.back-btn:hover {
+  border-color: #ffffff;
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Sidebar Interface */
+#expert-side-nav {
+  background: #181818;
+  border-left: 1px solid #282828;
+  transition: width 0.35s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.3s;
+  overflow: hidden;
+  position: relative;
+  z-index: 100;
+  pointer-events: auto;
+}
+
+/* Visibility and Multi-Stage Width Extent Tiers */
+.side-nav-hidden { 
+  width: 0px !important; 
+  opacity: 0; 
+  pointer-events: none; 
+  border-left: none !important; 
+}
+
+.side-nav-compact { width: 80px; opacity: 0.8; }
+.side-nav-standard { width: 380px; opacity: 1; }
+.side-nav-split { width: 50%; opacity: 1; }
+.side-nav-expanded { width: 75%; opacity: 1; }
+.side-nav-full { width: 90%; opacity: 1; }
+
+.sidebar-sticky-content {
+  padding: 24px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Drawer Controls Toolbar */
+.drawer-controls {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 4px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  margin-bottom: 16px;
+}
+
+.drawer-btn {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 5px 8px;
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.drawer-btn:hover {
+  color: #ffffff;
+  background: #383838;
+}
+
+.drawer-btn.active {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #282828;
+  padding-bottom: 10px;
+  cursor: pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 101;
+}
+
+.tab-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: inherit;
+  font-size: 0.85rem;
+  padding: 4px 8px;
+  transition: color 0.2s;
+  cursor: pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 101;
+}
+
+/* Tiny dot indicating content exists */
+.tab-btn.has-content::after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  width: 5px;
+  height: 5px;
+  background-color: #64b5f6;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+
+.tab-btn.active {
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+
+.tab-display-pane {
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* Drawer Table Formatting */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin: 16px 0;
+}
+
+.archive-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #ddd;
+}
+
+.archive-table th,
+.archive-table td {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.archive-table th {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* List Formatting */
+.archive-content-block ul,
+.archive-content-block ol {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.archive-content-block li {
+  margin-bottom: 4px;
+  line-height: 1.5;
+}
+
+.muted-notice {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+/* Title Layout */
+.node-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.title-zh { font-weight: 600; }
+.title-sep { opacity: 0.4; font-weight: normal; }
+.title-en { font-weight: 400; opacity: 0.9; }
+
+/* Description Layout */
+.node-description { margin-top: 0.5rem; }
+.desc-zh, .desc-en { margin: 0.25rem 0; line-height: 1.5; }
+.desc-en { opacity: 0.8; font-size: 0.95em; }
+
+/* Authors Line Layout */
+.node-authors {
+  margin-top: 0.35rem;
+  font-family: inherit;
+  font-size: 0.95em;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.node-authors .author-label {
+  opacity: 0.5;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+  margin-right: 4px;
+}
+
+.node-authors .author-names {
+  opacity: 0.85;
+}
+
+/* Preserve line breaks in text block containers */
+.node-description,
+.node-text-block,
+.vista-content,
+#media-viewport p {
+  white-space: pre-line;
+  line-height: 1.6;
+}
+
+/* Consolidated Paragraph Spacing */
+.node-description p,
+.vista-content p,
+.text-content p,
+#media-viewport p,
+.tab-pane p,
+#sidebar-tab-content p,
+.archive-content-block p,
+.bilingual-column p,
+.single-content-container p {
+  display: block !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.35em !important;
+  line-height: 1.65 !important;
+}
+
+/* Ensure poem/stanza breaks (<br>) create visible vertical line gaps */
+.vista-content p br,
+.text-content p br,
+#sidebar-tab-content br,
+.tab-pane br,
+.archive-content-block br,
+.bilingual-column br {
+  display: inline !important;
+  line-height: 2 !important;
+}
+
+/* ==========================================================================
+   5. Breadcrumb & Top Bar Navigation
+   ========================================================================== */
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  position: relative;
+  background: #121212;
+}
+
+.breadcrumb-nav {
+  padding: 0;
+  font-family: "Consolas", Monaco, monospace;
+  font-size: 0.8rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.breadcrumb-item.active {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.breadcrumb-link {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: flex;
+  align-items: center;
+}
+
+.breadcrumb-link:hover { color: #ffffff; }
+
+.breadcrumb-zh { opacity: 0.6; margin-left: 4px; }
+.breadcrumb-separator { color: rgba(255, 255, 255, 0.25); user-select: none; }
+
+/* ==========================================================================
+   6. Find Filter UI & Drawer Extent Controls
+   ========================================================================== */
+.find-icon-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.find-icon-btn:hover {
+  color: #ffffff;
+  transform: scale(1.08);
+}
+
+.find-dropdown-panel {
+  position: absolute;
+  top: 100%;
+  right: 24px;
+  z-index: 1000;
+  width: 280px;
+  background: #181818;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+  padding: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.find-dropdown-panel.hidden {
+  display: none;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.filter-group label {
+  font-size: 0.72rem;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.filter-group select {
+  background: #242424;
+  border: 1px solid #383838;
+  color: #ffffff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.85rem;
+}
+
+/* Standardized Header Navigation Icons */
+.nav-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+  stroke: rgba(255, 255, 255, 0.55);
+  transition: stroke 0.2s ease, transform 0.2s ease;
+}
+
+/* Hover state for both icons */
+.breadcrumb-link:hover .nav-icon,
+.find-icon-btn:hover .nav-icon {
+  stroke: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Example layout styling for bilingual columns */
+.bilingual-container {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+.bilingual-column {
+  flex: 1;
+  min-width: 0;
+}
+.section-sublabel {
+  font-size: 0.85rem;
+  color: #718096;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ==========================================================================
+   Floating Peek Toggle Button & Overlay States
+   ========================================================================== */
+
+.peek-toggle-btn {
+  position: fixed;
+  right: 16px;
+  top: 72px;
+  z-index: 1050;
+  background: #181818;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.6);
+  padding: 8px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: all 0.25s cubic-bezier(0.25, 1, 0.5, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.peek-toggle-btn:hover {
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.6);
+  transform: translateY(-1px);
+  background: #222222;
+}
+
+.peek-toggle-btn.active {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.peek-toggle-btn.hidden {
+  display: none !important;
+}
+
+.peek-badge-dot {
+  width: 6px;
+  height: 6px;
+  background-color: #3b82f6;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Fixed positioning overlay mode for non-leaf drawer peek */
+.side-nav-overlay-peek {
+  position: fixed !important;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.7);
+}
+
+/* ==========================================================================
+   Horizontal Scrollable Drawer Tabs (Hover Scrollbar Fix)
+   ========================================================================== */
+
+/* Apply flex constraints to both container and tab bar */
+#drawer-tabs,
+.drawer-tabs {
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 16px;
+  white-space: nowrap;
+  
+  width: 100%;
+  min-width: 0; 
+  box-sizing: border-box;
+
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  transition: scrollbar-color 0.25s ease;
+}
+
+/* Chrome, Safari, Edge Scrollbar track & thumb */
+#drawer-tabs::-webkit-scrollbar,
+.drawer-tabs::-webkit-scrollbar {
+  height: 5px;
+}
+
+#drawer-tabs::-webkit-scrollbar-track,
+.drawer-tabs::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#drawer-tabs::-webkit-scrollbar-thumb,
+.drawer-tabs::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 4px;
+  transition: background-color 0.25s ease;
+}
+
+/* Hover State: Directly targets the tabs element when mouse enters it */
+#drawer-tabs:hover,
+.drawer-tabs:hover {
+  scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+}
+
+#drawer-tabs:hover::-webkit-scrollbar-thumb,
+.drawer-tabs:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+#drawer-tabs::-webkit-scrollbar-thumb:hover,
+.drawer-tabs::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+/* Prevent tab buttons from shrinking */
+.drawer-tab-btn,
+.tab-btn {
+  flex: 0 0 auto !important;
+  white-space: nowrap;
+}
+
+/* ==========================================================================
+   Board Tile Image Aspect Ratio & Bounding Box
+   ========================================================================== */
+
+.board-tile img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+  display: block;
+  transition: transform 0.4s ease-out, opacity 0.4s ease-out, filter 0.4s ease-out;
+}
+
+/* LEVEL 1: Fluid Masonry Height Override */
+.level-boards .board-tile img {
+  aspect-ratio: auto;
+  height: auto;
+}
+
+/* LEVEL 2 & 3: Mesoscopic & Atomic Galleries */
+.level-mesoscopic .board-tile img,
+.level-gallery .board-tile img {
+  aspect-ratio: 1 / 1;
+  height: auto;
+}

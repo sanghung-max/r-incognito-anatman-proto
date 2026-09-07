@@ -1,0 +1,12 @@
+{
+  "id": "C-C__0016",
+  "content_sections": {
+    "觀景 vista": "The purpose of this document is to provide the forecasters in the\nDemand Forecast Center with practical guide and tutorials of using the\nIntegrated Staffing Model Prototypе.\nThere are four tutorials covering various aspects of the prototype.\nThese include doing a simple forecast with ISM on the staffing level of\nH&PS CMC agents, using ISM forecast on number of SA Technicians\nand varying one external input variable, and a complex scenario of\nconducting an ISM forecast of POTS I&M Technicians. The last tutorial\ncovers the use of a queuing model template independent of the ISM.",
+    "亂語 text": "The purpose for developing the ISM is to provide a forecasting method\nwhich enables the DFC to more accurately anticipate the need for US\nWEST call cenetr agents and field technicians and to strategically\nposotion U S WEST to meet and evaluate this need within an\nintegrated framework.\nThe ISM incorporates a basic, high-level understanding of US WEST\noperations, using the explanatory power inherent in causal models to\npredict the staffing impacts of future corporate decisions.",
+    "懸置 epoché": "The prototype version of the ISM is intended to be a proof of concept.\nThe prototype links core processes of U S WEST operations using\navailable data and subject matter expert estimates to model the effects\nof actions and decisions in one core process on other processes.\nThe ISM prototype has been built at a high level, considering the 14\nstate region to be the basic unit of geography and core processes to be\nthe basic unit of work groups.\nThe prototype version represents the first iteration of the the ISM System. One purpose of this prototype is to identify areas of\nimprovement and changes for the production system.",
+    "理解 wissen": "Because of the time and resource constraints in the development, the\nprototype is subject to the following limitations:\nThe user interface design reflects the optimal use of limited\nresources and time rather than the optimal layout from the\nusability or user interface standard perspective.\nThe input and output data may not be presented in a formatted and\neasy-to-understand form.\nThe forecasts will be done at the company level.\nThe data for June 95 will be available for forecast",
+    "詮釋 interpret": "",
+    "拆建 deconstruct": "",
+    "評語 ai-experts": ""
+  }
+}

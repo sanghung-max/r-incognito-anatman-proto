@@ -1,0 +1,117 @@
+---
+id: 4-0__C000
+type: folder
+parents: 4-0__0000
+title_en: steamrolled hk robots courtesy of ccp
+title_zh: 免治港人
+ui_render: true
+img_color: assets/board-B/img_color/B-D__0033_2014-07-03-hk-honeymoon-dessert.webp
+img_thumb: assets/board-B/img_thumb/B-D__0033_2014-07-03-hk-honeymoon-dessert.webp
+---
+
+## 觀景 / vista
+
+
+
+
+
+---
+
+## 亂語 / text
+
+## Chinese
+
+### 堅持港人治港,堅持香港政制民主化——向匯點致敬
+
+**免治港人**
+
+我們現正朝著一個偉大的歷史目標前進,得到初步的成果,港英派已經作大轉軚,要承認及接受政治現實,歷史的巨輪是不能抵抗的。我們要堅持港人治港,堅持中國在一九九七年恢復香港主權,堅持香港政制民主化,現況是值得鼓舞的,港英公開表示立法局會在不久將來舉行民選,我們要堅持到底,使香港可以邁向一個高度民主化的社會。
+
+在堅持民族主義和民主化的前提下,匯點、新香港學會……等的團體為香港五百萬居民、為廣大民眾爭取利益,它們的貢獻是正面的、有益的、有建設性的。《學苑》中一小撮文章正在進行破壞這些堅持,一些作者更猛烈地打擊港人治港的信心,以為民主化不可行,向匯點的成員(方卡謬先生、艾凡先生、盧子健同學等)作無理及惡毒的批評和攻擊,謾罵他們的意識形態,這類反面作者利用一些「洋奴理論」去作假學術,實只是負面地作人格攻擊。
+
+要知道艾凡先生在葡轄澳門有廠房投資,妻子為美國公民,還如虎似狼一般為港人治港盡力,當上匯點的主席,又在某報副刊及一些雜誌撰文,多次出席座談會和講座……他犧牲自我的精神是值得我們效法的。方卡謬先生更從七十年代開始便對社會現象有尖銳的批判,他在《文化新潮》、《財經日報副刊之香江評論》及《號外》等有很多文章,讓我隨便抽些內容和大家分享:「岑逸飛食美國飯,戴天借醉調戲文化八婆……龜頭之下無淨土,故此,戴天實在無需為自己的龜頭活動懊悔……」(《文化新潮》第七期,頁27)、「錢瑪利小姐坦蕩蕩之際,竟然毫無睇頭,兩隻乳房(if it is the right word)小得可憐,正一煎爛荷包蛋,乳頭則像肚臍餅……成隻淫羊咁款,收到我脹。」(《文化新潮》第八期,頁55)、「張有為……不怪自己奴才成性,文化販子作秀如此,無恥如此……同樣等而下之者,則是『香港前途社』一撮酸秀才……」(《香江評論》31-1-84),總之都是方卡謬夠堅,大罵港英、小資產階級的港獨、反對或不信「港人治港」者為「過街老鼠」、「奴才」、「政治侏儒」,他詞鋒尖銳,對這些「文化奴才走狗」點名批鬥,真是一流一流,拍案叫絕!!他的人格是絕頂好的,不容《學苑》某小撮小人破壞。
+
+我希望每位堅持港人民主治港的同志向方卡謬學習,閱讀他在各報刊的無數作品。無論在思想和行為上,方卡謬先生真不愧為香港的新文化人!【唐老番】說得好——方卡謬先生還比李敖勁!
+
+除了匯點以外,黃夢花醫生也是很值得尊敬的,他身為加拿大籍人,但仍然努力不懈地為香港工作,放棄了只能引致政治自殺的「港獨」思想,投入我們的行列中。黃麗松校長更是我們應該學習的模範,他雖然是新加坡公民,但也非常關心香港前途問題,對推行港人治港不遺餘力,他們的行動都是有建設性、符合整個歷史政治環境的。
+
+令人可喜的是,許家屯先生也曾出席過港大的評議會及匯點一週年的會議,這點証明中國非常重視今天的知識份子。我們必定可以改變現狀,正如盧子健兄所說,大顯身手,一齊建設,為香港人爭取光榮。
+
+我提議由上述的人才選出將來的市長,領導香港人進行民主改革,使我們的前途似錦,光明磊落,無愧於天!
+
+歷史一次又一次證明,堅持港人治港和港人民主化是香港的唯一出路,那些虛無主義、個人主義者勢必失效。我們在這個歷史契機的基本任務和使命是建設一個高度民主自治的香港,讓我們繼續完成這個基本責任,為中國的統一盡力。
+
+**
+
+**
+## English
+
+(translated by Gemini: preserving the essay's sarcastic register — this is satire, not sincere praise)
+
+### Uphold "Hong Kong People Ruling Hong Kong," Uphold the Democratization of Hong Kong's Political System — A Tribute to Meeting Point
+
+By Minced Hong Kong Person
+
+We are now marching toward a great historic goal, and initial results are in: the pro-British-Hong-Kong faction has already made a great about-face, forced to acknowledge and accept political reality — the great wheel of history cannot be resisted. We must uphold "Hong Kong people ruling Hong Kong," uphold China's resumption of sovereignty over Hong Kong in 1997, and uphold the democratization of Hong Kong's political system. The present situation is most encouraging: the British Hong Kong government has publicly stated that the Legislative Council will hold direct elections in the near future. We must hold firm to the end, so that Hong Kong may advance toward a highly democratized society.
+
+Under the banner of nationalism and democratization, organizations such as Meeting Point and the New Hong Kong Society... fight for the interests of Hong Kong's five million residents, for the broad masses of the people; their contributions are positive, beneficial, and constructive. A small handful of articles in Undergrad have been busy undermining these commitments — certain authors have gone so far as to fiercely attack public confidence in "Hong Kong people ruling Hong Kong," believing democratization to be unworkable, and have leveled unreasonable and vicious criticism and attacks at members of Meeting Point (Mr. Fong Ka-mau, Mr. Alvin, fellow student Lo Chi-kin, and others), hurling abuse at their ideology. This breed of oppositional writer dresses up "foreign-lackey theory" as fake scholarship, when in truth it is nothing but negative, personal character assassination.
+
+One must appreciate that Mr. Alvin has factory investments in Portuguese-administered Macau, and his wife holds American citizenship — yet still he throws himself, fierce as a tiger, into the cause of "Hong Kong people ruling Hong Kong," having risen to chairman of Meeting Point, publishing in a certain newspaper's supplement and various magazines, and appearing repeatedly at forums and lectures... His spirit of self-sacrifice truly deserves our emulation. Mr. Fong Ka-mau, meanwhile, has offered sharp criticism of social phenomena since as far back as the 1970s, publishing extensively in New Wave Culture, the "Hong Kong Commentary" column of a certain financial newspaper's supplement, and City Magazine. Allow me to share a few excerpts at random: "Shum Yat-fei feeds off American rice, Tai Tin gets drunk and gropes cultural bimbos... there is no pure ground beneath the glans, and so Tai Tin need feel no remorse whatsoever for his glans-related activities..." (New Wave Culture, Issue 7, p. 27); "When Ms. Money Mary bared it all, there was, astonishingly, nothing worth looking at — her two breasts (if that is even the right word) were pitifully small, like two overcooked fried eggs, and her nipples resembled navel-orange cakes... a proper lascivious sheep of a woman — she made me sick." (New Wave Culture, Issue 8, p. 55); "As for Cheung Yau-wai... he has no one to blame but his own servile disposition; that a cultural huckster should put on such a shameless show... equally beneath contempt are that handful of sour scholars from the 'Hong Kong Future Society'..." (Hong Kong Commentary, 31 January 1984). In short, Fong Ka-mau alone has the guts to loudly denounce the pro-British-Hong-Kong faction, petit-bourgeois Hong Kong independence advocates, and anyone who opposes or disbelieves in "Hong Kong people ruling Hong Kong" as "rats fleeing across the street," "lackeys," "political dwarfs" — his pen is sharp indeed, and he calls out these "cultural lackeys and running dogs" by name for public struggle-session — truly first-rate, truly worthy of applause!! His character is of the very highest order, and must not be tarnished by this small clique of petty men within Undergrad.
+
+I hope every comrade committed to "Hong Kong people's democratic rule of Hong Kong" will learn from Fong Ka-mau, and read his countless works across the various papers and journals. In both thought and conduct, Mr. Fong Ka-mau is truly worthy of the title "new culture person" of Hong Kong! As rightly said — Mr. Fong Ka-mau even outdoes Li Ao!
+
+Besides Meeting Point, Dr. Wong Mung-fa also deserves great respect: though a Canadian citizen, he still works tirelessly for Hong Kong, having abandoned the "Hong Kong independence" line of thinking that could only lead to political suicide, and joined our ranks instead. Vice-Chancellor Wong Rayson is even more a model for us to learn from: though a citizen of Singapore, he too cares deeply about the question of Hong Kong's future, and has spared no effort in promoting "Hong Kong people ruling Hong Kong." Their actions are all constructive, entirely in keeping with the whole historical and political environment.
+
+Most gratifying of all is that Mr. Xu Jiatun himself has attended both HKU's Council meetings and Meeting Point's first-anniversary gathering — proof that China attaches the greatest importance to today's intellectuals. We shall surely be able to change the present situation — as brother Lo Chi-kin himself put it, let us rise to the occasion, build together, and win glory for the people of Hong Kong.
+
+I propose that the future mayor be elected from among the talents named above, to lead the people of Hong Kong in democratic reform, so that our future may be as bright as brocade, upright and aboveboard, worthy before Heaven!
+
+History has proven, again and again, that upholding "Hong Kong people ruling Hong Kong" and Hong Kong's democratization is Hong Kong's only way forward; those nihilists and individualists are bound to fail. Our fundamental task and mission, at this historic juncture, is to build a highly democratic, self-governing Hong Kong. Let us continue to fulfill this fundamental responsibility, and do our utmost for the reunification of China.
+
+---
+
+One thing worth flagging for the archive: this satirical attack on Fong Ka-mau reproduces, verbatim, sexually degrading language about a named real woman ("Ms. Money Mary"), quoted in order to shame Fong rather than her — but the passage itself remains a piece of misogynistic writing about a real, identifiable person, now preserved twice over (once by Fong, once by this author quoting him approvingly-ironically). Worth deciding, if this material gets compiled or published in any form, whether that quotation should be redacted, summarized, or handled with an editorial note rather than reproduced in full.
+
+**
+
+---
+
+## 懸置 / epoché
+
+
+
+
+
+ ---
+
+## 理解 / wissen
+
+
+
+
+
+ ---
+
+## 詮釋 / interpret
+
+
+
+
+
+---
+
+##  拆建/ deconstruct
+
+
+
+
+
+---
+
+##  評語 /ai expert critics
+
+
+
+
+
+---

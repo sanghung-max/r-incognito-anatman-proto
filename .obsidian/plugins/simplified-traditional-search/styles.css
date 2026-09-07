@@ -1,0 +1,32 @@
+/* CJK Search settings styles */
+
+.uccs-settings-note {
+  margin: 0 0 12px 0;
+  padding: 8px 12px;
+  background: var(--background-secondary);
+  border-radius: 6px;
+  font-size: var(--font-smaller);
+  line-height: 1.6;
+}
+
+.uccs-settings-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.uccs-settings-table th {
+  text-align: left;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.uccs-settings-table td {
+  padding: 2px 8px;
+}
+
+.uccs-settings-notice {
+  margin-top: 16px;
+  font-size: var(--font-smallest);
+  color: var(--text-muted);
+  line-height: 1.5;
+}
