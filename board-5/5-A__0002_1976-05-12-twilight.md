@@ -12,7 +12,7 @@ authors:
 time: 1976-05-12
 location: Hong Kong
 ui_render: true
-display_priority: true
+display_priority: false
 img_thumb: assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp
 pdf: assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf
 pdf_thumbnail: assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp

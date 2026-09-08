@@ -14,7 +14,7 @@ authors:
 time: 1976-04-30
 location: Hong Kong
 ui_render: true
-display_priority: true
+display_priority: false
 img_thumb: assets/board-5/img_thumb/5-A__0001_1976-04-30-stellar-laudation.webp
 pdf: assets/board-5/pdfs/5-A__0001_1976-04-30-stellar-laudation.pdf
 pdf_thumbnail: assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp

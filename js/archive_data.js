@@ -2270,6 +2270,8 @@ window.ARCHIVE_DATA = {
       "5-A__0001",
       "5-A__0002",
       "5-A__0003",
+      "5-A__0004",
+      "5-A__0005",
       "B-D__A007"
     ],
     "leaf_count": 0,
@@ -2522,7 +2524,7 @@ window.ARCHIVE_DATA = {
     "time": "1976-04-30",
     "location": "Hong Kong",
     "ui_render": true,
-    "display_priority": true,
+    "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
@@ -2566,7 +2568,7 @@ window.ARCHIVE_DATA = {
     "time": "1976-05-12",
     "location": "Hong Kong",
     "ui_render": true,
-    "display_priority": true,
+    "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
@@ -2607,7 +2609,89 @@ window.ARCHIVE_DATA = {
     "time": "1976-05-12",
     "location": "Hong Kong",
     "ui_render": true,
-    "display_priority": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "5-0__A000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text"
+    ]
+  },
+  "5-A__0004": {
+    "id": "5-A__0004",
+    "type": "pdf",
+    "title_en": "Nature 1976",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-03-31",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "5-0__A000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text"
+    ]
+  },
+  "5-A__0005": {
+    "id": "5-A__0005",
+    "type": "pdf",
+    "title_en": "Guiding 1976",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-04-25",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
@@ -6768,6 +6852,8 @@ window.ARCHIVE_DATA = {
       "5-A__0001",
       "5-A__0002",
       "5-A__0003",
+      "5-A__0004",
+      "5-A__0005",
       "6-A__0002",
       "6-A__0003",
       "6-B__0001",
@@ -6795,6 +6881,13 @@ window.ARCHIVE_DATA = {
       "7-D__0005",
       "7-D__0006",
       "A-D__0001",
+      "A-D__0002",
+      "A-D__0003",
+      "A-D__0004",
+      "A-D__0005",
+      "A-D__0006",
+      "A-D__0007",
+      "A-D__0008",
       "B-C__0001",
       "B-C__0002",
       "B-C__0003",
@@ -6855,7 +6948,7 @@ window.ARCHIVE_DATA = {
       "Yat-Sang Hung",
       "無我"
     ],
-    "time": "1976-02-01",
+    "time": "1976-12-31",
     "location": "Hong Kong",
     "ui_render": true,
     "display_priority": false,
@@ -6865,7 +6958,159 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-sjc-notebook1.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0002": {
+    "id": "A-D__0002",
+    "type": "pdf",
+    "title_en": "Note Book 2 1977",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1977-06-21",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0002_1977-06-21_sjc-hkbc-notebook2.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0003": {
+    "id": "A-D__0003",
+    "type": "pdf",
+    "title_en": "Note Book 3 1978",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-04-30",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0003_1978-04-30_sjc-hkbc-notebook3.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0004": {
+    "id": "A-D__0004",
+    "type": "pdf",
+    "title_en": "Note Book 4 1978",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-05-09",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 essays.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0005": {
+    "id": "A-D__0005",
+    "type": "pdf",
+    "title_en": "Loose Pages 5 1978",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-05-24",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0005_1978-05-24_sjc-hkbc-loose-pages.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
       }
     ],
@@ -6880,9 +7125,122 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "觀景 vista",
       "亂語 text"
     ]
+  },
+  "A-D__0006": {
+    "id": "A-D__0006",
+    "type": "pdf",
+    "title_en": "Loose Pages 6 1978",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-11-21",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21_sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0007": {
+    "id": "A-D__0007",
+    "type": "pdf",
+    "title_en": "Loose Pages 7 1979",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1979-08-01",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0007_1979-08-01_late-hkbc-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-D__0008": {
+    "id": "A-D__0008",
+    "type": "pdf",
+    "title_en": "Loose Pages 8 1983",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1983-04-09",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0008_1983-04-09_hku-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
   },
   "B-0__0000": {
     "id": "B-0__0000",
