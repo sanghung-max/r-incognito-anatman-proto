@@ -9,7 +9,7 @@ authors:
   - 無我
   - 老迅芝
 type: img
-title_en: Personae Crisis
+title_en: Personae Crisis 1982
 title_zh: 面譜 學生會的一個危機,個人的一個危機
 time: 1982-11-22
 location: USA

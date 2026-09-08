@@ -5,7 +5,7 @@ parents:
   - 3-0__B000
   - B-0__B000
   - A-0__D000
-title_en: Arguing with ChatGPT as Devout Christian
+title_en: Arguing with ChatGPT as Devout Christian 2026
 title_zh:
 authors:
   - GODOG

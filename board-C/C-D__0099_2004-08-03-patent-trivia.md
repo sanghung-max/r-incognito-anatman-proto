@@ -6,7 +6,7 @@ parents:
   - A-0__C040
   - B-0__B000
   - A-0__C000
-title_en: Patents Trivia (12 granted)
+title_en: Patents Trivia (12 granted) 2008
 authors:
   - Yat-Sang Hung
   - + various

@@ -40,7 +40,7 @@ img_thumb: assets/board-M/img_thumb/M-B__0005_2018-01-27-lost.webp
 ## 亂語 / text
 
 ### 40th Anniversary@usa Walking through the Valley of Thanatos (2026)
-*August 28 2026*                                                                              R. Incognito, 無我
+*August 28 2026*                                                                   R. Incognito, 無我
 
 GODOG walk through the Valley of Thanatos every day every second and fear not - GODOG is Thanatos Incarnate.  So every living entity also walks through the Valley of Thanatos every day, irrespective of whether they are conscious of the chance of death or not.  GODOG may be hit by a meteor from outer space any time.  Any freak accident or natural calamities can claim lives in an instant.
 
@@ -56,7 +56,7 @@ Eventually, MRI and Ultrasound were also added for routine monitoring.  When the
 
 As of 2026, R. Incognito was still on the high risk development of  hepatocellular carcinoma per medical records and required ultrasound monitoring every 6 months.  Being alive carries death risk every moment and the risk tend to increase with age.  Death almost certainly will happen.  "Is it really falsifiable?"  大頭B  interrupted.
 
-GODOG would ask: "how God would comfort me with His Almighty rod and staff in the Valley of Thanatos?" GOD answered with his staff and rod: "Hit your big asinine head! MY corporal work of mercy - **打笨頭** !! You blow ME Idiot!! cGODOG. I AM with you all the time! "
+GODOG would ask: "how God would comfort me with His Almighty rod and staff in the Valley of Thanatos?" GOD answered with his staff and rod: "Hit your big asinine head! MY corporal work of mercy - **打笨頭** !! You blow ME Idiot!! GODOG. I AM with you all the time! "
 
 
 ---

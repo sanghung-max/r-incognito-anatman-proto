@@ -3,7 +3,7 @@ id: 4-B__0004
 type: pdf
 parents:
   - 4-0__B000
-title_en: Thatcher :etter Incident 1983
+title_en: Thatcher Letter Incident 1983
 title_zh: 致戴事件始末
 authors:
   - 學苑資料室

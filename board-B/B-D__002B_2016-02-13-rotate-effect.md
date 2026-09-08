@@ -1,7 +1,11 @@
 ---
 id: B-D__002B
-parents: ["B-0__D000", "9-0__Z000", "A-0__B020"]
-authors: "Frances Hung"
+parents:
+  - B-0__D000
+  - 9-0__Z000
+  - A-0__B020
+authors:
+  - R. Incognito
 type: img
 title_en: My World Swirls
 title_zh: 天旋地轉

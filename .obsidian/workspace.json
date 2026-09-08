@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-A/A-D__0001_1976-12-31-sjc-notebook1.md",
+                "file": "board-A/A-0__B000_galleries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-D__0001_1976-12-31-sjc-notebook1"
+              "title": "A-0__B000_galleries"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 441.5
   },
   "right": {
     "id": "b3c46a65f8460f80",
@@ -185,22 +185,40 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
-    "board-A/A-D__0008_1983-04-09_hku-loose-pages.md",
-    "board-A/A-D__0007_1979-08-01_late-hkbc-loose-pages - Copy.md",
-    "board-A/A-D__0007_1979-08-01_late-hkbc-loose-pages.md",
-    "board-A/A-D__0006_1978-11-21_sjc-hkc-notebook-essays-dreams - Copy.md",
-    "board-A/A-D__0006_1978-11-21_sjc-hkc-notebook-essays-dreams.md",
-    "board-A/A-D__0005_1978-05-24_sjc-hkbc-loose-pages - Copy.md",
-    "board-A/A-D__0005_1978-05-24_sjc-hkbc-loose-pages.md",
-    "board-A/A-D__0004_1978-05-09-notebook4 essays - Copy.md",
-    "board-A/A-D__0004_1978-05-09-notebook4 essays.md",
-    "board-A/A-D__0003_1978-04-30_sjc-hkbc-notebook3 - Copy.md",
-    "board-A/A-D__0003_1978-04-30_sjc-hkbc-notebook3.md",
-    "board-A/A-D__0002_1977-06-21_sjc-hkbc-notebook2 - Copy.md",
-    "board-A/A-D__0002_1977-06-21_sjc-hkbc-notebook2.md",
-    "board-A/A-D__0002_1976-12-31-sjc-notebook1 - Copy.md",
-    "board-A/A-D__0001_1976-12-31-sjc-notebook1 - Copy.md",
-    "board-6/6-A__0002_1976-04-10-affection.md",
+    "board-A/A-0__D000_writings-1975-to-latest.md",
+    "board-B/B-D__0023_2015-02-05-from-frances-effect.md",
+    "board-B/B-D__002B_2016-02-13-rotate-effect.md",
+    "assets/board-B/img_color/B-D__0023_2015-02-05-from-frances-effect.webp",
+    "assets/board-B/img_color/B-D__002B_2016-02-13-rotate-effect.webp",
+    "assets/board-B/img_color/B-D__0004_2013-12-25-frances-taking-picture.webp",
+    "assets/board-B/img_color/B-D__0014_2025-07-01-swiss-heart.webp",
+    "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
+    "assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
+    "assets/board-B/img_thumb/B-D__000F_2020-06-11-kissing-couple-blue-red.webp",
+    "board-B/B-D__0060-_2018-04-22-auschwitz.md",
+    "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
+    "board-B/B-C__0001_2026-08-31-grok-profile.md",
+    "board-B/B-0__C000_ai-critique.md",
+    "board-B/B-0__B000_active-bluff-failure.md",
+    "board-B/B-0__A000_rover-incgnito.md",
+    "board-B/B-0__0000_unanchored.md",
+    "board-A/A-0__B010_zenith-nadir-gallery.md",
+    "board-2/2-0__0000_psyche-vivisection.md",
+    "board-1/1-0__A000_braised-pork-with-rattan.md",
+    "board-1/1-0__0000_naïveté.md",
+    "board-7/7-0__0000_reflection-paradigm.md",
+    "board-3/3-0__0000_godog.md",
+    "board-3/3-0__B000_arguing-with-ai-christians.md",
+    "board-3/3-0__C000_godog-devotion.md",
+    "board-3/3-0__A000_thanatos-to-anataman.md",
+    "board-M/M-A__0005_2026-08-28-walking-through-valley-of-thanatos.md",
+    "board-M/M-A__0004_2026-08-28-us-hk-watershed-moment.md",
+    "board-M/M-A__0003_2026-01-30-who-would-like-to-be-remembered-as.md",
+    "board-M/M-A__0002_2026-08-18-archaeology-of-pseudomyns.md",
+    "board-M/M-A__0001_2026-08-16-writing-as-survival-tool.md",
+    "board-C/C-F__0093_2023-01-22-sang-resume-long.md",
+    "board-C/C-F__0092_2022-06-09-yat-sang-hung-presentation-final.md",
+    "board-C/C-F__0085_2012-12-05-sang_appraisal_self-appraisal-2012.md",
     "assets/board-A/pdfs/A-D__0003_1978-04-30_sjc-hkbc-notebook3.pdf",
     "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 essays.pdf",
     "assets/board-A/pdfs/A-D__0003_1978-04-30_hkbc-notebook3.pdf",
@@ -211,25 +229,7 @@
     "assets/board-A/pdfs/A-D__0005_1978-05-24_sjc-hkbc-loose-pages.pdf",
     "assets/board-A/pdfs/A-D__0005_1978-05-24_sjc-hkbc_loose-pages.pdf",
     "assets/board-A/pdfs/A-D__0005_1978-05-24_existentialist_loose-pages.pdf",
-    "board-5/5-A__0001_1976-04-30-stellar-laudation.md",
-    "board-5/5-A__0002_1976-05-12-twilight.md",
-    "board-5/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.md",
-    "board-5/5-A__0004_1976-03-31-nature.md",
-    "board-5/5-A__0005_1976-04-25-guiding.md",
-    "board-5/5-0__A000_human-propose-cosmos-dispose.md",
-    "board-5/5-A__0005_1976-04-03-guiding.md",
-    "board-5/5-A__0004_1976-03-03-nature - Copy.md",
-    "board-5/5-A__0004_1976-05-12-ode-to-deep-sky-splendours - Copy.md",
-    "board-5/5-A__0003_1976-05-12-ode-to-deep-sky-splendours - Copy.md",
     "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
-    "assets/board-2/img_thumb/2-C__0005_1976-02-01-education-learning.webp",
-    "assets/board-2/img_thumb/2-C__0004_1976-04-14-analysis-of-personality.webp",
-    "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
-    "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
-    "assets/board-3/img_thumb/3-B__0004_2026-05-29-chatgpt.webp",
-    "assets/board-3/img_thumb/3-B__0002_2026-08-31-copilot.webp",
-    "assets/board-3/img_thumb/3-B__0002_2026-05-29-copilot.webp",
-    "assets/board-3/img_thumb/3-B__0003_2026-08-31-perplexity.webp",
-    "assets/board-3/img_thumb/3-B__0004_2026-08-31-chatgpt.webp"
+    "assets/board-2/img_thumb/2-C__0005_1976-02-01-education-learning.webp"
   ]
 }

@@ -1,19 +1,17 @@
 ---
-id: "B-D__0023"  
-parents: ["B-0__D000", "9-0__Z000", "A-0__B020"]
-authors: "R. Incognito"
-type: "img" 
-
-title_en: "Our Swirling World"
-title_zh: "世界氹氹轉"
-
-
-time: "2015-02-05"
-location: "USA"
-
+id: B-D__0023
+parents:
+  - B-0__D000
+  - A-0__B020
+authors:
+  - Frances Hung
+type: img
+title_en: Swirling World
+title_zh: 世界氹氹轉
+time: 2015-02-05
+location: USA
 ui_render: true
 display_priority: false
-
 img_color: assets/board-B/img_color/B-D__0023_2015-02-05-from-frances-effect.webp
 img_thumb: assets/board-B/img_thumb/B-D__0023_2015-02-05-from-frances-effect.webp
 ---
