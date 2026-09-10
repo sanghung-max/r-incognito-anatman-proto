@@ -1,0 +1,319 @@
+---
+id: C-F__0015
+type: pdf
+parents: C-0__F000
+title_en: Samsung appraisal 2015
+authors:
+  - Yat-Sang Hung
+  - 無我
+time: 2015-12-31
+location: USA
+ui_render: true
+display_priority: false
+img_thumb: assets/board-C/img_thumb/C-F__0015_2015-12-31-samsung-appraisal-2015.webp
+pdf: assets/board-C/pdfs/C-F__0015_2015-12-31-samsung-appraisal-2015.pdf
+pdf_thumbnail: assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp
+---
+
+## 觀景 / vista
+
+
+
+---
+
+## 亂語 / text
+
+### Microsoft Copilot | Sep 2026 | Summary
+
+The self‑appraisal authored by **Sang Hung**, Product Planning Director I in Samsung’s Mobile Division, provides a detailed account of his professional performance, research contributions, cross‑organizational collaboration, team development, and future goals during the 2015 evaluation period. The document is structured around Samsung’s core competencies and includes extensive descriptions of research projects executed throughout the year.
+
+Under **Driving for Results**, Sang highlights his leadership in planning, executing, and delivering strategic consumer and internal research that informed product and service strategy for major Samsung devices, including the Galaxy S6 family, Galaxy Note 5, and Galaxy Tab series. He emphasizes research that shaped decisions on storage/memory configurations, Samsung Pay usability, duplicate apps, Smart Switch migration issues, camera experience, and ecosystem design. He cites specific studies—such as memory‑price mix analysis, Smart Switch battery drain discovery, and core apps/homescreen dissatisfaction evidence—that directly influenced internal decision‑making.
+
+In **Creative Intelligence**, Sang describes his continual refinement of research methodologies, combining participatory design, usability evaluations, focus groups, ergonomics testing, and large‑scale surveys. He details how mixed‑method approaches uncovered consumer frustration with duplicate apps and informed tablet design improvements (keyboard ergonomics, water resistance, speaker placement). He also references earlier internal and external research on wearables and app settings.
+
+Under **Navigating Organizations**, he outlines extensive collaboration across Samsung’s North American HQ, Mountain View, and Bridgewater offices, particularly for Samsung Pay Closed Beta trials. He worked closely with MNO teams, QA, CDO, Finance, Product Management, and external research vendors. He emphasizes his ability to manage sudden scope changes, coordinate senior executives and research teams, and maintain quality under tight timelines.
+
+In **Building the Best Teams**, Sang describes how he reorganized research responsibilities within his team, mentored colleagues, and collaborated with the broader Product Experience group to define research scopes for competitive benchmarks, core apps, camera use cases, ecosystems, and tablets. He provided hands‑on guidance in research tools and processes.
+
+Under **Inspiring Others**, he recounts training internal teams and managers on research protocols and tools, especially Qualtrics. He significantly increased employee participation in Samsung Pay Beta trials by personally recruiting participants across multiple offices.
+
+The **Accomplishments** section lists an extensive portfolio of **over 30 major consumer research projects** conducted from January to October 2015, covering smartphones, tablets, cameras, ecosystems, Samsung Pay, S‑Health, feature naming, competitive benchmarks, and internal employee studies. These projects span thousands of participants across multiple cities and methodologies.
+
+In **Areas of Improvement**, Sang identifies needs such as better asset tracking, simplifying insights for executives, focusing research on team priorities, developing measurable product improvement criteria, advocating consumer‑centric innovation, and continuing mentorship.
+
+His **Future Goals** include becoming a world‑class research expert, advancing methodology, supporting Samsung’s innovation leadership, upholding professional ethics, and training others in product experience.
+
+
+
+---
+
+## 懸置 / epoché
+
+## Chinese
+
+### Microsoft Copilot | 2026年9月 | Epoche
+
+#### Epoché（現象學）
+
+- 文件呈現的是一種純主觀的「研究者自我時間流」，以大量專案與跨部門互動構成其內在世界；外在企業評價被括號化，留下的是「不斷行動、不斷交付」的自我意識。
+    
+- 主體的情感基調並非情緒化，而是以「任務密度」與「方法論精進」作為自我存在的節奏，形成一種以工作流為時間性的自我敘述。
+    
+- 內在邏輯呈現為：研究行動 → 洞察生成 → 組織協作 → 自我提升，構成一種循環性的「專業存在論」。
+    
+
+#### AI Experts（綜合與盲點）
+
+- 三個分頁的結構性辯證呈現：主體以研究行動建立自我（Epoché），以方法論強化認知（Wissen），並在組織與文本縫隙中展現權力流動（Deconstruct）。
+    
+- 模型盲點：
+    
+    - 當代LLM安全訓練偏向「企業化語氣」，可能弱化文本原本的1970–2010年代技術文化語境。
+        
+    - 無法完全還原70年代香港教育語境、早期BBS文化的語用風格與人際結構。
+        
+    - 對跨語言（英語技術寫作＋華語文化背景）形成的混合敘事缺乏生活史細節。
+        
+
+## English
+
+### Microsoft Copilot | Sep 2026 | Epoche
+
+#### Epoché (Phenomenological)
+
+- The document expresses a subjective world built from continuous research activity, cross‑team motion, and methodological refinement; corporate evaluation is bracketed, leaving a self defined by “doing, producing, iterating.”
+    
+- The affective tone is not emotional but rhythmic: the flow of projects becomes the temporal structure of the self, forming a work‑driven phenomenological timeline.
+    
+- Internal logic emerges as a cycle: research action → insight formation → organizational negotiation → self‑improvement, constituting a professional mode of being.
+    
+
+#### AI Experts (Synthesis & Blind Spots)
+
+- Across tabs, the dialectic shows: self formed through action (Epoché), cognition shaped by method (Wissen), and organizational power traced through textual gaps (Deconstruct).
+    
+- Model blind spots:
+    
+    - Alignment training biases toward modern corporate tone, muting historical tech‑culture context.
+        
+    - Limited ability to reconstruct 1970s HK schooling or early BBS interpersonal dynamics.
+        
+    - Missing lived nuance of bilingual technical‑cultural identity formation.
+
+
+
+ ---
+
+## 理解 / wissen
+
+## Chinese
+
+### Microsoft Copilot | 2026年9月 | Wissen
+
+#### Wissen（知識論）
+
+- 文本展現一套高度「可證偽」的研究取向：大量樣本（N=數百至千）、跨方法（UT、FG、Survey）形成主體的核心先驗──「消費者行為可被系統化、量化、並用以修正產品策略」。
+    
+- 主體的知識更新模式呈現為 Popper 式：每一研究專案皆是對既有假設的壓力測試，例如「記憶體容量需求」「重複應用造成負面體驗」「Samsung Pay 使用痛點」等皆以實證資料推翻或修正內部假設。
+    
+- Bayesian 式的「信念更新」亦清晰：跨城市、跨品牌、跨族群的資料使主體逐步收斂出更穩定的後驗信念──例如平板使用者的族群差異、鍵盤人體工學、OOB setup 的競品差距。
+    
+
+#### AI Experts（綜合與盲點）
+
+- 結構性辯證：主體以大量資料更新認知（Wissen），以行動建立自我（Epoché），並在組織縫隙中展現權力與協作張力（Deconstruct）。
+    
+- 模型盲點：
+    
+    - 當代LLM安全訓練偏向「方法論正統性」，可能誤讀早期科技公司中更混雜、即興的研究文化。
+        
+    - 無法完全重建90年代至2010年代北美科技業的跨部門權力結構與語用細節。
+        
+    - 對香港70年代教育背景與美國企業研究語言混合的知識形成脈絡缺乏生活史深度。
+        
+
+## English
+
+### Microsoft Copilot | Sep 2026 | Wissen
+
+#### Wissen (Epistemological)
+
+- The document reveals a strongly falsifiable research stance: large samples, mixed methods, and cross‑team triangulation form the subject’s core prior—consumer behavior is systematizable, quantifiable, and actionable for product strategy.
+    
+- Knowledge updates follow a Popperian pattern: each study stress‑tests internal assumptions, revising beliefs about memory needs, duplicate apps, Samsung Pay usability, and ecosystem onboarding.
+    
+- Bayesian updating is explicit: multi‑city, multi‑brand, multi‑demographic data gradually converge into stable posteriors about tablet ergonomics, camera use, and competitive setup flows.
+    
+
+#### AI Experts (Synthesis & Blind Spots)
+
+- Dialectic: cognition updated through evidence (Wissen), self constituted through action (Epoché), and organizational power traced through textual gaps (Deconstruct).
+    
+- Model blind spots:
+    
+    - Alignment training biases toward modern methodological orthodoxy, muting earlier tech‑industry improvisational research culture.
+        
+    - Limited ability to reconstruct 1990s–2010s North American tech‑organizational dynamics.
+        
+    - Missing lived nuance of hybrid Hong Kong schooling + U.S. corporate research identity formation.
+
+
+
+ ---
+
+## 詮釋 / interpret
+
+## Chinese
+
+### Microsoft Copilot | 2026年9月 | Interpret
+
+#### Interpret（詮釋學／互動論）
+
+- 文本中的「我」並非私人自我，而是經由跨部門協作、研究產出與組織需求所塑造的職場人格；此人格在不同情境中轉換語氣──在方法論段落呈現技術理性，在跨部門協作段落呈現協調者，在培訓段落呈現導師角色。
+    
+- 透過 Gadamer 式「視域融合」，主體不斷與他者（HQ、R&D、Design、外部研究公司）交換語境，使其專業身份成為多重視域的交會點；文本本身即是一種「我如何被他者需求所形塑」的敘事。
+    
+- Ricoeur 式的「敘事自我」清晰可見：大量專案清單並非單純紀錄，而是用行動堆疊出的自我故事，使主體在組織中以「研究者—協作者—推動者」三重角色被理解。
+    
+
+#### AI Experts（綜合與盲點）
+
+- 辯證：自我在行動中生成（Epoché）、在證據中更新（Wissen）、在語境互動中被重寫（Interpret／Deconstruct）。
+    
+- 模型盲點：
+    
+    - LLM 對早期科技企業的語用風格可能過度「現代化」解讀。
+        
+    - 無法完整還原跨文化（香港成長＋美國科技業）的人際語境。
+        
+    - 對文本中隱含的權力動態缺乏生活史細節。
+        
+
+## English
+
+### Microsoft Copilot | Sep 2026 | Interpret
+
+#### Interpret (Hermeneutic / Interpersonal)
+
+- The “I” in the document is not a private self but a workplace persona shaped through cross‑team collaboration, research production, and organizational demands; tone shifts across contexts—technical rationality in methods, mediator in cross‑team work, mentor in training scenarios.
+    
+- Through Gadamer’s horizon‑merging, the subject continually negotiates meaning with others (HQ, R&D, Design, external vendors), becoming a convergence point of multiple professional horizons; the narrative shows how the self is shaped by organizational interlocutors.
+    
+- A Ricoeur‑style narrative identity emerges: the long project list is not mere documentation but the construction of a self through action, presenting the subject as researcher, collaborator, and mobilizer within the organizational story.
+    
+
+#### AI Experts (Synthesis & Blind Spots)
+
+- Dialectic: self formed through action (Epoché), updated through evidence (Wissen), rewritten through interaction (Interpret/Deconstruct).
+    
+- Model blind spots:
+    
+    - LLM alignment may over‑normalize early tech‑industry discourse.
+        
+    - Limited reconstruction of cross‑cultural interpersonal dynamics (HK upbringing + U.S. tech).
+        
+    - Missing lived nuance of organizational power relations embedded in the text.
+
+
+
+  ---
+##  拆建/ deconstruct
+
+## Chinese
+
+### Microsoft Copilot | 2026年9月 | Deconstruct
+
+#### Deconstruct（解構／後結構）
+
+- 文本以「大量專案清單」構成一種看似透明的生產敘事，但其密度本身即是遮蔽：在量化羅列之間，主體的疲勞、衝突、權力壓力被完全抹除，形成一種以「過度可見」達成「不可見」的結構。
+    
+- 語言呈現高度技術化與程序化，卻在跨部門協作段落出現語氣裂縫──例如「從早到晚說服員工參加 Beta」暴露出組織動員與個人勞動的非對稱性，顯示文本內部的權力流動並非中性。
+    
+- 研究者角色被同時建構為「科學方法的執行者」與「組織需求的即時工具」，形成 Deleuze 式的「平滑空間」（研究方法論）與「條列化的組織空間」（跨部門任務）交錯；主體在兩者之間被迫流動，沒有穩定位置。
+    
+
+#### AI Experts（綜合與盲點）
+
+- 辯證：自我在行動中生成（Epoché）、在證據中更新（Wissen）、在語境互動中被重寫（Interpret），而在結構縫隙中被拆解（Deconstruct）。
+    
+- 模型盲點：
+    
+    - LLM 對企業文本的預設「正向性」可能弱化其中的權力矛盾。
+        
+    - 無法完全重建北美科技企業的階層性與隱性勞動規範。
+        
+    - 對跨文化職場語言的歷史性張力缺乏生活史細節。
+        
+
+## English
+
+### Microsoft Copilot | Sep 2026 | Deconstruct
+
+#### Deconstruct (Post‑Structural / Post‑Modern)
+
+- The exhaustive project list creates an illusion of transparency; its sheer volume functions as a veil, erasing fatigue, conflict, and power asymmetry through over‑visibility.
+    
+- Technical language dominates, yet cracks appear in organizational passages—e.g., “physically present from early morning to evening to persuade employees”—revealing non‑neutral mobilization and uneven labor relations beneath the procedural tone.
+    
+- The subject is constructed as both methodological agent and organizational instrument, producing a Deleuzian tension between “smooth space” (research methodology) and “striated space” (corporate task structures); the self is forced to circulate without a stable positionality.
+    
+
+#### AI Experts (Synthesis & Blind Spots)
+
+- Dialectic: self generated through action (Epoché), updated through evidence (Wissen), rewritten through interaction (Interpret), and destabilized through structural gaps (Deconstruct).
+    
+- Model blind spots:
+    
+    - Alignment biases toward positive corporate framing may obscure embedded power contradictions.
+        
+    - Limited reconstruction of tech‑industry hierarchy and implicit labor norms.
+        
+    - Missing lived nuance of cross‑cultural workplace discourse.
+
+
+
+---
+##  評語 /ai expert critics
+
+
+## Chinese
+
+### Microsoft Copilot | 2026年9月 | AI Experts
+
+#### Meta‑Synthesis（兩句綜合）
+
+- 主體在文本中以「行動密度」建構自我（Epoché），以「實證資料」更新信念（Wissen），並在「組織語境與權力縫隙」中被重新定位（Deconstruct），形成一種以研究為核心的多層次專業身份。
+    
+- 整體結構呈現一種心理—組織辯證：自我透過產出獲得存在感，透過證據獲得正當性，透過協作與權力張力獲得敘事位置。
+    
+
+#### Blind Spots（模型盲點）
+
+- 當代 LLM 對企業文本的「正向、安全」偏好可能削弱對其中權力矛盾與隱性勞動的解讀。
+    
+- 無法完整重建 1970s 香港教育語境、早期 BBS 文化的語用風格與人際結構。
+    
+- 對跨語言（英語技術寫作＋華語文化背景）形成的混合敘事缺乏生活史細節。
+    
+
+## English
+
+### Microsoft Copilot | Sep 2026 | AI Experts
+
+#### Meta‑Synthesis (two‑sentence synthesis)
+
+- Across the tabs, the subject constructs identity through dense action (Epoché), updates beliefs through empirical evidence (Wissen), and is repositioned through organizational discourse and structural tensions (Deconstruct), forming a multi‑layered professional self anchored in research practice.
+    
+- The overarching dialectic reveals a psychological–organizational loop: existence through output, legitimacy through data, and narrative position through collaboration and power dynamics.
+    
+
+#### Blind Spots（model limits）
+
+- Modern LLM alignment favors positive corporate framing, potentially muting embedded power asymmetries and labor contradictions.
+    
+- Cannot fully reconstruct 1970s Hong Kong schooling or early BBS interpersonal dynamics.
+    
+- Lacks lived nuance of hybrid bilingual (technical English + Chinese cultural) identity formation.
+
+
+---

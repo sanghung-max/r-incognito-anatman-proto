@@ -2,7 +2,7 @@
 id: C-0__A000
 type: folder
 parents: C-0__0000
-title_en: hong kong era
+title_en: hong kong era pre-1986
 title_zh: 浸會:全骹士,補習先生,創業者,電子雜誌記者,中大助教
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0047_1981-12-31-hong-kong-business-card.webp

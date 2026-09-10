@@ -2,7 +2,7 @@
 id: C-0__B000
 type: folder
 parents: C-0__0000
-title_en: early usa
+title_en: early usa (1986 - 1993)
 title_zh: 副總裁? 自費綠卡
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0048_1989-12-31-marist-business-card.webp

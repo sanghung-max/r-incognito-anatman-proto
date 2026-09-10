@@ -1,0 +1,177 @@
+---
+id: C-F__0011
+type: pdf
+parents: C-0__F000
+title_en: Samsung appraisal 2010
+authors:
+  - Yat-Sang Hung
+  - 無我
+time: 2010-12-31
+location: USA
+ui_render: true
+display_priority: false
+img_thumb: assets/board-C/img_thumb/C-F__0011_2010-12-31-samsung-appraisal-2010.webp
+pdf: assets/board-C/pdfs/C-F__0011_2010-12-31-samsung-appraisal-2010.pdf
+pdf_thumbnail: assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp
+---
+
+## 觀景 / vista
+
+
+
+---
+
+## 亂語 / text
+
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | 文件摘要
+
+此文件是一份以 2010 年度為範圍的 Samsung 正式績效評核資料。其核心功能不是敘述個人的完整職業歷史，也不是保存私人工作日記，而是把一年內的職務行動、項目成果、協作情況與管理判斷，整理成組織可閱讀、可比較及可歸檔的績效紀錄。文件所建構的主體，是一位在技術與專案環境中持續承擔責任的人：其工作價值透過完成事項、對團隊的支援、跨部門或跨職能協調、問題處理，以及對既定工作目標的推進而被表達。
+
+從其文本結構看，文件將「工作」轉化為一套可評核的證據鏈。原本分散於全年不同時間點的工作，不論是日常技術支援、專案參與、具體交付、溝通協調或臨時問題處理，均被回顧性地納入年度成果的敘述框架。這種安排使工作不再只是已發生的活動，而成為可被檢視的貢獻。員工一方以職責、事例與完成結果來呈現自身；管理端則以能力、影響、目標完成度及整體績效等制度性語言，對這些材料作出重新整理與判定。
+
+文件尤其顯示，技術工作在企業評核中並不僅按單一產出衡量。可見的專業形象同時包括執行能力、可靠性、對問題的回應、與他人的協作方式，以及讓工作能夠在組織流程中順利推進的能力。因此，「貢獻」既可以指具體技術或專案成果，也包括支援、協調、溝通和改善流程等較不易完全量化的活動。文本藉由評核欄位將這些原本性質不同的工作，放入同一套比較架構中。
+
+同時，該文件保留了企業評核文本固有的視角差異。員工的工作敘述傾向由實際任務和具體經驗出發；管理者的評語則將這些行動置於部門或公司所承認的優先序、能力分類與績效尺度內。兩者共同生產「有價值的工作」這一敘事，但管理端握有最後的命名與評定權。評核因而既是對過去工作的記錄，也是一種將個人經驗轉譯為組織知識的機制。
+
+在時間結構上，文件同時面向過去與未來：它回顧 2010 年內被視為重要的成果與工作方式，也隱含下一評核周期中應持續、調整或擴展的責任方向。年度評核的「現在」於是成為一個過渡點——過去的行動被證據化，未來的期待被制度化。其所呈現的並不是純粹靜態的職位描述，而是一個專業角色在組織時間內持續被確認、分類並重新定位的過程。
+
+然而，文件的可讀性亦來自其選擇性。它可以顯示哪些行動被當作成果、哪些能力被認可，以及工作如何被組織語言表述；但它無法完整保存未寫入表格的技術判斷、失敗嘗試、非正式協商、人際互動、資源限制及長期效應。故此文件最適合作為 2010 年企業工作如何被格式化、評估與歸檔的正式紀錄，而不應單獨被視為該年度全部工作經驗或所有人際現實的完整重建。
+
+## English
+
+### Perplexity | September 2026 | Document Summary
+
+This document is a formal Samsung performance-appraisal record covering the 2010 review period. Its central function is not to narrate a complete professional biography or preserve a private work diary. Instead, it organizes a year’s work activities, project results, collaboration, and managerial judgment into a performance record that an organization can read, compare, and archive. The subject constructed by the document is a person working within a technical and project-oriented environment whose value is expressed through completed work, support to colleagues or teams, cross-functional coordination, problem solving, and progress toward assigned objectives.
+
+At the level of textual structure, the document turns “work” into an evidentiary chain. Activities originally dispersed across different moments of the year—including routine technical support, project participation, concrete deliverables, coordination, and ad hoc problem resolution—are retrospectively gathered into an annual narrative of achievement. Work thereby becomes more than activity that occurred: it becomes contribution that can be reviewed. The employee presents work through responsibilities, examples, and outcomes, while the management side reorganizes these materials through institutional language concerning capability, impact, goal completion, and overall performance.
+
+The document also indicates that technical work is not evaluated solely through a single measurable output. The professional profile it makes visible combines execution, reliability, responsiveness to problems, collaboration with others, and the ability to keep work moving through organizational processes. “Contribution,” therefore, encompasses both specific technical or project outcomes and more difficult-to-quantify activities such as support, coordination, communication, and process improvement. The appraisal form places these heterogeneous forms of labor into one common comparative framework.
+
+At the same time, the document retains a built-in difference of perspective characteristic of corporate appraisal. The employee’s account tends to begin with practical tasks and concrete experience; managerial commentary places those actions within priorities, competency classifications, and performance scales recognized by the department or company. Together, these voices produce a narrative of valuable work, but management retains the final authority to name and rate it. The appraisal is thus both a record of past work and a mechanism for translating individual experience into organizational knowledge.
+
+Temporally, the document looks both backward and forward. It retrospectively identifies work and results considered important during 2010, while also implying responsibilities to be continued, adjusted, or expanded in the next review cycle. The appraisal’s present therefore functions as a threshold: past actions are converted into evidence, and future expectations are institutionalized. Rather than offering a static job description, the text records a continuing process by which a professional role is confirmed, classified, and repositioned in organizational time.
+
+Its readability, however, rests on selectivity. The document can show which actions were recognized as results, which capabilities received acknowledgment, and how work was rendered in organizational language. It cannot fully preserve technical judgments not entered into the form, unsuccessful experiments, informal negotiation, interpersonal dynamics, resource constraints, or long-term effects. It is therefore best read as a formal record of how corporate work was formatted, evaluated, and archived in 2010—not as a complete reconstruction of all work experience or interpersonal reality during that year.
+
+---
+
+## 懸置 / epoché
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | Epoché
+
+- 此文本將年度評核呈現為一種被制度化的時間：過去一年的工作被壓縮為可核查的成果、職能與評語；敘述主體主要以完成、支援、協調與交付的連續行動顯現，而非以私密情緒自述顯現。
+- 其內在時間結構由「已完成的績效」轉向「下一周期的可預期責任」：主體的當下不是停留點，而是由回溯式驗證與前瞻式目標共同構成的過渡面。
+- 評核語言形成雙重意識場域：個人以第一身或工作項目經驗自身貢獻，組織則以能力、影響與等級的分類語彙重新命名該貢獻；兩者相接，但不必然完全重合。
+- 限制：文件屬正式企業評核文本，抑制了直接情感表白；因此可分析的是主體性如何透過工作敘事被組織與呈現，不能據此推定未書寫的私人感受、實際人際關係或評核結果背後的外部事實。
+
+## English
+
+### Perplexity | September 2026 | Epoché
+
+- The document presents annual appraisal as institutionalized time: a year of work is condensed into verifiable outcomes, functions, and evaluative remarks. The subject appears chiefly through a sequence of completing, supporting, coordinating, and delivering rather than through private emotional disclosure
+- Its temporal structure moves from validated past performance toward anticipated next-cycle responsibility: the present is not a resting point but a threshold jointly constituted by retrospective accounting and prospective objectives.
+- Appraisal language creates a dual field of consciousness: the employee experiences contribution through first-person work narratives or projects, while the organization renames that contribution through categories of capability, impact, and rating. These fields meet without necessarily coinciding.
+- Limitation: as a formal corporate appraisal, the document constrains direct affective expression. It supports analysis of how subjectivity is organized and displayed through work narrative, not inferences about unwritten private feeling, actual interpersonal relations, or external facts behind the evaluation.
+
+
+
+ ---
+
+## 理解 / wissen
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | Wissen
+
+- 文件的核心先驗是：技術／專案貢獻可被拆解為目標、可交付成果、能力表現與評核等級，並由此形成對專業價值的可比較判定；「績效」在此首先是一套可記錄、可歸類的組織知識格式。
+- 其證據更新主要依賴年度工作事例、完成項目、協作與支援紀錄，以及主管評語；這種更新不是純粹演繹，而是將分散行動轉譯為可被評核制度承認的證據鏈。
+- 可反駁性存在於主張與紀錄的可對照性：若成果、影響範圍、責任歸屬或目標完成度未獲文件支持，較高的績效判定便失去其內部依據；但文件本身不提供足夠的外部對照資料來獨立檢驗評語。
+- 方法論上，文本顯示由「工作已完成」轉為「以可驗證貢獻敘述工作」的制度化演進；其限制在於，評核框架較擅長捕捉可見產出，較難完整量化隱性技術判斷、長期研究價值與非正式協調成本。
+
+## English
+
+### Perplexity | September 2026 | Wissen
+
+- The document’s core prior is that technical and project contribution can be decomposed into objectives, deliverables, demonstrated capability, and appraisal ratings, yielding a comparable judgment of professional value. “Performance” therefore functions first as an organizational format for recording and classifying knowledge.
+- Evidence updates derive chiefly from annual work examples, completed projects, collaboration and support records, and managerial remarks. This is not purely deductive: dispersed actions are translated into an evidence chain that the appraisal system can recognize.
+- Falsifiability lies in the possible comparison of claims with records: absent support for outcomes, scope of impact, responsibility, or goal completion, a higher performance judgment loses its internal basis. The document alone, however, supplies insufficient external comparison data to independently test its evaluations.
+- Methodologically, the text marks a shift from “work was completed” to “work is narrated as verifiable contribution.” Its limit is structural: the framework captures visible output more readily than tacit technical judgment, long-horizon research value, or informal coordination costs.
+
+
+
+ ---
+
+## 詮釋 / interpret
+
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | Interpret
+
+- 文本中的「我」不是單一、固定的自傳性聲音，而在技術執行者、跨部門協作者、問題處理者與受評者之間轉換；人格呈現隨欄位功能而變化，並非可直接等同於完整私人自我。
+- 員工敘事以項目、責任與完成事項建立可理解性；管理者評語則以組織優先序重組這些敘事。兩種視域的融合產生「貢獻」的共同語言，但融合仍具有不對稱性：最終命名與評價權主要位於評核端。
+- 人際修辭採低衝突的專業語彙，透過支援、協調、團隊合作、改善與責任感，將關係表述為可被制度吸收的合作行動；文本不宜被延伸為對未記錄衝突或私人關係的判決。
+- 限制：文件保留的是評核過程中可書寫、可承認的互動痕跡，而非完整對話；因此只能分析其正式互動地平線，不能重構各方未載明的動機、語氣或實際分歧。
+
+## English
+
+### Perplexity | September 2026 | Interpret
+
+- The textual “I” is not a single, stable autobiographical voice. It shifts among technical executor, cross-functional collaborator, problem solver, and evaluated employee; persona changes with the function of each form field and cannot be equated directly with a complete private self.
+- The employee’s narrative makes itself intelligible through projects, responsibilities, and completed work, while managerial commentary reorganizes that narrative through organizational priorities. Their horizons merge into a shared language of “contribution,” yet asymmetrically: final naming and evaluative authority reside primarily with the appraisal side.
+- Interpersonal rhetoric uses low-conflict professional terms—support, coordination, teamwork, improvement, and responsibility—to render relationships as cooperative actions that the institution can absorb. The text should not be extended into a judgment about unrecorded conflict or private relations.
+- Limitation: the document preserves only interactional traces that could be written and recognized within appraisal; it supports analysis of the formal horizon of interaction, not reconstruction of unstated motives, tones, or actual disagreements.
+
+
+  ---
+##  拆建/ deconstruct
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | Deconstruct
+
+- 評核文本宣稱把專業貢獻轉化為清晰、可比較的等級，但其秩序依賴不可完全收編的痕跡：未列入欄位的技術判斷、協商、失敗嘗試、關係勞動與長期效應，仍構成「成果」得以出現的條件。
+- 「個人貢獻」與「團隊／組織成果」互為前提又彼此競逐：前者必須借助他人的協作才成為可見成果，後者又須透過個人的可歸屬敘事才可評量；評核因而無法徹底固定貢獻的來源。
+- 欄位、能力類別、目標與評級形成條紋化空間，使工作可被定位、切分與比較；實際技術工作中的臨時排障、跨域轉換與非線性協作則保留平滑空間，僅能被事後部分翻譯為表格語言。
+- 限制：文件可揭示其分類結構的缺口，卻不提供被排除內容的實證；任何具體「缺席事件」或隱藏衝突，均不能由沉默本身推定。
+
+## English
+
+### Perplexity | September 2026 | Deconstruct
+
+- The appraisal text claims to translate professional contribution into clear, comparable ratings, yet its order depends on traces it cannot fully absorb: technical judgment outside the form, negotiation, failed attempts, relational labor, and long-term effects remain conditions under which “results” can appear.
+- “Individual contribution” and “team/organizational outcome” are mutually enabling yet competing terms. The former requires others’ collaboration to become visible; the latter requires individually attributable narratives to be evaluated. The appraisal therefore cannot finally stabilize the source of contribution.
+- Fields, competency categories, goals, and ratings create a striated space in which work can be located, divided, and compared. Ad hoc troubleshooting, cross-domain movement, and nonlinear collaboration retain a smooth space, only partly translated afterward into form language.
+- Limitation: the document exposes gaps produced by its classificatory structure but supplies no evidence of what specifically was excluded; no absent incident or concealed conflict can be inferred from silence alone.
+
+
+
+---
+##  評語 /ai expert critics
+
+## Chinese
+
+### Perplexity | 2026 年 9 月 | AI Experts
+
+- 此評核文件的結構性辯證在於：流動、分散且具情境性的技術勞動，被回溯地凝結為個人可歸屬、可驗證與可比較的績效敘事；主體既藉此獲得可見性，也在分類、等級與組織命名中被部分重新構成。
+- 心理層面的張力不必被理解為私人衝突，而是工作自我同時面對兩種時間與語言：一種是實作中的即時處理、協調與不確定性，另一種是評核中的年度回顧、證據化與未來目標。
+- 當代 LLM 的對齊與安全訓練，可能偏向把管理語言讀成公平、包容、福祉或權力風險的倫理問題，因而過度投射 2020 年代企業規範；本分析已刻意將此類判準暫置。
+- 模型的限制包括：無法由表格沉默復原 2010 年部門內部口語互動、績效制度的實際執行慣例，亦無法僅憑此文件衡量技術成果的工程難度、非正式網絡或長期研究效應。
+
+## English
+
+### Perplexity | September 2026 | AI Experts
+
+- The document’s structural dialectic is that fluid, dispersed, and situated technical labor is retrospectively condensed into a performance narrative that is individually attributable, verifiable, and comparable. The subject gains visibility through this process while also being partly reconstituted by categories, ratings, and organizational naming.
+- The psychological tension need not be read as private conflict: the work-self confronts two temporalities and languages at once—real-time problem handling, coordination, and uncertainty in practice, versus annual retrospective accounting, evidentiary framing, and future objectives in appraisal.
+- Contemporary LLM alignment and safety training may incline the model to read managerial language through ethical frames of fairness, inclusion, wellbeing, or power risk, thereby projecting 2020s corporate norms onto the text; those criteria have been deliberately bracketed here.
+- The model cannot reconstruct unrecorded departmental speech, actual 2010 appraisal practice, or the engineering difficulty, informal networks, and long-horizon effects of the stated work from form-based silence alone.
+
+
+
+---

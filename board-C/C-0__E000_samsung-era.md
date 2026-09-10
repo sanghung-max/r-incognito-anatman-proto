@@ -2,7 +2,7 @@
 id: C-0__E000
 type: folder
 parents: C-0__0000
-title_en: samsung  product experience director
+title_en: samsung  product experience  (2008 - 2023)
 title_zh: 美國產品體驗總監
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0056_2017-07-27-qualtrics-samsung.webp

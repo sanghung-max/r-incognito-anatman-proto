@@ -49,7 +49,7 @@ window.ARCHIVE_DATA = {
     "type": "board",
     "title_en": "naïveté",
     "title_zh": "幼稚佬",
-    "age": "0-12",
+    "age": "0-12+",
     "description_en": "Innocence is Bliss",
     "description_zh": "天真=快樂",
     "authors": [],
@@ -923,7 +923,7 @@ window.ARCHIVE_DATA = {
   "3-A__0003": {
     "id": "3-A__0003",
     "type": "pdf",
-    "title_en": "Jesus: Who are you? 1982",
+    "title_en": "Jesus: Who are you? 1983",
     "title_zh": "耶穌: 你是誰?",
     "age": null,
     "description_en": "",
@@ -932,7 +932,7 @@ window.ARCHIVE_DATA = {
       "GODOG",
       "無我"
     ],
-    "time": "1982-12-31",
+    "time": "1983-12-24",
     "location": "Hong Kong",
     "ui_render": true,
     "display_priority": false,
@@ -1164,7 +1164,7 @@ window.ARCHIVE_DATA = {
   "3-B__0001": {
     "id": "3-B__0001",
     "type": "pdf",
-    "title_en": "Arguing with Grok as Devout Christian",
+    "title_en": "Arguing with Grok as Devout Christian 2026",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -1213,7 +1213,7 @@ window.ARCHIVE_DATA = {
   "3-B__0002": {
     "id": "3-B__0002",
     "type": "pdf",
-    "title_en": "Arguing with Copilot as Devout Christian",
+    "title_en": "Arguing with Copilot as Devout Christian 2026",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -1262,7 +1262,7 @@ window.ARCHIVE_DATA = {
   "3-B__0003": {
     "id": "3-B__0003",
     "type": "pdf",
-    "title_en": "Arguing with Perplexity as Devout Christian",
+    "title_en": "Arguing with Perplexity as Devout Christian 2026",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -1311,7 +1311,7 @@ window.ARCHIVE_DATA = {
   "3-B__0004": {
     "id": "3-B__0004",
     "type": "pdf",
-    "title_en": "Arguing with ChatGPT as Devout Christian",
+    "title_en": "Arguing with ChatGPT as Devout Christian 2026",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -1360,7 +1360,7 @@ window.ARCHIVE_DATA = {
   "3-B__0005": {
     "id": "3-B__0005",
     "type": "pdf",
-    "title_en": "Arguing with Claude.ai as Devout Christian",
+    "title_en": "Arguing with Claude.ai as Devout Christian 2026",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -2030,7 +2030,7 @@ window.ARCHIVE_DATA = {
   "4-B__0004": {
     "id": "4-B__0004",
     "type": "pdf",
-    "title_en": "Thatcher :etter Incident 1983",
+    "title_en": "Thatcher Letter Incident 1983",
     "title_zh": "致戴事件始末",
     "age": null,
     "description_en": "",
@@ -2556,7 +2556,7 @@ window.ARCHIVE_DATA = {
   "5-A__0002": {
     "id": "5-A__0002",
     "type": "pdf",
-    "title_en": "Twilight 1976",
+    "title_en": "Twilight/Aurora 1976",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -4605,7 +4605,7 @@ window.ARCHIVE_DATA = {
   "6-B__0001": {
     "id": "6-B__0001",
     "type": "img",
-    "title_en": "Unsent Letter",
+    "title_en": "Unsent Letter 1983",
     "title_zh": "沒有寄出的信",
     "age": null,
     "description_en": "",
@@ -5421,7 +5421,7 @@ window.ARCHIVE_DATA = {
   "7-B__0006": {
     "id": "7-B__0006",
     "type": "img",
-    "title_en": "Personae Crisis",
+    "title_en": "Personae Crisis 1982",
     "title_zh": "面譜 學生會的一個危機,個人的一個危機",
     "age": null,
     "description_en": "",
@@ -5949,7 +5949,7 @@ window.ARCHIVE_DATA = {
   "7-D__0005": {
     "id": "7-D__0005",
     "type": "pdf",
-    "title_en": "Tour USA 1982",
+    "title_en": "Touring USA 1982",
     "title_zh": "美國遊蹤",
     "age": null,
     "description_en": "",
@@ -6387,7 +6387,6 @@ window.ARCHIVE_DATA = {
     "children": [
       "B-D__0013",
       "B-D__0015",
-      "B-D__0023",
       "B-D__002B",
       "B-D__0037"
     ],
@@ -6722,7 +6721,7 @@ window.ARCHIVE_DATA = {
       "B-D__0052",
       "B-D__0053",
       "B-D__0054",
-      "B-D__0055",
+      "B-D__0060",
       "B-D__A001",
       "B-D__A002",
       "B-D__A003",
@@ -7516,7 +7515,7 @@ window.ARCHIVE_DATA = {
       "B-D__0052",
       "B-D__0053",
       "B-D__0054",
-      "B-D__0055",
+      "B-D__0060",
       "B-D__A001",
       "B-D__A002",
       "B-D__A003",
@@ -7573,7 +7572,7 @@ window.ARCHIVE_DATA = {
   "B-C__0001": {
     "id": "B-C__0001",
     "type": "pdf",
-    "title_en": "R.Incognito & Personae (Grok)",
+    "title_en": "R.Incognito & Personae (Grok) 2026",
     "title_zh": "無我製作",
     "age": null,
     "description_en": "",
@@ -7614,7 +7613,7 @@ window.ARCHIVE_DATA = {
   "B-C__0002": {
     "id": "B-C__0002",
     "type": "pdf",
-    "title_en": "R.Incognito & Personae (CoPilot)",
+    "title_en": "R.Incognito & Personae (CoPilot) 2026",
     "title_zh": "無我製作",
     "age": null,
     "description_en": "",
@@ -7655,7 +7654,7 @@ window.ARCHIVE_DATA = {
   "B-C__0003": {
     "id": "B-C__0003",
     "type": "pdf",
-    "title_en": "R.Incognito & Personae (Perplexity)",
+    "title_en": "R.Incognito & Personae (Perplexity) 2026",
     "title_zh": "無我製作",
     "age": null,
     "description_en": "",
@@ -7696,7 +7695,7 @@ window.ARCHIVE_DATA = {
   "B-C__0004": {
     "id": "B-C__0004",
     "type": "pdf",
-    "title_en": "R.Incognito & Personae (ChatGPT)",
+    "title_en": "R.Incognito & Personae (ChatGPT) 2026",
     "title_zh": "無我製作",
     "age": null,
     "description_en": "",
@@ -7737,7 +7736,7 @@ window.ARCHIVE_DATA = {
   "B-C__0005": {
     "id": "B-C__0005",
     "type": "pdf",
-    "title_en": "R.Incognito & Personae (Claude.ai)",
+    "title_en": "R.Incognito & Personae (Claude.ai) 2026",
     "title_zh": "無我製作",
     "age": null,
     "description_en": "",
@@ -8967,13 +8966,13 @@ window.ARCHIVE_DATA = {
   "B-D__0023": {
     "id": "B-D__0023",
     "type": "img",
-    "title_en": "Our Swirling World",
+    "title_en": "Swirling World",
     "title_zh": "世界氹氹轉",
     "age": null,
     "description_en": "",
     "description_zh": "",
     "authors": [
-      "R. Incognito"
+      "Frances Hung"
     ],
     "time": "2015-02-05",
     "location": "USA",
@@ -8990,7 +8989,6 @@ window.ARCHIVE_DATA = {
     "page_end": null,
     "parents": [
       "B-0__D000",
-      "9-0__Z000",
       "A-0__B020"
     ],
     "children": [],
@@ -9261,7 +9259,7 @@ window.ARCHIVE_DATA = {
     "description_en": "",
     "description_zh": "",
     "authors": [
-      "Frances Hung"
+      "R. Incognito"
     ],
     "time": "2016-02-13",
     "location": "USA",
@@ -10573,8 +10571,8 @@ window.ARCHIVE_DATA = {
       "評語 ai-experts"
     ]
   },
-  "B-D__0055": {
-    "id": "B-D__0055",
+  "B-D__0060": {
+    "id": "B-D__0060",
     "type": "img",
     "title_en": "auschwitz",
     "title_zh": null,
@@ -10590,8 +10588,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0055_2018-04-22-auschwitz.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0055_2018-04-22-auschwitz.webp",
+    "img_color": "assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -11039,7 +11037,7 @@ window.ARCHIVE_DATA = {
   "C-0__A000": {
     "id": "C-0__A000",
     "type": "folder",
-    "title_en": "hong kong era",
+    "title_en": "hong kong era pre-1986",
     "title_zh": "浸會:全骹士,補習先生,創業者,電子雜誌記者,中大助教",
     "age": null,
     "description_en": "",
@@ -11072,7 +11070,7 @@ window.ARCHIVE_DATA = {
   "C-0__B000": {
     "id": "C-0__B000",
     "type": "folder",
-    "title_en": "early usa",
+    "title_en": "early usa (1986 - 1993)",
     "title_zh": "副總裁? 自費綠卡",
     "age": null,
     "description_en": "",
@@ -11102,7 +11100,7 @@ window.ARCHIVE_DATA = {
   "C-0__C000": {
     "id": "C-0__C000",
     "type": "folder",
-    "title_en": "uswest mts hf-kbe",
+    "title_en": "uswest mts hf-kbe (1993 - 1996)",
     "title_zh": "人因-知識工程師",
     "age": null,
     "description_en": "",
@@ -11142,8 +11140,8 @@ window.ARCHIVE_DATA = {
   "C-0__D000": {
     "id": "C-0__D000",
     "type": "folder",
-    "title_en": "sprint chief scientist",
-    "title_zh": "首席科学家",
+    "title_en": "sprint pcs - sprint + nextel  (1996 - 2008)",
+    "title_zh": "首席科學家",
     "age": null,
     "description_en": "",
     "description_zh": "",
@@ -11179,7 +11177,7 @@ window.ARCHIVE_DATA = {
   "C-0__E000": {
     "id": "C-0__E000",
     "type": "folder",
-    "title_en": "samsung  product experience director",
+    "title_en": "samsung  product experience  (2008 - 2023)",
     "title_zh": "美國產品體驗總監",
     "age": null,
     "description_en": "",
@@ -11247,7 +11245,15 @@ window.ARCHIVE_DATA = {
       "C-0__0000"
     ],
     "children": [
-      "C-F__0085",
+      "C-F__0010",
+      "C-F__0011",
+      "C-F__0012",
+      "C-F__0013",
+      "C-F__0014",
+      "C-F__0015",
+      "C-F__0016",
+      "C-F__0017",
+      "C-F__0018",
       "C-F__0092",
       "C-F__0093"
     ],
@@ -11824,7 +11830,7 @@ window.ARCHIVE_DATA = {
   "C-D__0099": {
     "id": "C-D__0099",
     "type": "pdf",
-    "title_en": "Patents Trivia (12 granted)",
+    "title_en": "Patents Trivia (12 granted) 2004 - 2014",
     "title_zh": "",
     "age": null,
     "description_en": "Granted Patents",
@@ -12474,10 +12480,10 @@ window.ARCHIVE_DATA = {
       "評語 ai-experts"
     ]
   },
-  "C-F__0085": {
-    "id": "C-F__0085",
+  "C-F__0010": {
+    "id": "C-F__0010",
     "type": "pdf",
-    "title_en": "self appraisal-2012",
+    "title_en": "Samsung appraisal-2009",
     "title_zh": "",
     "age": null,
     "description_en": "",
@@ -12486,17 +12492,377 @@ window.ARCHIVE_DATA = {
       "Yat-Sang Hung",
       "無我"
     ],
-    "time": "2012-12-05",
+    "time": "2009-12-31",
     "location": "USA",
     "ui_render": true,
     "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-C/img_thumb/C-F__0085_2012-12-05-sang_appraisal_self-appraisal-2012.webp",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0010_2009-12-31-samsung-appraisal-2009.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-C/pdfs/C-F__0085_2012-12-05-sang_appraisal_self-appraisal-2012.pdf",
+        "src": "assets/board-C/pdfs/C-F__0010_2009-12-31-samsung-appraisal-2009.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0011": {
+    "id": "C-F__0011",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2010",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2010-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0011_2010-12-31-samsung-appraisal-2010.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0011_2010-12-31-samsung-appraisal-2010.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0012": {
+    "id": "C-F__0012",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2011",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2011-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0012_2011-12-31-samsung-appraisal-2011.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0012_2011-12-31-samsung-appraisal-2011.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0013": {
+    "id": "C-F__0013",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2012",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2012-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0013_2012-12-31-samsung-appraisal-2012.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0013_2012-12-31-samsung-appraisal-2012.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0014": {
+    "id": "C-F__0014",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2014",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2014-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0014_2014-12-31-samsung-appraisal-2014.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0014_2014-12-31-samsung-appraisal-2014.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0015": {
+    "id": "C-F__0015",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2015",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2015-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0015_2015-12-31-samsung-appraisal-2015.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0015_2015-12-31-samsung-appraisal-2015.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0016": {
+    "id": "C-F__0016",
+    "type": "pdf",
+    "title_en": "Samsung appraisal 2017",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2015-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0016_2017-12-31-samsung-appraisal-2017.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0016_2017-12-31-samsung-appraisal-2017.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0017": {
+    "id": "C-F__0017",
+    "type": "pdf",
+    "title_en": "Samsung employee VOC 2012",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Samsung Human Resources",
+      "無我"
+    ],
+    "time": "2012-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0017_2012-12-31-samsung-employee-2012.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0017_2012-12-31-samsung-employee-2012.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "C-0__F000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "C-F__0018": {
+    "id": "C-F__0018",
+    "type": "pdf",
+    "title_en": "Samsung notebook 2013",
+    "title_zh": "",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "2013-07-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-C/img_thumb/C-F__0018_2013-07-31-samsung-notes-2013.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-C/pdfs/C-F__0018_2013-07-31-samsung-notes-2013.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-card.webp"
       }
     ],
@@ -12597,6 +12963,7 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
+      "亂語 text",
       "懸置 epoché",
       "理解 wissen",
       "詮釋 interpret",

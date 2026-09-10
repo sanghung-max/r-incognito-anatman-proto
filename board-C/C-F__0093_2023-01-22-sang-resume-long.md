@@ -26,6 +26,114 @@ pdf_thumbnail: assets/board-B/img_thumb/B-D__004F_2008-12-31-samsung-business-ca
 
 ## 亂語 / text
 
+### Qualifications 
+Visionary leadership position in CE device and mobile ecosystem product and service experience with track records of success – from creating strategic product/user experience design of devices and services in the market, to implementing in-depth product/user research of consumers that pioneers future useful, pleasurable & usable design. 
+
+My commitment to design & research excellence, together with 25+ years of broad-based product/service research and design experience & pragmatic industry savvy have empowered leading-edge innovations and energized planning/execution of value-creating product/user experience design, which have been extensively informed and validated by user-centric consumer research. 
+
+### Mission 
+- Understand consumer behavior through in-depth evidence-driven user and market research of consumer perception and behavior in their actual context of consumption and usage of products/services 
+- Generate informed and actionable insights from user research that help drive brand loyalty and product/service satisfaction 
+- Develop consumer research and product/service design best practices in the context of the convergent eco-system of connected physical and digital products/services. 
+- Build competent high-performance consumer research team through leading and mentoring by example
+
+### Experience & Accomplishments 
+#### Populus Group (for Samsung Electronics America) Contractor, Product Experience & User Research (September, 2021 to Jan, 2023)  
+- Supervise, mentor and manage design and research analysts
+- Provide knowledge-based leadership and expertise as technical subject matter expert in both qualitative and quantitative research and as managerial expert budgeting, requests for proposals, vendor management  
+- Design and implement best-in-class user research programs covering diverse touchpoints of product experience from in-store purchase experience, packaging design, out-of-box experience, branding, pricing, product/user experience design (industrial design, ergonomics, usability of both physical and cognitive UI design, apps design and interaction with other products and services in the eco-system. 
+#### Samsung Electronics America Director, Samsung Electronics America, Product Experience & User Research (March, 2008 to December 2020)  
+- Founded and led product experience research program for Samsung Premium smartphones and mobile ecosystem products since 2008. The evidence-driven research program has played a pivotal role in the growth and success of Galaxy smartphones from first generation through the current generation. 
+- Developed in-depth understanding of consumer behavior through numerous primary user and product research with targeted consumers of both Samsung and competitive products and services (smartphones tablets, laptops/2-in-1, wearables, smart speakers and display, mobile accessories and smart TVs) in the context of the product/service life-cycle and user journey.  
+- Recently completed projects (2019-2020) include behavioral segmentation of smartphone consumers, conjoint analysis of foldables and premium smartphones, van Westendorf pricing of foldables and premium smartphones, brand loyalty and satisfaction and dissatisfaction drivers of smartphone hardware/apps/software, smartphone elements of value with comprehensive benchmark of basic, media creation and consumption, practical apps and ecosystem products. 
+- Design and implement best-in-class user research programs covering diverse touchpoints of product experience from in-store purchase experience, packaging design, out-of-box experience, branding, pricing, product/user experience design (industrial design, ergonomics, usability of both physical and cognitive UI design, apps design and interaction with other products and services in the eco-system. 
+- Research programs accomplished included physical and virtual QWERTY keyboard design, modeling and validation of preference/ergonomics of form factor of smartphones and tablets, competitive product experience benchmarks of smartphones, tablets, laptops, smart watches, voice assistants, smart speakers and smart home products (emotional design, physical ergonomics, usability and life-style/needs).  
+- Provide knowledge-based leadership and expertise as technical subject matter expert in both qualitative and quantitative research and as managerial expert budgeting, requests for proposals, vendor management 
+- Collaborate with both internal organizations and user experience teams from different carriers on future mobile product design and research to realize vision. 
+- Advocate user experience design, research and evaluation capabilities/expertise through holistic design and research initiatives with cross functional teams from ergonomics, product concept design, research and strategy, and user experience organizations in Korea and North America.  
+- Created user experience reference design of messaging, email, touch and multimodal applications for future mobile devices.
+- Supervise, mentor and manage design and research analysts.
+
+####  Sprint Corporation Chief Scientist, Customer Equipment, Device Realization (2002-2008) Chief Scientist , Product Design & Usability (2000-2001) Senior Manager, User Requirements & Usability (1998-2000) Manager, Product Innovation (1996-1998) 
+- Pioneered visionary product concepts and solutions with synergistic technologies for mobile devices and services, currently focusing on visual communication and recognition, user generated media synchronization and archival, multimodal user interface and motion-based technology/services. Accomplishments included making Sprint’s frontrunner successes as world industry leader in Picture Mail service and camera phones with 7+ million subscribers and lowest churn among all data products and driving innovative automatic speech recognition solution for devices. 
+-  Initiated Sprint Clarity Design Program (2006-2007): design and develop concept iconic phones with focus on usability, simplicity and elegance, highlighting voice communication, visual communication, motion-based user interface, automatic speech recognition, GPS navigation and mobile health/fitness as useful applications for mass market. 
+- Recipient of Sprint Picture Mail Innovation Award (2005). Served as principal Picture Mail device user experience and user interface architect for 6 generations of client development since its initial launch in 2002. -
+- Co-inventor of Sprint’s award winning TouchPoint User Interface (Business Week’s 1998 Best Product Award).  
+- Inventor of 12 patented telecommunication products/services design and features 
+- Defined user interface roadmap, architecture, platform and reference design of Sprint future generation subscriber terminal leading to successful adoption of uiOne platform for MI UI project. Led cross-functional team effort in defining strategic and detailed user interface for MI UI.  
+- Served as team leader in detailed user interface design and development of both strategic client products and general user interface definition in 1XRTT and EV-DO devices, including Picture Mail, MI-UI, Streaming Media, voice and text messaging, Ready Link, Web Browser and Downloads and the general user interface of devices. Motivated active team participation in end-to-end phases of handset development (design, prototyping, field trial, product launch, and post-launch evaluation) in conjunction with major vendors and cross-functional product development teams. 
+- Chief user interface designer for Sprint Clarity concept phones, Sprint PCS TouchPoint series, Sanyo SCP series, and Samsung SCH series handsets. 
+- Directed and facilitated user interface product development activities with major manufacturers and software developers (Qualcomm, VeriSign, Core Mobility, Samsung, Sanyo, Nokia, LGIC, Audiovox, Motorola, Zi, Teleca, Tegic, Nuance). Build strategic partnerships with leading vendors of wireless industry.
+- Represented Sprint as board member in the International Imaging Industry Association (I3A) and position Sprint as a leading mobile digital media company by advocating mobile imaging in the and the development of international standards for Electronic Still Picture Imaging through I3A/IT10 activities. 
+- Supervised usability and ergonomic studies. 
+- Authored numerous user interface reference design and specifications, project plans, and user requirements. 
+- Recruited, mentored and supervised new and existing employees.
+
+#### Wingcast (Joint Venture between Qualcomm and Ford) Principal Engineer (2001-2002)
+- Defined 2nd generation user interface platform and roadmap for low-tiered and high-tiered embedded telematics units for Ford and Nissan vehicles. 
+- Created user interface reference design for embedded multimodal applications and location-based services on low-tiered and high-tiered embedded telematics units. 
+- Supervised usability studies of multi-modal applications using vehicle simulators. 
+
+#### US West Technologies Member of Technical Staff, Human Factors and Knowledge-based Engineering (1993-1996) 
+- Collected and analyzed user requirements and designed user interface for various operational units at US West to assist market sales, risk analysis and management, capacity provisioning, service delivery, product management, and network inventory. 
+- Developed user interface for staffing forecast system; designed and implemented online web help system. Conducted user training before launching forecast system 
+- Defined user requirements, user interface specifications; conducted knowledge acquisition, user profile analysis and usability studies; coordinated with vendors in the development and launching of a knowledge-based system for Sales Consultants of U S West. 
+- Contributed to the design and implementation of the Human Factors Home Page of US West Communications. 
+- Supervised contract engineers.
+
+
+#### Advanced Medical Management Computer Scientist (1991-1993) 
+- Developed management software for medical services providers. ○ Performed on-site installation, maintenance and trouble-shooting of physician automation systems.
+- Responsible for after sales software and hardware support. 
+- Managed the technical department; trained and supervised staff. 
+
+#### Marist Inc. Computer Systems Analyst (1989-1990)
+- Designed management software for medical services providers.
+- Performed on-site installation, maintenance and trouble-shooting of physician automation systems.
+
+#### US Patents 
+1. Method and system of message organization (6,772,143) 
+2. Method and apparatus for abbreviated dialing in a subscriber terminal (6,980,642) 
+3. Phone holster with attached keyboard (7,098,813) 
+4. Method and apparatus for transmission of digital image to destination associated with voice call participant (7,196,718) 
+5. Phone (D567,206) 
+6. Phone (D583,783) 
+7. Methods, apparatus, and system for monitoring user interface operation to facilitate analysis and report generation (7,904,079) 
+8. Method and system for providing software to a machine (7,945,642) 
+9. Method and apparatus for automatically generating custom format messages based on message-destination (8,001,192) 
+10. Network initiation and pull of media from mobile devices (8,054,950) 
+11. Method and system for integrating image-printing and communication service in a subscriber service plan (8,204,798) 
+12. Variable speed scrolling (8,904,306) 
+
+#### Education 
+- M.S. in Computer Science, State University of New York at Buffalo.
+- MBA, University of Missouri at Kansas City. 
+- Graduate Studies in Cognitive Psychology, State University of New York at Buffalo.
+- B. Social Science in Psychology & Philosophy, University of Hong Kong. 
+- B.S. in Physics & Mathematics, Hong Kong Baptist College.
+
+#### Publications & Conferences 
+1. Hung, Y.S., Yang, S., Neung, E.K., Vance, S. (2011). Mobile QWERTY User Research. HCI International 2011. Lecture Notes in Computer Science Springer Press. 
+2. Hung, Y.S. (2007) Invited Speaker. Mobile Imaging Service: Dead or Alive. 6Sight Imaging Conference, Monterey, CA, 2007. 
+3. Hung, Y.S. (2007) Invited Speaker. Mobile Imaging Behavior, 2007 and Beyond. InfoTrend Digital Imaging Conference, San Francisco, CA, 2007 
+4. Hung, Y.S. (2006) Mobile Automatic Speech Recognition User Interface Design, Conversations Mobile 2006, Orlando, FL, 2006. 
+5. Hung, Y.S. (2006) Invited Speaker. Camera Phone Lens Downstream Requirements. 6Sight Imaging Conference, Monterey, CA, 2006
+6. Hung, Y.S. (2005) Invited Speaker. Camera Phones vs. Digital Still Cameras: Usability and Picture Quality Issues. InfoTrend Digital Imaging Conference, San Francisco, CA, 2006 
+7. Hung, Y.S. (2005). Invited Speaker. Dial M for Mobility. I3A Technical Forum, PMA, Orlando, FL, 2005 
+8. Hung, Y.S., Swinton, Gerry, (2004) Invited Speaker. Generic Message Composer and Send-to Framework, I3A Leadership Conference, West Palm Beach, FL, 2004 
+9. Hung, Y.S. (1995). Usability Assessment of Knowledge-Based Systems in Customer Service Process Re-engineering. Annual Review of Communications, International Engineering Consortium. 
+10. Hung, Y.S. (1994). Speaker. Usability Assessment of Knowledge-Based Systems in Customer Service Process Re-Engineering. National Communications Forum, International Engineering Consortium, Chicago, IL, 1994 
+11. Jagota, A., and Hung, Y.S. (1990). A Neural Lexicon in a Hopfield-Style Network, IEEE, 2(607-610).
+
+
+
+
+
+
+
+
+
+
 
 
 ---

@@ -2,7 +2,7 @@
 id: C-0__C000
 type: folder
 parents: C-0__0000
-title_en: uswest mts hf-kbe
+title_en: uswest mts hf-kbe (1993 - 1996)
 title_zh: 人因-知識工程師
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0049_1995-12-31-uswest-business-card.webp
