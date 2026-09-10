@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>無道啟示錄</title>
   <link rel="stylesheet" href="style.css">
+  
+  <!-- PWA Manifest & Apple Meta Tags (Ignored by Electron) -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="無道啟示錄">
+  <link rel="apple-touch-icon" href="/icon-192.png">
+  
 </head>
 <body>
 
@@ -141,6 +149,22 @@
   </div>
 </aside>
 </div>
+
+<!-- Unified Runtime Detection & Service Worker Registration -->
+  <script>
+    const isElectron = typeof process !== 'undefined' && process.versions && !!process.versions.electron;
+
+    if ('serviceWorker' in navigator && !isElectron) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .then(reg => console.log('PWA ServiceWorker registered:', reg.scope))
+          .catch(err => console.error('PWA ServiceWorker failed:', err));
+      });
+    } else if (isElectron) {
+      console.log('Running in Electron environment - skipping PWA Service Worker');
+    }
+  </script>
+
 
   <!-- Runtime Assets -->
   <script src="js/icons.js"></script>
