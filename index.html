@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>無道啟示錄</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style.css">
   
   <!-- PWA Manifest & Apple Meta Tags (Ignored by Electron) -->
-  <link rel="manifest" href="/manifest.json">
+  <link rel="manifest" href="./manifest.json">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="無道啟示錄">
-  <link rel="apple-touch-icon" href="/icon-192.png">
+  <link rel="apple-touch-icon" href="./icon-192.png">
   
 </head>
 <body>
@@ -156,7 +156,7 @@
 
     if ('serviceWorker' in navigator && !isElectron) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
+        navigator.serviceWorker.register('./sw.js')
           .then(reg => console.log('PWA ServiceWorker registered:', reg.scope))
           .catch(err => console.error('PWA ServiceWorker failed:', err));
       });
@@ -167,15 +167,15 @@
 
 
   <!-- Runtime Assets -->
-  <script src="js/icons.js"></script>
-  <script src="js/archive_data.js"></script>
-  <script src="js/state.js"></script>
-  <script src="js/navigation.js"></script>
-  <script src="js/media.js"></script>
-  <script src="js/filter.js"></script>
-  <script src="js/render.js"></script>
-  <script src="js/main.js"></script>
-  <script src="js/settings.js"></script>
+  <script src="./js/icons.js"></script>
+  <script src="./js/archive_data.js"></script>
+  <script src="./js/state.js"></script>
+  <script src="./js/navigation.js"></script>
+  <script src="./js/media.js"></script>
+  <script src="./js/filter.js"></script>
+  <script src="./js/render.js"></script>
+  <script src="./js/main.js"></script>
+  <script src="./js/settings.js"></script>
   
 </body>
 </html>

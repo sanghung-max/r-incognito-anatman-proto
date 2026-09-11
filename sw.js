@@ -1166,7 +1166,6 @@ const ASSETS_TO_CACHE = [
   "/r-incognito-anatman-proto/package.json",
   "/r-incognito-anatman-proto/README.md",
   "/r-incognito-anatman-proto/style.css",
-  "/r-incognito-anatman-proto/sw.js",
   "/r-incognito-anatman-proto/_py-utilities/2026-07-27/add-yaml-separator-deconstruct-ai-expert-critic.py",
   "/r-incognito-anatman-proto/_py-utilities/2026-07-27/backfill-epoche.py",
   "/r-incognito-anatman-proto/_py-utilities/2026-07-27/compile_archive.py",
@@ -1215,16 +1214,33 @@ const ASSETS_TO_CACHE = [
   "/r-incognito-anatman-proto/__pycache__/remove-section-message-from-md.cpython-314.pyc"
 ];
 
+// Resilient Install Event: Caches individual files so a 404 won't break setup
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      console.log('Caching 1213 assets from GitHub Pages...');
-      return cache.addAll(ASSETS_TO_CACHE);
+    caches.open(CACHE_NAME).then(async (cache) => {
+      console.log('Starting caching process for 1212 assets...');
+      
+      const cachePromises = ASSETS_TO_CACHE.map(async (url) => {
+        try {
+          const response = await fetch(url);
+          if (response.ok) {
+            await cache.put(url, response);
+          } else {
+            console.warn('Failed to cache (HTTP ' + response.status + '): ' + url);
+          }
+        } catch (err) {
+          console.warn('Network error caching asset: ' + url, err);
+        }
+      });
+
+      await Promise.allSettled(cachePromises);
+      console.log('Asset pre-caching finished.');
     })
   );
   self.skipWaiting();
 });
 
+// Activate Event: Clean up legacy caches
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
@@ -1234,6 +1250,7 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
+// Fetch Event: Serve cached content first, fallback to network
 self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
