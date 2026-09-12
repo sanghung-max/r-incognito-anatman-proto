@@ -1,91 +1,92 @@
-// generate-sw.js
 const fs = require('fs');
 const path = require('path');
 
-const PUBLIC_DIR = path.join(__dirname);
-const IGNORE_DIRS = ['.git', 'node_modules'];
+// Extensions allowed in the offline cache
+const ALLOWED_EXTENSIONS = new Set([
+  '.html', '.js', '.css', '.json', 
+  '.webp', '.jpg', '.jpeg', '.png', '.svg', '.gif', '.ico',
+  '.pdf', '.woff', '.woff2', '.ttf'
+]);
 
-// Set your GitHub repository name
-const GH_REPO_NAME = '/r-incognito-anatman-proto/';
+// Explicit directories or prefixes to ignore entirely
+const IGNORE_DIR_PATTERNS = [
+  /^\./,               // Hidden folders (.git, .obsidian)
+  /^node_modules$/
+];
 
-function getAllFiles(dirPath, arrayOfFiles = []) {
-  const files = fs.readdirSync(dirPath);
+// Specific files to skip
+const IGNORE_FILES = new Set([
+  'generate-sw.js',
+  'package.json',
+  'package-lock.json',
+  'CNAME'
+]);
 
-  files.forEach((file) => {
-    const fullPath = path.join(dirPath, file);
-    if (fs.statSync(fullPath).isDirectory()) {
-      if (!IGNORE_DIRS.includes(file)) {
-        arrayOfFiles = getAllFiles(fullPath, arrayOfFiles);
+function getFilesRecursively(dir, baseDir = dir) {
+  let results = [];
+  const list = fs.readdirSync(dir);
+
+  list.forEach((file) => {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+    const fileName = path.basename(filePath);
+
+    if (stat && stat.isDirectory()) {
+      // Skip ignored directories
+      const isIgnored = IGNORE_DIR_PATTERNS.some(pattern => pattern.test(fileName));
+      if (!isIgnored) {
+        results = results.concat(getFilesRecursively(filePath, baseDir));
       }
     } else {
-      let relativePath = path.relative(PUBLIC_DIR, fullPath).replace(/\\/g, '/');
-      
-      // Exclude build tools, hidden files, and sw.js itself from array
-      if (
-        !relativePath.endsWith('generate-sw.js') &&
-        !relativePath.endsWith('sw.js') &&
-        !relativePath.endsWith('.DS_Store')
-      ) {
-        const webPath = (GH_REPO_NAME + relativePath).replace(/\/\//g, '/');
-        arrayOfFiles.push(webPath);
+      const ext = path.extname(fileName).toLowerCase();
+
+      // Check if file is explicit skip or not in allowed extensions
+      if (IGNORE_FILES.has(fileName) || !ALLOWED_EXTENSIONS.has(ext)) {
+        return;
       }
+
+      // Convert local OS path to web URL path relative to root
+      let relativePath = path.relative(baseDir, filePath).replace(/\\/g, '/');
+      
+      // Ensure space encoding for files with spaces in names
+      relativePath = encodeURI(relativePath);
+
+      results.push('/' + relativePath);
     }
   });
 
-  return arrayOfFiles;
+  return results;
 }
 
-const allAssets = getAllFiles(PUBLIC_DIR);
+// Generate the asset list
+const rootDir = __dirname; // or path to project root
+const assetsToCache = getFilesRecursively(rootDir);
 
-// Embedded template for generated sw.js
-const swContent = `const CACHE_NAME = 'mudao-archive-v1';
-const ASSETS_TO_CACHE = ${JSON.stringify(allAssets, null, 2)};
+// Generate sw.js file
+const swContent = `
+const CACHE_NAME = 'archive-cache-v1';
+const ASSETS_TO_CACHE = ${JSON.stringify(assetsToCache, null, 2)};
 
-// Resilient Install Event: Caches individual files so a 404 won't break setup
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then(async (cache) => {
-      console.log('Starting caching process for ${allAssets.length} assets...');
-      
-      const cachePromises = ASSETS_TO_CACHE.map(async (url) => {
-        try {
-          const response = await fetch(url);
-          if (response.ok) {
-            await cache.put(url, response);
-          } else {
-            console.warn('Failed to cache (HTTP ' + response.status + '): ' + url);
-          }
-        } catch (err) {
-          console.warn('Network error caching asset: ' + url, err);
-        }
-      });
-
-      await Promise.allSettled(cachePromises);
-      console.log('Asset pre-caching finished.');
+    caches.open(CACHE_NAME).then((cache) => {
+      return Promise.allSettled(
+        ASSETS_TO_CACHE.map((url) => 
+          cache.add(url).catch((err) => console.warn('Failed to cache:', url, err))
+        )
+      );
     })
   );
-  self.skipWaiting();
 });
 
-// Activate Event: Clean up legacy caches
-self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.map((k) => k !== CACHE_NAME && caches.delete(k)))
-    )
-  );
-  self.clients.claim();
-});
-
-// Fetch Event: Serve cached content first, fallback to network
 self.addEventListener('fetch', (event) => {
   event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      return cachedResponse || fetch(event.request);
+    caches.match(event.request).then((response) => {
+      return response || fetch(event.request);
     })
   );
 });
 `;
 
-fs.writeFileSync(path.join(__dirname, 'sw.js'), swContent);
-console.log(`Successfully generated sw.js with ${allAssets.length} assets.`);
+fs.writeFileSync(path.join(rootDir, 'sw.js'), swContent);
+console.log(`Service worker generated with ${assetsToCache.length} assets.`);
