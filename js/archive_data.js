@@ -12875,8 +12875,10 @@ window.ARCHIVE_DATA = {
     ],
     "children": [],
     "leaf_count": 0,
-    "has_content": false,
-    "section_keys": []
+    "has_content": true,
+    "section_keys": [
+      "亂語 text"
+    ]
   },
   "C-F__0092": {
     "id": "C-F__0092",

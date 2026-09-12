@@ -773,6 +773,7 @@ const ASSETS_TO_CACHE = [
   "/assets/data/nodes/C-F__0015.json",
   "/assets/data/nodes/C-F__0016.json",
   "/assets/data/nodes/C-F__0017.json",
+  "/assets/data/nodes/C-F__0018.json",
   "/assets/data/nodes/C-F__0085.json",
   "/assets/data/nodes/C-F__0092.json",
   "/assets/data/nodes/C-F__0093.json",
