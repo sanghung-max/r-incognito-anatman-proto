@@ -68,13 +68,21 @@ const CACHE_NAME = 'archive-cache-v1';
 const ASSETS_TO_CACHE = ${JSON.stringify(assetsToCache, null, 2)};
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
+
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return Promise.allSettled(
-        ASSETS_TO_CACHE.map((url) => 
-          cache.add(url).catch((err) => console.warn('Failed to cache:', url, err))
-        )
-      );
+    caches.open(CACHE_NAME).then(async (cache) => {
+      for (const url of ASSETS_TO_CACHE) {
+        // Check if item was already stored in a previous session
+        const existingResponse = await cache.match(url);
+        if (!existingResponse) {
+          try {
+            await cache.add(url);
+          } catch (err) {
+            console.warn('Failed to cache on this run:', url);
+          }
+        }
+      }
     })
   );
 });

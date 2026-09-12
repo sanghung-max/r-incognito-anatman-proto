@@ -191,14 +191,14 @@ const ASSETS_TO_CACHE = [
   "/assets/board-7/pdfs/7-D__0005_1982-10-31-usa.pdf",
   "/assets/board-7/pdfs/7-D__0006_1983-05-31-medical-tidbits.pdf",
   "/assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
-  "/assets/board-A/pdfs/A-D__0001_1976-12-31-sjc-notebook1.pdf",
-  "/assets/board-A/pdfs/A-D__0002_1977-06-21_sjc-hkbc-notebook2.pdf",
-  "/assets/board-A/pdfs/A-D__0003_1978-04-30_sjc-hkbc-notebook3.pdf",
+  "/assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+  "/assets/board-A/pdfs/A-D__0002_1977-06-21-sjc-hkbc-notebook2.pdf",
+  "/assets/board-A/pdfs/A-D__0003_1978-04-30-sjc-hkbc-notebook3.pdf",
   "/assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4%20essays.pdf",
-  "/assets/board-A/pdfs/A-D__0005_1978-05-24_sjc-hkbc-loose-pages.pdf",
-  "/assets/board-A/pdfs/A-D__0006_1978-11-21_sjc-hkc-notebook-essays-dreams.pdf",
-  "/assets/board-A/pdfs/A-D__0007_1979-08-01_late-hkbc-loose-pages.pdf",
-  "/assets/board-A/pdfs/A-D__0008_1983-04-09_hku-loose-pages.pdf",
+  "/assets/board-A/pdfs/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.pdf",
+  "/assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+  "/assets/board-A/pdfs/A-D__0007_1979-08-01-late-hkbc-loose-pages.pdf",
+  "/assets/board-A/pdfs/A-D__0008_1983-04-09-hku-loose-pages.pdf",
   "/assets/board-B/img_color/B-D__0001_1967-12-31-sang-nine.webp",
   "/assets/board-B/img_color/B-D__0002_2003-12-31-sprint-cell-tower-sang.webp",
   "/assets/board-B/img_color/B-D__0003_2008-11-28-hong-kong-1997.webp",
@@ -269,11 +269,11 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_color/B-D__0052_2012-02-01-hk-jockey-club.webp",
   "/assets/board-B/img_color/B-D__0053_2000-12-01-sprintpcs.webp",
   "/assets/board-B/img_color/B-D__0054_2024-08-04-az-chapel-holy-cross.webp",
-  "/assets/board-B/img_color/B-D__0055_2015-11-27_sunglasses.webp",
+  "/assets/board-B/img_color/B-D__0055_2015-11-27-sunglasses.webp",
   "/assets/board-B/img_color/B-D__0056_2017-07-27-qualtrics-samsung.webp",
   "/assets/board-B/img_color/B-D__0057_2019-07-08-nyc-park-binoculars.webp",
   "/assets/board-B/img_color/B-D__0058_2014-10-26-halloween.webp",
-  "/assets/board-B/img_color/B-D__0059_2014-07-01_hk-tram.webp",
+  "/assets/board-B/img_color/B-D__0059_2014-07-01-hk-tram.webp",
   "/assets/board-B/img_color/B-D__005A_2012-08-17-monster-eyes.webp",
   "/assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
   "/assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
@@ -352,11 +352,11 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__0052_2012-02-01-hk-jockey-club.webp",
   "/assets/board-B/img_thumb/B-D__0053_2000-12-01-sprintpcs.webp",
   "/assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cross.webp",
-  "/assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp",
+  "/assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp",
   "/assets/board-B/img_thumb/B-D__0056_2017-07-27-qualtrics-samsung.webp",
   "/assets/board-B/img_thumb/B-D__0057_2019-07-08-nyc-park-binoculars.webp",
   "/assets/board-B/img_thumb/B-D__0058_2014-10-26-halloween.webp",
-  "/assets/board-B/img_thumb/B-D__0059_2014-07-01_hk-tram.webp",
+  "/assets/board-B/img_thumb/B-D__0059_2014-07-01-hk-tram.webp",
   "/assets/board-B/img_thumb/B-D__005A_2012-08-17-monster-eyes.webp",
   "/assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
   "/assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
@@ -368,7 +368,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__A006_1981-01-01-%E7%84%A1%E5%A5%88.webp",
   "/assets/board-B/img_thumb/B-D__A007_1980-01-01-%E6%98%9F.webp",
   "/assets/board-B/img_thumb/B-D__A009_1998-01-01-%E9%90%96%E8%A8%B1%E9%A2%A8%E9%9B%A8.webp",
-  "/assets/board-B/img_thumb/B-D__fffe_2025-07-01-swiss-waterfall.webp",
+  "/assets/board-B/img_thumb/B-D__FFFE_2025-07-01-swiss-waterfall.webp",
   "/assets/board-B/pdfs/B-C__0001_2026-08-31-grok-profile.pdf",
   "/assets/board-B/pdfs/B-C__0002_2026-08-31-copilot-profile.pdf",
   "/assets/board-B/pdfs/B-C__0003_2026-08-31-perplexity-profile.pdf",
@@ -810,13 +810,21 @@ const ASSETS_TO_CACHE = [
 ];
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
+
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return Promise.allSettled(
-        ASSETS_TO_CACHE.map((url) => 
-          cache.add(url).catch((err) => console.warn('Failed to cache:', url, err))
-        )
-      );
+    caches.open(CACHE_NAME).then(async (cache) => {
+      for (const url of ASSETS_TO_CACHE) {
+        // Check if item was already stored in a previous session
+        const existingResponse = await cache.match(url);
+        if (!existingResponse) {
+          try {
+            await cache.add(url);
+          } catch (err) {
+            console.warn('Failed to cache on this run:', url);
+          }
+        }
+      }
     })
   );
 });

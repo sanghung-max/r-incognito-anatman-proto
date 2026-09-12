@@ -4602,48 +4602,6 @@ window.ARCHIVE_DATA = {
     "has_content": false,
     "section_keys": []
   },
-  "6-B__0001": {
-    "id": "6-B__0001",
-    "type": "img",
-    "title_en": "Unsent Letter 1983",
-    "title_zh": "沒有寄出的信",
-    "age": null,
-    "description_en": "",
-    "description_zh": "",
-    "authors": [
-      "R. Incognito",
-      "無我"
-    ],
-    "time": "1983-05-31",
-    "location": "USA",
-    "ui_render": true,
-    "display_priority": false,
-    "audio": "",
-    "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
-    "pdf_manifest": [],
-    "page_pattern": "",
-    "page_thumbnail_pattern": "",
-    "page_start": null,
-    "page_end": null,
-    "parents": [
-      "6-0__B000",
-      "A-0__D000"
-    ],
-    "children": [],
-    "leaf_count": 0,
-    "has_content": true,
-    "section_keys": [
-      "觀景 vista",
-      "亂語 text",
-      "懸置 epoché",
-      "理解 wissen",
-      "詮釋 interpret",
-      "拆建 deconstruct",
-      "評語 ai-experts"
-    ]
-  },
   "6-A__0002": {
     "id": "6-A__0002",
     "type": "pdf",
@@ -4663,11 +4621,11 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001-1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
-        "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
+        "thumbnail": "assets/board-B/img_thumb/B-D__0024_2016-05-18-bleeding-heart.webp"
       }
     ],
     "page_pattern": "",
@@ -4704,11 +4662,11 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0001-1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
-        "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
+        "src": "assets/board-A/pdfs/A-D__0001-1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0024_2016-05-18-bleeding-heart.webp"
       }
     ],
     "page_pattern": "",
@@ -4724,6 +4682,53 @@ window.ARCHIVE_DATA = {
     "has_content": true,
     "section_keys": [
       "亂語 text"
+    ]
+  },
+  "6-B__0001": {
+    "id": "6-B__0001",
+    "type": "img",
+    "title_en": "Unsent Letter 1983",
+    "title_zh": "沒有寄出的信",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "R. Incognito",
+      "無我"
+    ],
+    "time": "1983-05-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/6-B___0001_1983-05-31-lovelorn2.pdf",
+        "thumbnail": ""
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "6-0__B000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista",
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "7-0__0000": {
@@ -6813,8 +6818,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0055_2015-11-27_sunglasses.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp",
+    "img_color": "assets/board-B/img_color/B-D__0055_2015-11-27-sunglasses.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -6957,8 +6962,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-sjc-notebook1.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -6995,8 +7000,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0002_1977-06-21_sjc-hkbc-notebook2.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0002_1977-06-21-sjc-hkbc-notebook2.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7033,8 +7038,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0003_1978-04-30_sjc-hkbc-notebook3.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0003_1978-04-30-sjc-hkbc-notebook3.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7072,7 +7077,7 @@ window.ARCHIVE_DATA = {
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 essays.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7109,8 +7114,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0005_1978-05-24_sjc-hkbc-loose-pages.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7149,8 +7154,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21_sjc-hkc-notebook-essays-dreams.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7187,8 +7192,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0007_1979-08-01_late-hkbc-loose-pages.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0007_1979-08-01-late-hkbc-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",
@@ -7225,8 +7230,8 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0008_1983-04-09_hku-loose-pages.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp"
+        "src": "assets/board-A/pdfs/A-D__0008_1983-04-09-hku-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
     "page_pattern": "",

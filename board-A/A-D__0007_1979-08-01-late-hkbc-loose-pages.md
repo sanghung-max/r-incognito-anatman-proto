@@ -1,23 +1,25 @@
 ---
-id: A-D__0003
+id: A-D__0007
 type: pdf
 parents:
   - A-0__D000
-title_en: Note Book 3 1978
+title_en: Loose Pages 7 1979
 title_zh:
 authors:
   - Yat-Sang Hung
   - 無我
-time: 1978-04-30
+time: 1979-08-01
 location: Hong Kong
 ui_render: true
 display_priority: false
 img_thumb: assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp
-pdf: assets/board-A/pdfs/A-D__0003_1978-04-30_sjc-hkbc-notebook3.pdf
-pdf_thumbnail: assets/board-B/img_thumb/B-D__0055_2015-11-27_sunglasses.webp
+pdf: assets/board-A/pdfs/A-D__0007_1979-08-01-late-hkbc-loose-pages.pdf
+pdf_thumbnail: assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp
 ---
 
 ## 觀景 / vista
+
+
 
 
 ---
