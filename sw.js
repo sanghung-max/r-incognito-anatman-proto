@@ -724,6 +724,7 @@ const ASSETS_TO_CACHE = [
   "/assets/data/nodes/B-D__0054.json",
   "/assets/data/nodes/B-D__0055.json",
   "/assets/data/nodes/B-D__0060.json",
+  "/assets/data/nodes/B-D__0062.json",
   "/assets/data/nodes/B-D__A001.json",
   "/assets/data/nodes/B-D__A002.json",
   "/assets/data/nodes/B-D__A003.json",
