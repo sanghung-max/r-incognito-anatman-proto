@@ -195,7 +195,9 @@ window.ARCHIVE_DATA = {
     "parents": [
       "1-0__0000"
     ],
-    "children": [],
+    "children": [
+      "B-D__0062"
+    ],
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
@@ -7585,6 +7587,7 @@ window.ARCHIVE_DATA = {
       "B-D__0053",
       "B-D__0054",
       "B-D__0060",
+      "B-D__0062",
       "B-D__A001",
       "B-D__A002",
       "B-D__A003",
@@ -10668,6 +10671,46 @@ window.ARCHIVE_DATA = {
       "B-0__D000",
       "6-0__D000",
       "A-0__B020"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "B-D__0062": {
+    "id": "B-D__0062",
+    "type": "img",
+    "title_en": "sang pre-1975 portrait",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Hung Hong-Chit"
+    ],
+    "time": "2018-04-22",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "B-0__D000",
+      "1-0__D000"
     ],
     "children": [],
     "leaf_count": 0,

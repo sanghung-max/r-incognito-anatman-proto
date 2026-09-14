@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-1/1-0__D000_priggish.md",
+                "file": "board-B/B-D__0062_2018-04-22-auschwitz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-0__D000_priggish"
+              "title": "B-D__0062_2018-04-22-auschwitz 1"
             }
           }
         ]
@@ -185,9 +185,20 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
-    "board-3/3-0__B000_arguing-with-ai-christians.md",
-    "board-3/3-0__C000_godog-devotion.md",
+    "assets/data/nodes/B-D__0062.json",
+    "board-B/B-D__0060_2018-04-22-auschwitz.md",
+    "board-B/B-D__0062_2018-04-22-auschwitz 1.md",
+    "board-B/B-D__fffe_2025-07-01-swiss-waterfall.md",
+    "board-B/B-D__0019_1967-12-31-chinese-methodist.md",
     "board-1/1-0__D000_priggish.md",
+    "board-3/3-A__0005_1983-12-24-godog-christ-dialog-unpublished.md",
+    "board-3/3-A__0004_1984-12-24-at-the-origin-unpublished.md",
+    "board-3/3-A__0003_1983-12-24-jesus-who-are-you-0316-83-84.md",
+    "board-3/3-A__0002_1982-12-31-thanatos-0092-83-84.md",
+    "board-3/3-A__0001_1978-08-06-obsequies-of-the-gods.md",
+    "board-3/3-0__C000_godog-devotion.md",
+    "board-3/3-0__B000_arguing-with-ai-christians.md",
+    "board-3/3-0__A000_thanatos-to-anataman.md",
     "board-1/1-0__C000_mummys-boy.md",
     "board-1/1-0__A000_braised-pork-with-rattan.md",
     "board-1/1-0__Z000_naïveté-album.md",
@@ -198,23 +209,12 @@
     "assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
     "assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
     "assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975- 101c.webp",
-    "board-B/B-D__0060_2018-04-22-auschwitz.md",
     "board-5/5-A__0002_1976-05-12-twilight.md",
     "board-5/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.md",
     "board-5/5-A__0001_1976-04-30-stellar-laudation.md",
     "board-5/5-A__0005_1976-04-25-guiding.md",
     "board-5/5-A__0004_1976-03-31-nature.md",
     "board-4/4-C__0001_1983-11-01-hk-people-govern-hk.md",
-    "board-4/4-B__0005_1983-11-06-thatcher-hkusu-crtique.md",
-    "board-4/4-C__0002_1984-11-22-hku-congregation.md",
-    "board-4/4-0__A000_self-determination-suicide.md",
-    "board-4/4-0__0000_hong-kong-1997.md",
-    "board-4/4-A__0003_1983-08-30-hong-kong-determination-critique-reply.md",
-    "board-4/4-A__0004-1983-08-30-random-thoughts-1997.md",
-    "board-3/3-A__0007_1978-08-31-ultimate-concern.md",
-    "board-3/3-B__0001_2026-08-31-arguing-with-grok.md",
-    "board-3/3-B__0002_2026-08-31-arguing-with-copilot.md",
-    "board-3/3-B__0004_2026-05-29-arguing-with-chatgpt.md",
     "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
     "assets/board-B/videos/B-D__FFFE_2025-07-01-swiss-waterfall.mp4",
     "assets/board-A/pdfs/board-B.lnk",
