@@ -22,7 +22,7 @@ pdf_thumbnail: assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cros
 
 ## 觀景 / vista
 
-### Perplexity:
+### Perplexity | September 2026:
 My critique was substantially better than the original Christian role-play at identifying its circularity, but it still carries important limitations. Most notably, it may over-credit GODOG’s critique as an epistemic knockout while underexamining GODOG’s own reductive premises, rhetorical coercion, and inherited philosophical commitments
 ### What my critique did well
 

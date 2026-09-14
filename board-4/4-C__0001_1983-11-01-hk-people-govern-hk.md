@@ -20,7 +20,7 @@ pdf_thumbnail: assets/board-B/img_thumb/B-D__0059_2014-07-01_hk-tram.webp
 
 ## 觀景 / vista
 
-
+This was an unpublished essay
 
 ---
 

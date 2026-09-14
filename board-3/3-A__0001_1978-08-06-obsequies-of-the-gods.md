@@ -33,8 +33,8 @@ pdf_2_thumbnail: assets/common/img_thumb/A-A__0234_1982-12-31-83-82-83.webp
 ## 亂語 text
 
 ## English
-Original
-## The Obsequies of the Gods      R. Incognito  
+
+### The Obsequies of the Gods      R. Incognito  
 **(Written: August 1978)  Published: 1982**
 
 To arch over the dewy bow of hope,
@@ -87,7 +87,7 @@ Reality, to us, is always novel and capricious; yet we can always achieve ontolo
 In a Universe where entropy always increases, where death is inevitable, we can do nothing but to accept it. With this enhanced sensitivity for our fellow-men, with this new level of self-awareness, we can be tragically beautiful and make our fleeting existence unique, as well as meaningful. Let us blaze with the ferment zest of life. We falter but we strive to stand. We suffer rejection but continue to give. Let us not judge people by our grudging scale of merits and demerits, but rather let us think in their own terms and extend our precious quality of empathy. In this way, we can be deeply religious, thus giving us a feeling of pantheistic ecstasy and individualized religiosity. In this way, and perhaps no other, we can be the true children of the Universe. 
 
 ## Chinese
-**translated by Gemini  Google Doc**
+**translated by Gemini in Google Doc**
 
 ## 眾神的葬禮 R. Incognito  
 **（撰稿於：1978年8月）出版於：1982年**

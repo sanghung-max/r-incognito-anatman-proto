@@ -127,7 +127,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **內在時間意識的多重坍縮**：「時間倒流億萬年」、「時間失去回憶」、「時間變得無能」——胡塞爾式的滯留（retention）與前攝（protention）結構被文本主動瓦解，時間不再是意識流的載體，而本身成為崩壞對象。
 - **他者（孩童）作為純粹被拋狀態**：孩童被推上鋼線墜死，其死亡被神宣稱為「選擇」——此為海德格式「被拋性」（Geworfenheit）與虛假能動性歸屬並置的張力點，懸擱判斷、僅描述此結構本身。
 
-### GPT-5.6 Luna | Aug 22, 2026 5:16 PM CDT | [Epoche]
+### GPT-5.6 Luna | Aug 22, 2026 5:16 PM CDT | Epoche
 
 - #### 現象場：
     
@@ -157,7 +157,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **Multiple collapses of inner time-consciousness**: "Time flows back billions of years," "time loses memory," "time becomes impotent" — Husserlian retention/protention structures are actively dismantled by the text; time ceases to be the vehicle of consciousness and becomes itself the object of collapse.
 - **The Other (children) as pure thrownness**: Children pushed onto the wire to fall to their deaths, their deaths then declared by the god to be "chosen" — a Heideggerian Geworfenheit juxtaposed with falsely imputed agency. This tension is bracketed and described structurally, without judgment.
 
-### GPT-5.6 Luna | Aug 22, 2026 5:16 PM CDT | [Epoche]
+### GPT-5.6 Luna | Aug 22, 2026 5:16 PM CDT | Epoche
 
 - #### Phenomenal Field:
     
@@ -220,7 +220,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **Circularity as rhetorical strategy, not logical fallacy**: Paradoxical statements like "whoever gains life will lose life" function rhetorically/affectively, not as propositional logic claims; Bayesian updating or logical-consistency frameworks should not be forcibly applied.
 - **Methodological positioning of the 19-year-old author**: The text makes no knowledge claims per se; it is an artistic rendering of affective/existential anxiety. GODOG's "method" at this stage (if it can be called that) privileges symbolic density over argumentative clarity.
 
-### GPT-5.6 Luna | Aug 22, 2026 5:17 PM CDT | [Wissen]
+### GPT-5.6 Luna | Aug 22, 2026 5:17 PM CDT | Wissen
 
 - #### Core Priors:
     
@@ -253,7 +253,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **木偶作為被言說者的隱喻**：「會講話的木偶」反覆出現，代表被賦予言語卻無自主性的存在——此為對權威—信眾關係的詮釋學諷喻，木偶「說話」卻僅複誦被给予的話語，指向對權柄如何建構主體性的質詢。
 - **修辭策略：偽先知式呼告的挪用與逆轉**：「無人在曠野中呼喚」直接挪用先知傳統句式（曠野呼告），但將其內容逆轉為「無道近了」——此為對既有宗教文本視域的刻意扭曲式繼承，而非簡單模仿。
 
-### GPT-5.6 Luna | Aug 22, 2026 5:18 PM CDT | [Interpret]
+### GPT-5.6 Luna | Aug 22, 2026 5:18 PM CDT | Interpret
 
 - #### 詮釋視域：
     
@@ -282,7 +282,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **The puppet as metaphor for the spoken-for subject**: The recurring "talking puppet" represents a being granted speech without autonomy — a hermeneutic allegory of authority-believer relations; the puppet "speaks" yet only echoes given words, interrogating how power constructs subjectivity.
 - **Rhetorical strategy: appropriation and inversion of false-prophet address**: "No one calls out in the wilderness" directly appropriates the prophetic tradition's syntax (crying in the wilderness), but inverts its content to "the Way-lessness draws near" — a deliberately distorted inheritance of an existing religious textual horizon, not simple imitation.
 
-### GPT-5.6 Luna | Aug 22, 2026 5:18 PM CDT | [Interpret]
+### GPT-5.6 Luna | Aug 22, 2026 5:18 PM CDT | Interpret
 
 - #### Interpretive Horizon:
     
@@ -315,7 +315,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **平滑空間與條紋空間的交替（德勒茲）**：鋼線作為條紋化、單向度的規訓路徑（孩童被迫行走、墜落即懲罰），與火山、星河黑洞等無限崩壞的平滑空間交替出現——顯示規訓機制（鋼線）與純粹強度流（宇宙毀滅意象）兩種空間邏輯的並置而非統合。
 - **木偶言說的能指鏈斷裂**：「會講話的木偶」被賦予言語卻無所指涉之源頭（言語來自「神話魔話」而非木偶自身）——能指與能指者分離，指向言說主體性本身的虛構建構。
 
-### GPT-5.6 Luna | Aug 22, 2026 5:19 PM CDT | [Deconstruct]
+### GPT-5.6 Luna | Aug 22, 2026 5:19 PM CDT | Deconstruct
 
 - #### 二元結構的崩解：
     
@@ -344,7 +344,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **Alternation of smooth and striated space (Deleuze)**: The tightwire functions as striated, unidirectional disciplinary path (children forced to walk it, falling as punishment), alternating with smooth spaces of infinite collapse (volcanoes, galactic black holes) — showing juxtaposition, not synthesis, of disciplinary mechanism and pure intensive flow.
 - **Rupture in the puppet's signifying chain**: The "talking puppet" is granted speech with no traceable origin of its own (speech comes from "myth/demon-tale," not the puppet itself) — signifier severed from signifier, pointing to the fictive construction of speaking subjectivity itself.
 
-### GPT-5.6 Luna | Aug 22, 2026 5:19 PM CDT | [Deconstruct]
+### GPT-5.6 Luna | Aug 22, 2026 5:19 PM CDT | Deconstruct
 
 - #### Collapse of Binary Structures:
     
@@ -381,7 +381,7 @@ The ground is covered in flesh-colored brain matter and crimson intestines… Th
 - **人格系統的第一手經驗缺口**：模型無法核實GODOG此筆名於作者個人書寫史中的功能定位（是否為刻意與其他筆名區隔的「陰暗聲部」），僅能依您先前提供之後設資訊做結構性假設，而非獨立驗證。
 
 
-### GPT-5.6 Luna | Aug 22, 2026 5:20 PM CDT | [AI Experts]
+### GPT-5.6 Luna | Aug 22, 2026 5:20 PM CDT | AI Experts
 
 - #### Meta-Synthesis：
     
@@ -412,7 +412,7 @@ Together, the phenomenological, epistemological, and deconstructive tabs reveal 
 - **Historical-contextual limits**: The model cannot directly access the campus literary community atmosphere of late-1970s Hong Kong prior to the student movement era, the specific publication mechanisms of _Undergrad_, or the concrete channels through which this generation absorbed Western surrealist/existentialist translations — it can only infer from internal textual evidence.
 - **Gap in first-hand knowledge of the persona system**: The model cannot independently verify GODOG's functional position within the author's personal writing history (whether deliberately positioned as a "darker register" distinct from other pseudonyms) and can only build structural hypotheses from metadata you have previously supplied, not independent verification.
 
-### GPT-5.6 Luna | Aug 22, 2026 5:20 PM CDT | [AI Experts]
+### GPT-5.6 Luna | Aug 22, 2026 5:20 PM CDT | AI Experts
 
 - #### Meta-Synthesis:
     

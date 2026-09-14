@@ -73,6 +73,7 @@ window.ARCHIVE_DATA = {
       "1-0__A000",
       "1-0__B000",
       "1-0__C000",
+      "1-0__D000",
       "1-0__Z000"
     ],
     "leaf_count": 0,
@@ -168,6 +169,38 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": false,
     "section_keys": []
+  },
+  "1-0__D000": {
+    "id": "1-0__D000",
+    "type": "folder",
+    "title_en": "priggish ignoramus",
+    "title_zh": "戇QQ + 老土",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [],
+    "time": "",
+    "location": "",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "1-0__0000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
   },
   "1-0__Z000": {
     "id": "1-0__Z000",
@@ -2157,6 +2190,7 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
+      "觀景 vista",
       "亂語 text",
       "懸置 epoché",
       "理解 wissen",
@@ -2182,9 +2216,14 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-4/img_color/4-C__0001_1983-11-01-hk-people-govern-hk.webp",
-    "img_thumb": "assets/board-4/img_thumb/4-C__0001_1983-11-01-hk-people-govern-hk.webp",
-    "pdf_manifest": [],
+    "img_color": "",
+    "img_thumb": "assets/board-4/img_thumb/4-C__0002_1984-11-22-hku-congregation-gazette.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-4/img_color/4-C__0002_1984-11-22-hku-congregation-gazette.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0059_2014-07-01-hk-tram.webp"
+      }
+    ],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
     "page_start": null,
@@ -2591,7 +2630,12 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "5-A__0003": {
@@ -2632,7 +2676,12 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "5-A__0004": {
@@ -2673,7 +2722,12 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "5-A__0005": {
@@ -2714,7 +2768,12 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "5-C__0001": {
@@ -4681,7 +4740,12 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "6-B__0001": {
