@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-3/3-0__B000_arguing-with-ai-christians.md",
+                "file": "board-1/1-0__D000_priggish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-0__B000_arguing-with-ai-christians"
+              "title": "1-0__D000_priggish"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
-    "board-3/3-0__C000_godog-devotion.md",
     "board-3/3-0__B000_arguing-with-ai-christians.md",
+    "board-3/3-0__C000_godog-devotion.md",
     "board-1/1-0__D000_priggish.md",
     "board-1/1-0__C000_mummys-boy.md",
     "board-1/1-0__A000_braised-pork-with-rattan.md",
