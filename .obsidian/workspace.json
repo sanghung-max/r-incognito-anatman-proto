@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-1/1-0__D000_priggish.md",
+                "file": "board-3/3-0__B000_arguing-with-ai-christians.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-0__D000_priggish"
+              "title": "3-0__B000_arguing-with-ai-christians"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
+    "board-3/3-0__C000_godog-devotion.md",
+    "board-3/3-0__B000_arguing-with-ai-christians.md",
+    "board-1/1-0__D000_priggish.md",
     "board-1/1-0__C000_mummys-boy.md",
     "board-1/1-0__A000_braised-pork-with-rattan.md",
-    "board-1/1-0__D000_priggish.md",
     "board-1/1-0__Z000_naïveté-album.md",
     "board-1/1-0__B000_chinese-methodist.md",
     "board-1/1-0__0000_naïveté.md",
@@ -213,8 +215,6 @@
     "board-3/3-B__0001_2026-08-31-arguing-with-grok.md",
     "board-3/3-B__0002_2026-08-31-arguing-with-copilot.md",
     "board-3/3-B__0004_2026-05-29-arguing-with-chatgpt.md",
-    "board-3/3-B__0003_2026-08-31-arguing-with-perplexity.md",
-    "board-3/3-B__0005_2026-05-29-arguing-with-claude.md",
     "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
     "assets/board-B/videos/B-D__FFFE_2025-07-01-swiss-waterfall.mp4",
     "assets/board-A/pdfs/board-B.lnk",
