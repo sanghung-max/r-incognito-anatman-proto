@@ -1,11 +1,11 @@
 
-const CACHE_NAME = 'archive-cache-v1';
+const CACHE_NAME = 'archive-cache-202609160214';
 const ASSETS_TO_CACHE = [
+  "/assets/board-1/img_thumb/1-D__0005_1976-02-01-education-learning.webp",
   "/assets/board-2/img_thumb/2-C__0001_1978-08-31-home-of-the-harpies.webp",
   "/assets/board-2/img_thumb/2-C__0002_1978-08-31-despair-in-the-pandora-box.webp",
   "/assets/board-2/img_thumb/2-C__0003_1978-08-31-order-theory-of-interaction.webp",
   "/assets/board-2/img_thumb/2-C__0004_1976-04-14-analysis-of-personality.webp",
-  "/assets/board-2/img_thumb/2-C__0005_1976-02-01-education-learning.webp",
   "/assets/board-2/pdfs/2-C__0001_1978-08-31-home-of-the-harpies.pdf",
   "/assets/board-2/pdfs/2-C__0002_1978-08-31-despair-in-the-pandora-box.pdf",
   "/assets/board-2/pdfs/2-C__0003_1978-08-31-order-theory-of-interaction.pdf",
@@ -99,6 +99,11 @@ const ASSETS_TO_CACHE = [
   "/assets/board-5/img_color/5-C__0025_2026-04-24-ngc-4725.webp",
   "/assets/board-5/img_color/5-C__0026_2026-05-19-messier-104.webp",
   "/assets/board-5/img_thumb/5-A__0001_1976-04-30-stellar-laudation.webp",
+  "/assets/board-5/img_thumb/5-A__0002_1976-05-12-twilight.webp",
+  "/assets/board-5/img_thumb/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.webp",
+  "/assets/board-5/img_thumb/5-A__0004_1976-03-31-nature.webp",
+  "/assets/board-5/img_thumb/5-A__0005_1976-04-25-guiding.webp",
+  "/assets/board-5/img_thumb/5-A__0006_1976-05-11-ode-to-saturn.webp",
   "/assets/board-5/img_thumb/5-C__0001_2023-11-02-ic-1805.webp",
   "/assets/board-5/img_thumb/5-C__0002_2024-04-08-solar-eclipse-diamond-ring.webp",
   "/assets/board-5/img_thumb/5-C__0003_2024-08-15-ngc-6995.webp",
@@ -142,6 +147,8 @@ const ASSETS_TO_CACHE = [
   "/assets/board-5/img_thumb/5-C__0028_2026-03-03-lunar-eclipse-03-20-59-724.webp",
   "/assets/board-5/img_thumb/64_tetrahedron_updated-01_600x600.svg",
   "/assets/board-5/pdfs/5-A__0001_1976-04-30-stellar-laudation.pdf",
+  "/assets/board-6/img_thumb/6-A__0002_1976-04-10-affection.webp",
+  "/assets/board-6/img_thumb/6-A__0003_1976-04-12-forlorn-beach.webp",
   "/assets/board-6/pdfs/6-B__0001_1983-05-31-lovelorn2.pdf",
   "/assets/board-7/img_thumb/7-A__0001_1982-01-31-undergrad-82-83_myth-is-reality.webp",
   "/assets/board-7/img_thumb/7-A__0002_1983-01-30-paradigm-reflection-1.webp",
@@ -190,6 +197,8 @@ const ASSETS_TO_CACHE = [
   "/assets/board-7/pdfs/7-D__0004_1982-03-31-planet-conjunction.pdf",
   "/assets/board-7/pdfs/7-D__0005_1982-10-31-usa.pdf",
   "/assets/board-7/pdfs/7-D__0006_1983-05-31-medical-tidbits.pdf",
+  "/assets/board-8/img_color/placeholder.webp",
+  "/assets/board-8/img_thumb/placeholder.webp",
   "/assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
   "/assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
   "/assets/board-A/pdfs/A-D__0002_1977-06-21-sjc-hkbc-notebook2.pdf",
@@ -485,6 +494,7 @@ const ASSETS_TO_CACHE = [
   "/assets/data/nodes/1-0__C000.json",
   "/assets/data/nodes/1-0__D000.json",
   "/assets/data/nodes/1-0__Z000.json",
+  "/assets/data/nodes/1-D__0001.json",
   "/assets/data/nodes/2-0__0000.json",
   "/assets/data/nodes/2-0__A000.json",
   "/assets/data/nodes/2-0__B000.json",
@@ -543,6 +553,7 @@ const ASSETS_TO_CACHE = [
   "/assets/data/nodes/5-A__0003.json",
   "/assets/data/nodes/5-A__0004.json",
   "/assets/data/nodes/5-A__0005.json",
+  "/assets/data/nodes/5-A__0006.json",
   "/assets/data/nodes/5-C__0001.json",
   "/assets/data/nodes/5-C__0002.json",
   "/assets/data/nodes/5-C__0003.json",
@@ -793,8 +804,6 @@ const ASSETS_TO_CACHE = [
   "/assets/data/nodes/M-A__0005.json",
   "/assets/data/nodes/M-A__0006.json",
   "/assets/icon.png",
-  "/assets/placeholder.webp",
-  "/assets/placeholder_thumb.webp",
   "/electron-main.js",
   "/icon-192.png",
   "/icon-512.png",
@@ -817,26 +826,49 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 
   event.waitUntil(
-    caches.open(CACHE_NAME).then(async (cache) => {
-      for (const url of ASSETS_TO_CACHE) {
-        // Check if item was already stored in a previous session
-        const existingResponse = await cache.match(url);
-        if (!existingResponse) {
-          try {
-            await cache.add(url);
-          } catch (err) {
-            console.warn('Failed to cache on this run:', url);
-          }
-        }
-      }
+    caches.open(CACHE_NAME).then((cache) => {
+      return Promise.allSettled(
+        ASSETS_TO_CACHE.map((url) =>
+          fetch(url, { cache: 'reload' }).then((response) => {
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            return cache.put(url, response);
+          }).catch((err) => console.warn('Failed to cache:', url, err))
+        )
+      );
     })
   );
 });
 
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cache) => {
+          if (cache !== CACHE_NAME) {
+            console.log('Deleting obsolete cache:', cache);
+            return caches.delete(cache);
+          }
+        })
+      );
+    }).then(() => self.clients.claim())
+  );
+});
+
 self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET' || !event.request.url.startsWith('http')) return;
+
   event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
+    caches.open(CACHE_NAME).then(async (cache) => {
+      const cachedResponse = await cache.match(event.request);
+
+      const fetchPromise = fetch(event.request).then((networkResponse) => {
+        if (networkResponse.ok) {
+          cache.put(event.request, networkResponse.clone());
+        }
+        return networkResponse;
+      }).catch(() => cachedResponse);
+
+      return cachedResponse || fetchPromise;
     })
   );
 });

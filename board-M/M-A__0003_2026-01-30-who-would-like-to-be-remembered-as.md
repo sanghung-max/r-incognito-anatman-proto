@@ -37,7 +37,8 @@ img_thumb: assets/board-M/img_thumb/M-B__0003_2014-01-02_torrey-pines-growing-up
 ---
 ## 亂語 / text
 
-### Who would like to be remembered as?
+### R. Incognito | Jan 30, 2026
+#### Who would like to be remembered as?
 Reply to daughter's "Dad Book" prompt...  Jan 30, 2026
 
 **
@@ -55,9 +56,9 @@ So much for the almost senseless monologue.  To reiterate,  I don't need to be
 **
 ### Afterthoughts  August 23  2026
 
-Having brought them into this world, 無我 has the commitment and responsibility to let all the personae known to them, for better or worse. Reading through the life history of all the personae and 無我 with *Verstehen* would be next to impossible without an intentional project.  Although they have come to know *R. Incognito* and *GODOG* since 2016, they have read very few pieces of those writings.  Reading through those writings may exact heavy emotional,  psychological and spiritual toll if they are not prepared.
+Having brought them into this world, 無我 has the commitment and responsibility to let all the personae known to them, for better or worse. Reading through the life history of all the personae and 無我 with *Verstehen* would be next to impossible without an intentional project.  Although they have come to know *R. Incognito* and *GODOG* since 2016, they have read very few pieces of those writings.  Reading through some of those writings may exact heavy emotional,  psychological and spiritual toll if they are not prepared.
 
-The "retirement plan" from 無我 was to do immersive astrophotography and cosmology/physics studies as these were (and still are) the "ideal" state of being, forgetting past professional and personae lives.  However, for various reasons including 無我 daughter's projects of "Dad's" and "Mom's" Books, the Pandora's Box has been reopened and the personae are having a joyful mutiny and escape.  
+The "retirement plan" from 無我 was to do immersive astrophotography and cosmology/physics studies as these were (and still are) the "ideal" state of being, forgetting past professional and personae lives.  However, for various reasons including 無我 daughter's projects of "Dad's" and "Mom's" Books, the Pandora's Box has been reopened and the personae are having a joyful (and painful) mutiny and escape.  
 
 Life is a paradox - "no identity" is by itself an identity.  To 無我, It is an undecidable riddle not unlike that those Gödel or Russell had addressed in Mathematics and Logic (forgive my very plebeian interpretations).  Certainly, it is a metaphysical position, but it is 無我 ontological position.  Don't ask why - but 無我 is no armchair philosopher (or for any identity assumed).   This is a myth creation, preservation and destruction exercise.  Deconstructing the myth of  無我  -  Just play the painful game of life in a fictive but serious way.
 

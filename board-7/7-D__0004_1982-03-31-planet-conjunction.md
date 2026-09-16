@@ -5,6 +5,7 @@ parents:
   - 7-0__D000
   - B-0__B000
   - A-0__D000
+  - 5-0__A000
 title_en: Planet Conjunction 1982
 title_zh: 九星連珠觀測
 authors:

@@ -173,7 +173,7 @@ window.ARCHIVE_DATA = {
   "1-0__D000": {
     "id": "1-0__D000",
     "type": "folder",
-    "title_en": "priggish ignoramus",
+    "title_en": "ignoramus prig",
     "title_zh": "戇QQ + 老土",
     "age": null,
     "description_en": "",
@@ -239,6 +239,48 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": false,
     "section_keys": []
+  },
+  "1-D__0001": {
+    "id": "1-D__0001",
+    "type": "pdf",
+    "title_en": "Education & Learning 1976",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-02-01",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-1/img_thumb/1-D__0005_1976-02-01-education-learning.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__005A_2012-08-17-monster-eyes.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "1-0_D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista",
+      "亂語 text"
+    ]
   },
   "2-0__0000": {
     "id": "2-0__0000",
@@ -370,7 +412,6 @@ window.ARCHIVE_DATA = {
       "2-C__0002",
       "2-C__0003",
       "2-C__0004",
-      "2-C__0005",
       "3-A__0006",
       "3-A__0007",
       "B-D__A002",
@@ -578,48 +619,6 @@ window.ARCHIVE_DATA = {
     "video": "",
     "img_color": "",
     "img_thumb": "assets/board-2/img_thumb/2-C__0004_1976-04-14-analysis-of-personality.webp",
-    "pdf_manifest": [
-      {
-        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
-        "thumbnail": "assets/board-B/img_thumb/B-D__005A_2012-08-17-monster-eyes.webp"
-      }
-    ],
-    "page_pattern": "",
-    "page_thumbnail_pattern": "",
-    "page_start": null,
-    "page_end": null,
-    "parents": [
-      "2-0__C000",
-      "A-0__D000"
-    ],
-    "children": [],
-    "leaf_count": 0,
-    "has_content": true,
-    "section_keys": [
-      "觀景 vista",
-      "亂語 text"
-    ]
-  },
-  "2-C__0005": {
-    "id": "2-C__0005",
-    "type": "pdf",
-    "title_en": "Education & Learning 1976",
-    "title_zh": null,
-    "age": null,
-    "description_en": "",
-    "description_zh": "",
-    "authors": [
-      "Yat-Sang Hung",
-      "無我"
-    ],
-    "time": "1976-02-01",
-    "location": "Hong Kong",
-    "ui_render": true,
-    "display_priority": false,
-    "audio": "",
-    "video": "",
-    "img_color": "",
-    "img_thumb": "assets/board-2/img_thumb/2-C__0005_1976-02-01-education-learning.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -2222,7 +2221,7 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-4/img_thumb/4-C__0002_1984-11-22-hku-congregation-gazette.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-4/img_color/4-C__0002_1984-11-22-hku-congregation-gazette.pdf",
+        "src": "assets/board-4/pdfs/4-C__0002_1984-11-22-hku-congregation-gazette.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0059_2014-07-01-hk-tram.webp"
       }
     ],
@@ -2313,6 +2312,9 @@ window.ARCHIVE_DATA = {
       "5-A__0003",
       "5-A__0004",
       "5-A__0005",
+      "5-A__0006",
+      "7-D__0002",
+      "7-D__0004",
       "B-D__A007"
     ],
     "leaf_count": 0,
@@ -2613,7 +2615,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0002_1976-05-12-twilight.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -2659,7 +2661,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -2705,10 +2707,10 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0004_1976-03-31-nature.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "src": "assets/board-A/pdfs/A-D__0003_1978-04-30-sjc-hkbc-notebook3.pdf",
         "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
       }
     ],
@@ -2751,7 +2753,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0005_1976-04-25-guiding.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -2776,6 +2778,47 @@ window.ARCHIVE_DATA = {
       "詮釋 interpret",
       "拆建 deconstruct",
       "評語 ai-experts"
+    ]
+  },
+  "5-A__0006": {
+    "id": "5-A__0006",
+    "type": "pdf",
+    "title_en": "Ode to Saturn 1976",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-05-11",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0006_1976-05-11-ode-to-saturn.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
+        "thumbnail": "assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "5-0__A000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text"
     ]
   },
   "5-C__0001": {
@@ -4678,11 +4721,11 @@ window.ARCHIVE_DATA = {
     "time": "1976-04-10",
     "location": "Hong Kong",
     "ui_render": true,
-    "display_priority": true,
+    "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001-1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-6/img_thumb/6-A__0002_1976-04-10-affection.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -4719,14 +4762,14 @@ window.ARCHIVE_DATA = {
     "time": "1976-04-12",
     "location": "Hong Kong",
     "ui_render": true,
-    "display_priority": true,
+    "display_priority": false,
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001-1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-6/img_thumb/6-A__0003_1976-04-12-forlorn-beach.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0001-1976-12-31-notebook1.pdf",
+        "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0024_2016-05-18-bleeding-heart.webp"
       }
     ],
@@ -5513,7 +5556,7 @@ window.ARCHIVE_DATA = {
     "pdf_manifest": [
       {
         "src": "assets/board-7/pdfs/7-B__0006_1982-11-22-personae-crisis.pdf",
-        "thumbnail": "assets/board-7/img_thumb/7-B__0060_2014-12-06-mask.webp"
+        "thumbnail": "assets/board-B/img_thumb/B-D__002D_2019-07-05-nyc-wax-tour-guide.webp"
       }
     ],
     "page_pattern": "",
@@ -5908,7 +5951,8 @@ window.ARCHIVE_DATA = {
     "parents": [
       "7-0__D000",
       "B-0__B000",
-      "A-0__D000"
+      "A-0__D000",
+      "5-0__A000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -6002,7 +6046,8 @@ window.ARCHIVE_DATA = {
     "parents": [
       "7-0__D000",
       "B-0__B000",
-      "A-0__D000"
+      "A-0__D000",
+      "5-0__A000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -6355,7 +6400,7 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/BB-D__0061_2023-01-21-family-art.webp",
+    "img_color": "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
     "img_thumb": "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
     "pdf_manifest": [],
     "page_pattern": "",
@@ -6895,11 +6940,11 @@ window.ARCHIVE_DATA = {
       "A-0__0000"
     ],
     "children": [
+      "1-D__0001",
       "2-C__0001",
       "2-C__0002",
       "2-C__0003",
       "2-C__0004",
-      "2-C__0005",
       "3-A__0001",
       "3-A__0002",
       "3-A__0003",
@@ -6924,6 +6969,7 @@ window.ARCHIVE_DATA = {
       "5-A__0003",
       "5-A__0004",
       "5-A__0005",
+      "5-A__0006",
       "6-A__0002",
       "6-A__0003",
       "6-B__0001",
@@ -10695,7 +10741,7 @@ window.ARCHIVE_DATA = {
     "authors": [
       "Hung Hong-Chit"
     ],
-    "time": "2018-04-22",
+    "time": "1975-01-01",
     "location": "USA",
     "ui_render": true,
     "display_priority": false,
@@ -10716,6 +10762,7 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
+      "觀景 vista",
       "亂語 text",
       "懸置 epoché",
       "理解 wissen",
@@ -13525,6 +13572,7 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
+      "觀景 vista",
       "亂語 text",
       "懸置 epoché",
       "理解 wissen",

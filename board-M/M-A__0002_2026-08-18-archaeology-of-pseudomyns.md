@@ -33,34 +33,36 @@ img_thumb: assets/board-M/img_thumb/M-B__0002_2022-08-07-dc-museum-of-art.webp
 
 ## 觀景 / vista
 
-The pseudonyms selected for the personae were largely non-random but the rationale for each of those could vary quite a bit.  As of 2026, all the LLMs used to analyze those essays tend to miss the nuances and intention used in those pseudonyms and the content in the essays (but they also seem to extrapolate correctly once I supplied the hints and/or sources)
+The pseudonyms selected for the personae were largely non-random but the rationale for each of those could vary quite a bit.  As of 2026, all the LLMs used to analyze those essays tend to miss the nuances and intention used in those Hong Kong Cantonese pseudonyms and the content in the essays (but they also seem to extrapolate correctly once I supplied the hints and/or sources)
 
 
 ---
 
 ## 亂語 / text
 
-### 2026-08-18  (Picture: 2022-08-07)                                   
+### R. Incognito | 2026-08-18  (Picture: 2022-08-07)                                   
 
-When i was very young (under 12 years old), my nickname was Ah-B coined by my parents for reasons unbeknown to me.  It was co-opted into "Big-Head B" 大頭 B or later as "Bald-Head B" 禿頭 B.  "Big-Head" was used as a tribute to my secondary school mentor (JK, a student at St. Joseph's College one year senior to me).  It was through him that I learned to read A History of Western Philosophy and other Bertrand Russell's writings as well as philosophy of science (thinking of Polyani's Science, faith and Society).  His nickname at the time and thereafter had "大頭" and his last name after it.  I did not even think about those influences when I used "Big-Head B"  as my personae for science and technology related essays.  The name also echoed with my undergrad education in physics and mathematics.  
+When I was very young (under 12 years old), my nickname was Ah-B coined by my parents for reasons unbeknown to me.  It was co-opted into "Big-Head B" 大頭 B or later as "Bald-Head B" 禿頭 B.  "Big-Head" was used as a tribute to my secondary school mentor (JK, a student at St. Joseph's College one year senior to me).  It was through him that I learned to read A History of Western Philosophy and other Bertrand Russell's writings as well as philosophy of science (thinking of Polyani's Science, faith and Society).  His nickname at the time and thereafter had "大頭" and his last name after it.  I did not even think about those influences when I used "Big-Head B"  as my personae for science and technology related essays.  The name also echoed with my undergrad education in physics and mathematics.  
 
 As for "Baldy B", it was coined because my hair thinned out the middle of my head starting from my 20's (the "Mediterranean Sea" head ).  It was eventually used as pen name for writing "political essays/critiques" from someone who comes from a natural science background.
 
 As for GODOG, the choice was made well before 1982 as my nickname when the first GODOG essay was written.  It was inspired after my high school classmate, PL, and I watched "Waiting for Godot" in one of those Hong Kong Arts and Films Festival organized by the Urban Council at that time.  I still remembered the scenes (probably the only scene in the short movie showing the viewpoint from riding at the front of a carriage) with the dialog taking place in the play for 20 minutes.  It was just a very natural transition from Godot to GODOG.  I grew so sarcastic with Christianity that I requested some of my friends to use that nickname to address me.
 
-R. Incognito was also used early on, the archives I have kept showed back in 1976, I mentioned that I was like a nameless wanderer, pretty much forgetting the past with nobody would remember me.  Each day I came into new experience, new life but left no traces.  This contradicted with the existence of this archive.  The primary reason I have to dwell in this is to be able to provide the resources for my children to understand and know me better.  They have only seen the tip of the iceberg as they do not seem to understand what I have told them about my lived experience, though I have started to share some selected essays in the archives since 2016.  I have buried my past for a long time - I have stopped writing the so called "soul-searching" essays since 1984.  Virtually all my friends I made after 1984 were unaware of any of my past relics.  These extend to my close friends since childhood - most, if not all, have not been exposed to the blunt of my writings. 
+R. Incognito was also used early on, the archives I have kept showed back in 1976, I mentioned that I was like a nameless wanderer, pretty much forgetting the past with nobody would remember me.  Each day I came into new experience, new life but left no traces.  This contradicted with the existence of this archive.  
 
-柯爾焚 was used to write the those everyday life socio-cultural and political critique from a semi-academic sociological perspectives, on institutions as close as HKUSU and more general writings on post-structuralism, western Marxism, art and aesthetics.  Taken separately, 柯爾焚, the name means branches you burn.  I could not remember how I arrived at this pen name (and the reconstruction here is an after-sight so take it as a grain of salt).  Given the way I used pen names though, I felt the above interpretation was the most probable guess.
+The primary reason I have to dwell in this is to be able to provide the resources for my children to understand and know me better.  They have only seen the tip of the iceberg as they do not seem to understand what I have told them about my lived experience, though I have started to share some selected essays in the archives since 2016.  I have buried my past for a long time - I have stopped writing the so called "soul-searching" essays since 1984.  Virtually all my friends and professional connection I made after 1984 were unaware of any of my past relics.  These extend to my close friends since childhood - most, if not all, have not been exposed to the blunt of my writings. 
+
+柯爾焚 was used to write the those everyday life socio-cultural and political critique from a semi-academic sociological perspectives, on institutions as close to student life as HKUSU and more general writings on post-structuralism, western Marxism, art and aesthetics.  Taken separately, 柯爾焚, the name means branches you burn.  I could not remember how I arrived at this pen name (and the reconstruction here is an after-sight so take it as a grain of salt).  Given the way I used pen names though, I felt the above interpretation was the most probable guess.
 
 大野一 狼 and O 狼 were pseudonyms used for film analysis - O 狼 was used for the watching porn analysis as the complement to a R-rated movie at time "The Story of O".   狼 means Wolf and used as a metaphor as a wild, dangerous and "bad" wolf.  It is used to carry the connotation of "sex maniac" as in "色狼".  "大野一 狼" is also a play-of-the word choice. "大野" mean big and wild, but it also is a homophone of "大嘢" ("big shot who looks down upon everyone"),  "一" means "one" (carrying the connotations of "number 1" or "only 1" or "just one" which can imply ("top", "unique" or "close to extinction")
 
-李, 李勝 also carry multiple meanings, "李" is a common Chinese surname.  It has homophones like "你" ("You") or "理" ("Reason").  "勝" means "Win" but in the context of "Reason", the homophone is "性", so together it can mean "You Win" or as homophones "Rationality".
-
+李, 李勝 also carry multiple meanings, "李" is a common Chinese surname.  It has homophones like "你" ("You") or "理" ("Reason").  "勝" means "Win" but in the context of "Reason", the homophone is "性", so together it can mean "You Win" 李勝 or as homophones "Rationality" 理性 .
+ 
 "免治港人" typically may be interpreted as "Minced Meat Hong King People" but it can also literally mean "Avoid Governing Hong Kong People".  
 
 Playing with the ambiguity, homophones and multiple connotations of Chinese was used frequently as a latent and conflicting literary device in the above pen-names.  This also extended to titles of essays or the content itself too (e.g., in a naive look at Marxism).
 
-Beastmaster was used only once in the depiction of subculture and practices in Undergrad.  It could have been used in essays on quite a few essays in university and Hong King cultures, but I did not have a chance to publish some of those essays.
+Beastmaster was used only once in the depiction of subculture and practices in Undergrad.  It could have been used in essays on quite a few essays in university and Hong King cultures, but I did not have a chance to publish those essays.
 
 
 ---

@@ -17,7 +17,7 @@ ui_render: true
 display_priority: false
 img_thumb: assets/board-7/img_thumb/7-B__0006_1982-11-22-personae-crisis.webp
 pdf: assets/board-7/pdfs/7-B__0006_1982-11-22-personae-crisis.pdf
-pdf_thumbnail: assets/board-7/img_thumb/7-B__0060_2014-12-06-mask.webp
+pdf_thumbnail: assets/board-B/img_thumb/B-D__002D_2019-07-05-nyc-wax-tour-guide.webp
 ---
 ---
 ## 觀景 / vista

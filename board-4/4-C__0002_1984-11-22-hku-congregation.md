@@ -12,8 +12,8 @@ location: USA
 ui_render: true
 display_priority: false
 img_thumb: assets/board-4/img_thumb/4-C__0002_1984-11-22-hku-congregation-gazette.webp
+pdf: assets/board-4/pdfs/4-C__0002_1984-11-22-hku-congregation-gazette.pdf
 pdf_thumbnail: assets/board-B/img_thumb/B-D__0059_2014-07-01-hk-tram.webp
-pdf: assets/board-4/img_color/4-C__0002_1984-11-22-hku-congregation-gazette.pdf
 ---
 ---
 ## 觀景 / vista

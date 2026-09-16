@@ -59,38 +59,63 @@ function getFilesRecursively(dir, baseDir = dir) {
 }
 
 // Generate the asset list
-const rootDir = __dirname; // or path to project root
+const rootDir = __dirname;
 const assetsToCache = getFilesRecursively(rootDir);
 
-// Generate sw.js file
+const BUILD_TIMESTAMP = new Date().toISOString().replace(/[^0-9]/g, '').slice(0, 12);
+const CACHE_NAME = `archive-cache-${BUILD_TIMESTAMP}`;
+
 const swContent = `
-const CACHE_NAME = 'archive-cache-v1';
+const CACHE_NAME = '${CACHE_NAME}';
 const ASSETS_TO_CACHE = ${JSON.stringify(assetsToCache, null, 2)};
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
 
   event.waitUntil(
-    caches.open(CACHE_NAME).then(async (cache) => {
-      for (const url of ASSETS_TO_CACHE) {
-        // Check if item was already stored in a previous session
-        const existingResponse = await cache.match(url);
-        if (!existingResponse) {
-          try {
-            await cache.add(url);
-          } catch (err) {
-            console.warn('Failed to cache on this run:', url);
-          }
-        }
-      }
+    caches.open(CACHE_NAME).then((cache) => {
+      return Promise.allSettled(
+        ASSETS_TO_CACHE.map((url) =>
+          fetch(url, { cache: 'reload' }).then((response) => {
+            if (!response.ok) throw new Error(\`HTTP \${response.status}\`);
+            return cache.put(url, response);
+          }).catch((err) => console.warn('Failed to cache:', url, err))
+        )
+      );
     })
   );
 });
 
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cache) => {
+          if (cache !== CACHE_NAME) {
+            console.log('Deleting obsolete cache:', cache);
+            return caches.delete(cache);
+          }
+        })
+      );
+    }).then(() => self.clients.claim())
+  );
+});
+
 self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET' || !event.request.url.startsWith('http')) return;
+
   event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
+    caches.open(CACHE_NAME).then(async (cache) => {
+      const cachedResponse = await cache.match(event.request);
+
+      const fetchPromise = fetch(event.request).then((networkResponse) => {
+        if (networkResponse.ok) {
+          cache.put(event.request, networkResponse.clone());
+        }
+        return networkResponse;
+      }).catch(() => cachedResponse);
+
+      return cachedResponse || fetchPromise;
     })
   );
 });

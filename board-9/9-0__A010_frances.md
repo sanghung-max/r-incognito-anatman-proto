@@ -6,7 +6,7 @@ type: folder
 title_en: frances
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/BB-D__0061_2023-01-21-family-art.webp
+img_color: assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp
 img_thumb: assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp
 ---
 
