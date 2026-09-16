@@ -8,7 +8,7 @@ authors:
   - R. Incognito
   - 無我
   - 老迅芝
-type: img
+type: pdf
 title_en: Personae Crisis 1982
 title_zh: 面譜 學生會的一個危機,個人的一個危機
 time: 1982-11-22
