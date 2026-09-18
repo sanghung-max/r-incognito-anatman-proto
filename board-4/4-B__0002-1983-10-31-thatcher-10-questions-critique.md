@@ -102,6 +102,9 @@ This is what unifies his apparently contradictory rhetorical registers — the s
 
 ## Chinese
 
+### 禿頭 B | 1983
+
+
 ## 如何閱讀 盧子健的《關於致戴信事件爭論引起的十個問題》
 
 禿頭 B

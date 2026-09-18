@@ -31,7 +31,8 @@ pdf_thumbnail: assets/board-B/img_thumb/B-D__0058_2014-10-26-halloween.webp
 
 ## Chinese
 
-#### 原文
+### GODOG | circa 1984
+
 
 太初有道，道與世界同在，道就是我。 
 

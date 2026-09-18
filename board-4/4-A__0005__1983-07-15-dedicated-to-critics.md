@@ -112,6 +112,8 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0138_1983-06-30-83-84.webp
 
 ## 亂語 text
 
+
+### 禿頭 B | 1983
 ### Dedicated to the Critics: 
 
 **禿頭 B**

@@ -13,7 +13,7 @@ location: Hong Kong
 ui_render: true
 display_priority: false
 img_thumb: assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp
-pdf: assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 essays.pdf
+pdf: assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf
 pdf_thumbnail: assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp
 ---
 

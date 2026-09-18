@@ -62,6 +62,8 @@ This essay's critique of "great unity, great solidarity" being weaponized to sil
 
 ## 亂語 text
 
+### 柯爾焚 | 1983
+
 ### FROM THE OPPOSITION POINT OF VIEW: 「致戴卓爾夫人信」事件
 
 **柯爾焚**

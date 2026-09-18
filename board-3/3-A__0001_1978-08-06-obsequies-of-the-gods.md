@@ -34,7 +34,8 @@ pdf_2_thumbnail: assets/common/img_thumb/A-A__0234_1982-12-31-83-82-83.webp
 
 ## English
 
-### The Obsequies of the Gods      R. Incognito  
+### R. Incognito | Aug 6, 1978
+### The Obsequies of the Gods       
 **(Written: August 1978)  Published: 1982**
 
 To arch over the dewy bow of hope,
@@ -89,7 +90,7 @@ In a Universe where entropy always increases, where death is inevitable, we can 
 ## Chinese
 **translated by Gemini in Google Doc**
 
-## 眾神的葬禮 R. Incognito  
+### 眾神的葬禮 R. Incognito  
 **（撰稿於：1978年8月）出版於：1982年**
 
 

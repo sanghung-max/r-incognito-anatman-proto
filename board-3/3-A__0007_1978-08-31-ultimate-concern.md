@@ -37,7 +37,7 @@ Possibly missing pages in between...
 
 ## 亂語 / text
 
-Here is the corrected transcription:
+### R. Incognito | Aug 31, 1978
 
 ---
 

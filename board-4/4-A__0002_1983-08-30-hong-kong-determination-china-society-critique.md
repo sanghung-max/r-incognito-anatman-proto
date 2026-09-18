@@ -23,7 +23,11 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0182_1983_08_30--83-84.webp
 
 ## 亂語 text
 
+
+
 ## Chinese
+
+### 國事故人 | 1983
 ### 關於關永祥和洪逸生的《香港五百萬人自決前途》的兩點商榷  
 
 **國事故人**

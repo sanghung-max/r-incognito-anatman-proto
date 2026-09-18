@@ -27,6 +27,8 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0182_1983_08_30--83-84.webp
 ## 亂語 text
 
 ## Chinese
+
+### 關永祥 洪逸生 | 1983
 ### 無謂的答辯:與國事故人君對話
 
 **關永祥

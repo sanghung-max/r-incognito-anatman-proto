@@ -28,7 +28,7 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0138_1983-06-30-83-84.webp
 
 
 ## Chinese
-### 原文 (1983)
+### 關永祥 洪逸生 | 1983
 **
 
 Over himself, over his own body and mind, the individual is sovereign.

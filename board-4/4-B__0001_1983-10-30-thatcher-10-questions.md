@@ -24,7 +24,7 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0234_1983-10-31-83-84.webp
 ## 亂語 text
 
 ## Chinese
-### 原文 (1983) 盧子健
+### 盧子健 | 1983
 
 ### 《關於致戴信事件爭論引起的十個問題》盧子健
 

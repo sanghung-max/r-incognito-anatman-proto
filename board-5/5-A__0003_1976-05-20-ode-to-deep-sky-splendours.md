@@ -13,7 +13,7 @@ time: 1976-05-12
 location: Hong Kong
 ui_render: true
 display_priority: false
-img_thumb: assets/board-5/img_thumb/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.webp
+img_thumb: assets/board-5/img_thumb/5-A__0003_1976-05-20-ode-to-deep-sky-splendours.webp
 pdf: assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf
 pdf_thumbnail: assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp
 ---
@@ -26,8 +26,9 @@ pdf_thumbnail: assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp
 
 ## 亂語 / text
 
+### Yat-Sang Hung | May 20 1976
 ### Ode to Deep-Sky Splendours - Galaxies, Clusters and Nebulae
-**12th May, 1976**    p.17-p.18
+**20th May, 1976**    A-D__0001 p.17-p.18
 
 Myriad of galaxies ; brim my mortal/secular eyes sith ecstasy.
 fluoresce in their celestial clans:

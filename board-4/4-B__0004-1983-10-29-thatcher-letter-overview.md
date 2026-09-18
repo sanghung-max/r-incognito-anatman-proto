@@ -23,6 +23,8 @@ pdf_thumbnail: assets/common/img_thumb/A-B__0234_1983-10-31-83-84.webp
 
 ## 亂語 text
 
+
+### 學苑資料室 | 1983
 ### 《 致函事件始末》
 
 **學苑資料室**

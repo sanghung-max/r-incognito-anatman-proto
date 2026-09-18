@@ -160,7 +160,8 @@ Looking back over the trajectory of my analyses across this whole exchange — p
 
 ## Chinese (Original)
 
-### THE GODOG'S PRAYER / VISION THE MARIONETTE - GODOG SHOW PROJECT SALVATION 後來 GODOG 才是「最後的基督徒」！
+### GODOG | Dec 24, 1983
+#### THE GODOG'S PRAYER / VISION THE MARIONETTE - GODOG SHOW PROJECT SALVATION 後來 GODOG 才是「最後的基督徒」！
 
 昨晚 GODOG 看到一個異象 —— 一個令人戰慄的異象，基督竟然出現在我的眼前，和我進行有益及有建設性的對談，以下是我和他的對話節錄： 
 
@@ -216,7 +217,7 @@ Aftermath:
 ## English (Translation)
 
 ### GODOG'S PRAYER/VISIONTHE MARIONETTE - GODOG SHOW: PROJECT SALVATION
-(circa. 1983) - translated by GODOG May 10, 2012
+(circa. 1983) - translated by GODOG    May 10, 2012
  
  GODOG is the true Christian
 
