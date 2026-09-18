@@ -1,7 +1,7 @@
 
-const CACHE_NAME = 'archive-cache-202609180311';
+const CACHE_NAME = 'archive-cache-202609181852';
 const ASSETS_TO_CACHE = [
-  "/assets/board-1/img_thumb/1-D__0005_1976-02-01-education-learning.webp",
+  "/assets/board-1/img_thumb/1-D__0001_1976-02-01-education-learning.webp",
   "/assets/board-2/img_thumb/2-C__0001_1978-08-31-home-of-the-harpies.webp",
   "/assets/board-2/img_thumb/2-C__0002_1978-08-31-despair-in-the-pandora-box.webp",
   "/assets/board-2/img_thumb/2-C__0003_1978-08-31-order-theory-of-interaction.webp",
@@ -289,6 +289,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_color/B-D__0060_2018-04-22-auschwitz.webp",
   "/assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
   "/assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+  "/assets/board-B/img_color/B-D__0063_2024-10-12_torrey-pine-beach.webp",
   "/assets/board-B/img_thumb/B-A__0005_1982-12-31-iconoclast.webp",
   "/assets/board-B/img_thumb/B-A__0006_1977-12-29-dirge-hope.webp",
   "/assets/board-B/img_thumb/B-A__0007_1977-03-07-hiking-tai-tam.webp",
@@ -378,6 +379,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
   "/assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
   "/assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+  "/assets/board-B/img_thumb/B-D__0063_2024-10-12_torrey-pine-beach.webp",
   "/assets/board-B/img_thumb/B-D__A001_1991-01-01-%E9%A2%A8%E7%9A%84%E5%AD%A3%E7%AF%80.webp",
   "/assets/board-B/img_thumb/B-D__A002_1969-01-01-the-boxer.webp",
   "/assets/board-B/img_thumb/B-D__A003_1991-12-31-%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1.webp",

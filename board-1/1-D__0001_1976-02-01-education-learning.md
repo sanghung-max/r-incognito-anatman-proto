@@ -3,7 +3,7 @@ id: 1-D__0001
 type: pdf
 parents:
   - A-0__D000
-  - 1-0_D000
+  - 1-0__D000
 title_en: Education & Learning 1976
 title_zh:
 authors:
@@ -13,7 +13,7 @@ time: 1976-02-01
 location: Hong Kong
 ui_render: true
 display_priority: false
-img_thumb: assets/board-1/img_thumb/1-D__0005_1976-02-01-education-learning.webp
+img_thumb: assets/board-1/img_thumb/1-D__0001_1976-02-01-education-learning.webp
 pdf: assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf
 pdf_thumbnail: assets/board-B/img_thumb/B-D__005A_2012-08-17-monster-eyes.webp
 ---

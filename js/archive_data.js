@@ -196,6 +196,8 @@ window.ARCHIVE_DATA = {
       "1-0__0000"
     ],
     "children": [
+      "1-D__0001",
+      "5-A__0004",
       "B-D__0062"
     ],
     "leaf_count": 0,
@@ -259,7 +261,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-1/img_thumb/1-D__0005_1976-02-01-education-learning.webp",
+    "img_thumb": "assets/board-1/img_thumb/1-D__0001_1976-02-01-education-learning.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -272,7 +274,7 @@ window.ARCHIVE_DATA = {
     "page_end": null,
     "parents": [
       "A-0__D000",
-      "1-0_D000"
+      "1-0__D000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -1219,7 +1221,7 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-3/img_thumb/3-A__0008_1978-08-10-ultimate-concern-long.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf",
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4-essays.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cross.webp"
       }
     ],
@@ -2770,7 +2772,8 @@ window.ARCHIVE_DATA = {
     "page_end": null,
     "parents": [
       "5-0__A000",
-      "A-0__D000"
+      "A-0__D000",
+      "1-0__D000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -4750,6 +4753,7 @@ window.ARCHIVE_DATA = {
       "B-D__0024",
       "B-D__0029",
       "B-D__0034",
+      "B-D__A001",
       "B-D__A004",
       "B-D__A006"
     ],
@@ -4846,7 +4850,7 @@ window.ARCHIVE_DATA = {
   },
   "6-B__0001": {
     "id": "6-B__0001",
-    "type": "img",
+    "type": "pdf",
     "title_en": "Unsent Letter 1983",
     "title_zh": "沒有寄出的信",
     "age": null,
@@ -4866,7 +4870,7 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/6-B___0001_1983-05-31-lovelorn2.pdf",
+        "src": "assets/board-A/pdfs/6-B__0001_1983-05-31-lovelorn2.pdf",
         "thumbnail": ""
       }
     ],
@@ -4893,7 +4897,7 @@ window.ARCHIVE_DATA = {
   },
   "6-C__0001": {
     "id": "6-C__0001",
-    "type": "img",
+    "type": "pdf",
     "title_en": "No title (circa 1983)",
     "title_zh": null,
     "age": null,
@@ -6019,7 +6023,7 @@ window.ARCHIVE_DATA = {
   "7-D__0002": {
     "id": "7-D__0002",
     "type": "pdf",
-    "title_en": "Microcosm, Macrocosm 1982",
+    "title_en": "Microcosm, Macrocosm 1983",
     "title_zh": "微觀宏觀",
     "age": null,
     "description_en": "",
@@ -6028,7 +6032,7 @@ window.ARCHIVE_DATA = {
       "大頭B",
       "無我"
     ],
-    "time": "1982-09-30",
+    "time": "1983-01-30",
     "location": "Hong Kong",
     "ui_render": true,
     "display_priority": false,
@@ -7526,19 +7530,52 @@ window.ARCHIVE_DATA = {
     ],
     "children": [
       "7-B__0006",
+      "B-0__A020",
       "B-A__0005",
       "B-A__0006",
       "B-A__0007",
       "B-A__0008",
       "B-A__0009",
-      "B-D__A005",
-      "B-D__A006",
-      "B-D__A007",
-      "B-D__A009",
       "M-A__0002",
       "M-A__0003",
       "M-A__0004",
       "M-A__0005"
+    ],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "B-0__A020": {
+    "id": "B-0__A020",
+    "type": "folder",
+    "title_en": "lachrymal music",
+    "title_zh": "琉璃韻日",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [],
+    "time": "",
+    "location": "",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0063_2024-10-12_torrey-pine-beach",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0063_2024-10-12_torrey-pine-beach.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "B-0__A000"
+    ],
+    "children": [
+      "B-D__A004",
+      "B-D__A005",
+      "B-D__A006",
+      "B-D__A007",
+      "B-D__A009"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -7800,16 +7837,16 @@ window.ARCHIVE_DATA = {
   "B-A__0005": {
     "id": "B-A__0005",
     "type": "pdf",
-    "title_en": "Inner Peace 1978",
+    "title_en": "Portrait of an Iconoclast 1982",
     "title_zh": " 逸",
     "age": null,
     "description_en": "",
     "description_zh": "",
     "authors": [
-      "Yat-Sang Hung",
-      "無我"
+      "無我",
+      "R. Incognito"
     ],
-    "time": "1977-12-29",
+    "time": "1982-11-30",
     "location": "Hong Kong",
     "ui_render": true,
     "display_priority": false,
@@ -7842,8 +7879,8 @@ window.ARCHIVE_DATA = {
   "B-A__0006": {
     "id": "B-A__0006",
     "type": "pdf",
-    "title_en": "Inner Peace 1978",
-    "title_zh": " 逸",
+    "title_en": "Dirge for Hope 1977",
+    "title_zh": null,
     "age": null,
     "description_en": "",
     "description_zh": "",
@@ -11132,7 +11169,7 @@ window.ARCHIVE_DATA = {
       "B-0__D000",
       "A-0__B020",
       "6-0__C000",
-      "6=0__Z000"
+      "6-0__Z000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -11247,7 +11284,8 @@ window.ARCHIVE_DATA = {
       "B-0__D000",
       "A-0__B020",
       "6-0__A000",
-      "6-0__Z000"
+      "6-0__Z000",
+      "B-0__A020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -11283,7 +11321,7 @@ window.ARCHIVE_DATA = {
     "parents": [
       "B-0__D000",
       "A-0__B020",
-      "B-0__A000",
+      "B-0__A020",
       "M-0__A000",
       "M-0__Z000"
     ],
@@ -11321,7 +11359,7 @@ window.ARCHIVE_DATA = {
     "parents": [
       "B-0__D000",
       "A-0__B020",
-      "B-0__A000",
+      "B-0__A020",
       "6-0__B000",
       "6-0__Z000"
     ],
@@ -11359,9 +11397,9 @@ window.ARCHIVE_DATA = {
     "parents": [
       "B-0__D000",
       "A-0__B020",
-      "B-0__A000",
       "5-0__A000",
-      "5-0__Z000"
+      "5-0__Z000",
+      "B-0__A020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -11442,7 +11480,7 @@ window.ARCHIVE_DATA = {
     "parents": [
       "B-0__D000",
       "A-0__B020",
-      "B-0__A000",
+      "B-0__A020",
       "C-0__D000",
       "C-0__Z000"
     ],

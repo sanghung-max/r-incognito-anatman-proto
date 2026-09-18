@@ -15,7 +15,7 @@ location: Hong Kong
 ui_render: true
 display_priority: false
 img_thumb: assets/board-3/img_thumb/3-A__0008_1978-08-10-ultimate-concern-long.webp
-pdf: assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf
+pdf: assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4-essays.pdf
 pdf_thumbnail: assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cross.webp
 ---
 
