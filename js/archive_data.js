@@ -185,8 +185,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "",
-    "img_thumb": "",
+    "img_color": "assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -414,6 +414,7 @@ window.ARCHIVE_DATA = {
       "2-C__0004",
       "3-A__0006",
       "3-A__0007",
+      "3-A__0008",
       "B-D__A002",
       "M-A__0005"
     ],
@@ -717,6 +718,7 @@ window.ARCHIVE_DATA = {
       "3-A__0005",
       "3-A__0006",
       "3-A__0007",
+      "3-A__0008",
       "B-D__A008"
     ],
     "leaf_count": 0,
@@ -1170,6 +1172,54 @@ window.ARCHIVE_DATA = {
     "pdf_manifest": [
       {
         "src": "assets/board-3/pdfs/3-A__0007_1978-08-31-ultimate-concern.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cross.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "3-0__A000",
+      "2-0__C000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista",
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "3-A__0008": {
+    "id": "3-A__0008",
+    "type": "pdf",
+    "title_en": "The Psychology of Ultimate Concern 1978",
+    "title_zh": "宗教心理學",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-08-10",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-3/img_thumb/3-A__0008_1978-08-10-ultimate-concern-long.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0054_2024-08-04-az-chapel-holy-cross.webp"
       }
     ],
@@ -2564,7 +2614,7 @@ window.ARCHIVE_DATA = {
       "Yat-Sang Hung",
       "無我"
     ],
-    "time": "1976-04-30",
+    "time": "1976-04-22",
     "location": "Hong Kong",
     "ui_render": true,
     "display_priority": false,
@@ -2592,7 +2642,6 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "觀景 vista",
       "亂語 text"
     ]
   },
@@ -2634,6 +2683,7 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
+      "觀景 vista",
       "亂語 text",
       "懸置 epoché",
       "理解 wissen",
@@ -2661,7 +2711,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-5/img_thumb/5-A__0003_1976-05-12-ode-to-deep-sky-splendours.webp",
+    "img_thumb": "assets/board-5/img_thumb/5-A__0003_1976-05-20-ode-to-deep-sky-splendours.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
@@ -4662,6 +4712,7 @@ window.ARCHIVE_DATA = {
       "6-0__0000"
     ],
     "children": [
+      "6-C__0001",
       "B-D__A001"
     ],
     "leaf_count": 0,
@@ -4825,6 +4876,53 @@ window.ARCHIVE_DATA = {
     "page_end": null,
     "parents": [
       "6-0__B000",
+      "A-0__D000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista",
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "6-C__0001": {
+    "id": "6-C__0001",
+    "type": "img",
+    "title_en": "No title (circa 1983)",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "R. Incognito",
+      "無我"
+    ],
+    "time": "1983-12-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-6/img_thumb/6-C__0001_1983-12-31-no-title.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4-essays.pdf",
+        "thumbnail": ""
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "6-0__C000",
       "A-0__D000"
     ],
     "children": [],
@@ -6952,6 +7050,7 @@ window.ARCHIVE_DATA = {
       "3-A__0005",
       "3-A__0006",
       "3-A__0007",
+      "3-A__0008",
       "3-B__0001",
       "3-B__0002",
       "3-B__0003",
@@ -6973,6 +7072,7 @@ window.ARCHIVE_DATA = {
       "6-A__0002",
       "6-A__0003",
       "6-B__0001",
+      "6-C__0001",
       "7-A__0001",
       "7-A__0002",
       "7-A__0003",
@@ -7004,6 +7104,11 @@ window.ARCHIVE_DATA = {
       "A-D__0006",
       "A-D__0007",
       "A-D__0008",
+      "B-A__0005",
+      "B-A__0006",
+      "B-A__0007",
+      "B-A__0008",
+      "B-A__0009",
       "B-C__0001",
       "B-C__0002",
       "B-C__0003",
@@ -7188,7 +7293,7 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 essays.pdf",
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
@@ -7421,6 +7526,11 @@ window.ARCHIVE_DATA = {
     ],
     "children": [
       "7-B__0006",
+      "B-A__0005",
+      "B-A__0006",
+      "B-A__0007",
+      "B-A__0008",
+      "B-A__0009",
       "B-D__A005",
       "B-D__A006",
       "B-D__A007",
@@ -7686,6 +7796,229 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": false,
     "section_keys": []
+  },
+  "B-A__0005": {
+    "id": "B-A__0005",
+    "type": "pdf",
+    "title_en": "Inner Peace 1978",
+    "title_zh": " 逸",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1977-12-29",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-B/img_thumb/B-A__0005_1982-12-31-iconoclast.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0008_1983-04-09-hku-loose-pages.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0021_2014-01-02-jon-tp-tide.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "B-0__A000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "拆建 deconstruct"
+    ]
+  },
+  "B-A__0006": {
+    "id": "B-A__0006",
+    "type": "pdf",
+    "title_en": "Inner Peace 1978",
+    "title_zh": " 逸",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1977-12-29",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-B/img_thumb/B-A__0006_1977-12-29-dirge-hope.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0021_2014-01-02-jon-tp-tide.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "B-0__A000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct"
+    ]
+  },
+  "B-A__0007": {
+    "id": "B-A__0007",
+    "type": "pdf",
+    "title_en": "Hiking in Tai Tam 1977",
+    "title_zh": " 遊大潭",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-05-11",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-B/img_thumb/B-A__0007_1977-03-07-hiking-tai-tam.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0021_2014-01-02-jon-tp-tide.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "B-0__A000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "B-A__0008": {
+    "id": "B-A__0008",
+    "type": "pdf",
+    "title_en": "Inner Peace 1978",
+    "title_zh": " 逸",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1978-10-01",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-B/img_thumb/B-A__0008_1978-10-01-inner-peace.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0021_2014-01-02-jon-tp-tide.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "B-0__A000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct"
+    ]
+  },
+  "B-A__0009": {
+    "id": "B-A__0009",
+    "type": "pdf",
+    "title_en": "Apus Azzurro Canto 1 1976",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Yat-Sang Hung",
+      "無我"
+    ],
+    "time": "1976-12-31",
+    "location": "Hong Kong",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "",
+    "img_thumb": "assets/board-B/img_thumb/B-A__0009_1976-12-31-apus-azzurro-1.webp",
+    "pdf_manifest": [
+      {
+        "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
+        "thumbnail": "assets/board-B/img_thumb/B-D__0021_2014-01-02-jon-tp-tide.webp"
+      }
+    ],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000",
+      "B-0__A000"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct"
+    ]
   },
   "B-C__0001": {
     "id": "B-C__0001",
