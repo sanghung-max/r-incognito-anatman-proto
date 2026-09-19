@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-9/9-0__A012_frances-feast.md",
+                "file": "board-9/9-0__A013_frances-preliminary-dreams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-0__A012_frances-feast"
+              "title": "9-0__A013_frances-preliminary-dreams"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
+    "board-9/9-0__A012_frances-feast.md",
+    "board-9/9-0__A011_frances-childhood.md",
+    "board-9/9-0__A013_frances-preliminary-dreams.md",
+    "board-9/9-A__1108_2024-05-07-red-ceiling-cave.md",
+    "board-9/9-A__1201_2015-03-01-apple-in-the-snow.md",
+    "board-9/9-A__1301_2018-04-22-afternoon-room.md",
+    "board-9/9-A__1101_2024-08-02-from-the-crater-rim.md",
+    "board-9/9-A__1108_2024-05-07-red-ceiling-cave - Copy.md",
     "assets/data/nodes/B-D__0067.json",
     "assets/data/nodes/B-D__0066.json",
     "assets/data/nodes/B-D__0065.json",
@@ -200,27 +208,19 @@
     "assets/board-9/img_thumb/9-A__1201_2015-03-01-apple-in-the-snow.webp",
     "assets/board-9/img_thumb/9-A__1301_2018-04-22-afternoon-room.webp",
     "assets/board-9/img_color/9-A__1301_2018-04-22-afternoon-room.webp",
-    "board-9/9-A__1301_2018-04-22-afternoon-room.md",
     "board-9/9-A__1201_2015-03-01-apple-in-the-snow - Copy.md",
-    "board-9/9-A__1201_2015-03-01-apple-in-the-snow.md",
     "board-9/9-A__1108_2024-05-07-red-ceiling-cave - Copy (2).md",
-    "board-9/9-A__1108_2024-05-07-red-ceiling-cave - Copy.md",
-    "board-9/9-A__1108_2024-05-07-red-ceiling-cave.md",
     "board-9/9-A__1102_2024-05-07-red-ceiling-cave.md",
     "board-9/9-A__1101_2024-08-02-from-the-crater-rim - Copy.md",
-    "board-9/9-A__1101_2024-08-02-from-the-crater-rim.md",
     "board-9/B-D__0065_2020-07-27-moon-yearning.md",
     "board-9/9-A__1101_2013-11-08-half-way-to-hell.md",
     "board-9/B-D__0007_2013-11-08-half-way-to-hell.md",
     "board-9/9-0__B000_friends.md",
-    "board-9/9-0__A013_frances-preliminary-dreams.md",
-    "board-9/9-0__A012_frances-feast.md",
     "board-B/B-D__0066_2018-04-21-beets-and-oil.md",
     "board-B/B-D__0065_2020-07-27-moon-yearning.md",
     "board-B/B-D__0067_2019-07-05-the-sleepers.md",
     "assets/board-B/img_thumb/B-D__0065_2020-07-27-moon-yearning.webp",
     "assets/board-B/img_thumb/B-D__0068_1998-01-01-frances-circa-1998.webp",
-    "board-9/9-0__A011_frances-childhood.md",
     "board-9/9-0__A010_frances.md",
     "board-A/A-D__0004_1978-05-09-notebook4-essays.md",
     "board-A/A-0__D020_notebooks-1975-1984.md",
@@ -229,7 +229,6 @@
     "board-B/B-A__0006_1977-12-29-dirge-hope.md",
     "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4-essays.pdf",
     "assets/data/nodes/5-A__0006.json",
-    "assets/data/nodes/1-D__0001.json",
-    "assets/data/nodes/B-D__0062.json"
+    "assets/data/nodes/1-D__0001.json"
   ]
 }

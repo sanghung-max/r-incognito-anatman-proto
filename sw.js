@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'archive-cache-202609191849';
+const CACHE_NAME = 'archive-cache-202609191906';
 const ASSETS_TO_CACHE = [
   "/assets/board-1/img_thumb/1-D__0001_1976-02-01-education-learning.webp",
   "/assets/board-2/img_thumb/2-C__0001_1978-08-31-home-of-the-harpies.webp",
