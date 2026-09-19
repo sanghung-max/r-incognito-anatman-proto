@@ -37,7 +37,7 @@ pdf_thumbnail: assets/board-B/img_thumb/B-D__005A_2012-08-17-monster-eyes.webp
 ## 亂語 / text
 
 ### On Education and Learning Attitudes
-Feb 1976   p.21-29
+Feb 1976   p.21-29   A-D__0001
 
 ---
 

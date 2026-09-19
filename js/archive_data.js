@@ -41,7 +41,12 @@ window.ARCHIVE_DATA = {
     "has_content": true,
     "section_keys": [
       "觀景 vista",
-      "亂語 text"
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
     ]
   },
   "1-0__0000": {
@@ -4870,7 +4875,7 @@ window.ARCHIVE_DATA = {
     "img_thumb": "assets/board-B/img_thumb/B-D__0060_2018-04-22-auschwitz.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/6-B__0001_1983-05-31-lovelorn2.pdf",
+        "src": "assets/board-6/pdfs/6-B__0001_1983-05-31-lovelorn2.pdf",
         "thumbnail": ""
       }
     ],

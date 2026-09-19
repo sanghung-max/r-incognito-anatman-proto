@@ -12,6 +12,7 @@ img_thumb: assets/board-B/img_thumb/B-D__0051_2026-06-29-angel-trumpet.webp
 ## 觀景 / vista
 
 
+
 ## Chinese
 
 ### GPT-5.6 Luna | Sep 5, 2026 | Critical Review & Commentary
@@ -154,13 +155,17 @@ If yes, it is a powerful form of fallibilist praxis. If no, the meta-hypervisor 
 
 ### GODOG | Sep 5 2026
 
-This collection of essays traced the foundation of GODOG's views to a group of practices including writing as an instrument of survival and therapy, lived experience in the valley of Thanatos, semiotic analysis with a theory of life and praxis with an existential theme, reductive psycho-social theories, and a sociological philosophy of science.  These thoughts, many "borrowed" or adapted from different sources and bounded by the historical-socio-cultural-economic-political horizons of Hong King in the 1970s and 1980s, were subsumed under the analytical and interpretive frameworks used by GODOG as well as different personae.  
+This collection of essays traced the foundation of GODOG's views to a group of practices including writing as an instrument of survival and therapy, lived experience in the valley of Thanatos, semiotic analysis with a theory of life and praxis with an existential theme, reductive psycho-social theories, and a sociological philosophy of science.  These thoughts, many "borrowed" or adapted from different sources and were bounded by the historical-socio-cultural-economic-political horizons of Hong King in the 1970s and 1980s.  They were subsumed under the analytical and interpretive frameworks used by GODOG as well as different personae.  
 
 As with most analyses and sources, they all carried their own lacunae, biases and prejudices, bounded by their own horizons.  Nor would they be free from contradictions and paradoxes - GODOG identified itself as "ascetic psychonaut" which would likely to invite criticisms from both humans and ai alike.  
 
 Per Wikipedia, a **psychonaut** is a person who explores their own mind and altered states of consciousness to gain self-knowledge, spiritual insight, or philosophical understanding.  GODOG's altered states of consciousness originated from involuntary spasm and seizure (epileptic attacks?) through dream analysis and to "active imagination" and "imageries".  
 
-The hallucinations or delusions experienced by GODOG from adolescence (or even from childhood but these might be subject to unconscious fabrication) were not induced by taking any known psychedelic drugs or alcohol.  Some of those appear in fleeting thoughts or mistaken perception in everyday life, even in familiar settings.  One example is mistaken identification of changing landscape features as human or familiar objects.  There have been several instances in the last 12 months that GODOG "saw" human figures (sometimes with a pet) in some locations near a familiar hiking trail (or in marshy areas when the water level varied).  In some situations (not in "hiking"), fleeting paranoid thoughts can occur (e.g., the thought of being poisoned by some one GODOG encountered or knew).  These happen through the years and different life stages.   In those cases, GODOG's meta-hypervisor (in a metaphorical sense) would use other personae like 大頭 B  for falsification (or validation).  
+The hallucinations or delusions experienced by GODOG from adolescence (or even from childhood but these might be subject to unconscious fabrication) were not induced by taking any known psychedelic drugs or alcohol.  
+
+Some of those appear in fleeting thoughts or mistaken perception in everyday life, even in familiar settings.  One example is mistaken identification of changing landscape features as human or familiar objects.  
+
+There have been several instances in the last 12 months that GODOG "saw" human figures (sometimes with a pet) in some locations near a familiar hiking trail (or in marshy areas when the water level varied).  In some situations (not in "hiking"), fleeting paranoid thoughts can occur (e.g., the thought of being poisoned by some one GODOG encountered or knew).  These happen through the years and different life stages.   In those cases, GODOG's meta-hypervisor (in a metaphorical sense) would use other personae like 大頭 B  for falsification (or validation).  
 
 GODOG and personae had exposed themselves, in their early years, to the reading of quite a few psychiatry, abnormal psychology and psychotherapy texts covering many different schools of thoughts from purely medical perspective to existential or sociological approaches.  Their half-baked attempt as their own psychiatrists in their teenage years might have made it natural to identify, understand and process effectively hallucinations and delusions alike.  
 

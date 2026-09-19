@@ -30,7 +30,7 @@ pdf_thumbnail: assets/board-5/img_thumb/5-C__000A_2025-01-21-messier-42.webp
 ### Ode to Deep-Sky Splendours - Galaxies, Clusters and Nebulae
 **20th May, 1976**    A-D__0001 p.17-p.18
 
-Myriad of galaxies ; brim my mortal/secular eyes sith ecstasy.
+Myriad of galaxies ; brim my mortal/secular eyes with ecstasy.
 fluoresce in their celestial clans:
 with their countless astral lamps.
 
