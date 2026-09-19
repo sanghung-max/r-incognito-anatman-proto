@@ -6495,7 +6495,7 @@ window.ARCHIVE_DATA = {
   "9-0__A010": {
     "id": "9-0__A010",
     "type": "folder",
-    "title_en": "frances sleeping circa-1998",
+    "title_en": "frances - musings",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -6520,10 +6520,7 @@ window.ARCHIVE_DATA = {
     "children": [
       "9-0__A011",
       "9-0__A012",
-      "9-0__A013",
-      "B-D__0065",
-      "B-D__0066",
-      "B-D__0067"
+      "9-0__A013"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -6544,8 +6541,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
+    "img_color": "assets/board-B/img_color/B-D__0065_2020-07-27-moon-yearning.webp",
+    "img_thumb": "assets/board-B/img_thumbr/B-D__0065_2020-07-27-moon-yearning.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -6577,8 +6574,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
+    "img_color": "assets/board-B/img_color/B-D__0066_2018-04-21-beets-and-oil.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0066_2018-04-21-beets-and-oil.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -6609,8 +6606,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
+    "img_color": "assets/board-B/img_color/B-D__0067_2019-07-05-the-sleepers.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0067_2019-07-05-the-sleepers.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -11471,8 +11468,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "B-0__D000",
-      "9-0__A010"
+      "B-0__D000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -11511,8 +11507,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "B-0__D000",
-      "9-0__A010"
+      "B-0__D000"
     ],
     "children": [],
     "leaf_count": 0,
@@ -11551,8 +11546,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "B-0__D000",
-      "9-0__A010"
+      "B-0__D000"
     ],
     "children": [],
     "leaf_count": 0,

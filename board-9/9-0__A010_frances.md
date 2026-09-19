@@ -3,7 +3,7 @@ id: 9-0__A010
 parents:
   - 9-0__A000
 type: folder
-title_en: frances sleeping circa-1998
+title_en: frances - musings
 title_zh:
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0068_1998-01-01-frances-circa-1998.webp

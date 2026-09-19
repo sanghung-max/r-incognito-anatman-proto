@@ -6,8 +6,8 @@ type: folder
 title_en: childhood
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp
-img_thumb: assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp
+img_color: assets/board-B/img_color/B-D__0065_2020-07-27-moon-yearning.webp
+img_thumb: assets/board-B/img_thumbr/B-D__0065_2020-07-27-moon-yearning.webp
 ---
 
 ## 觀景 / vista
