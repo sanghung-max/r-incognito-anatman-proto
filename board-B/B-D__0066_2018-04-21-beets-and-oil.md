@@ -3,7 +3,6 @@ id: B-D__0066
 type: img
 parents:
   - B-0__D000
-  - 9-0__A010
 title_en: Beets and Oil
 title_zh:
 authors:

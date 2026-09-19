@@ -3,7 +3,6 @@ id: B-D__0067
 type: img
 parents:
   - B-0__D000
-  - 9-0__A010
 title_en: The Sleepers
 title_zh:
 authors:
