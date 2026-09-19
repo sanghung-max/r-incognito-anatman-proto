@@ -1,13 +1,13 @@
 ---
-id: 9-0__A010
+id: 9-0__A011
 parents:
-  - 9-0__A000
+  - 9-0__A010
 type: folder
-title_en: frances sleeping circa-1998
+title_en: childhood
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0068_1998-01-01-frances-circa-1998.webp
-img_thumb: assets/board-B/img_thumb/B-D__0068_1998-01-01-frances-circa-1998.webp
+img_color: assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp
+img_thumb: assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp
 ---
 
 ## 觀景 / vista

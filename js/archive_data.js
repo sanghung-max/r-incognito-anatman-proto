@@ -6495,7 +6495,43 @@ window.ARCHIVE_DATA = {
   "9-0__A010": {
     "id": "9-0__A010",
     "type": "folder",
-    "title_en": "frances",
+    "title_en": "frances sleeping circa-1998",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [],
+    "time": "",
+    "location": "",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0068_1998-01-01-frances-circa-1998.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0068_1998-01-01-frances-circa-1998.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A000"
+    ],
+    "children": [
+      "9-0__A011",
+      "9-0__A012",
+      "B-D__0065",
+      "B-D__0066",
+      "B-D__0067"
+    ],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "9-0__A011": {
+    "id": "9-0__A011",
+    "type": "folder",
+    "title_en": "childhood",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -6515,9 +6551,44 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "9-0__A000"
+      "9-0__A010"
     ],
-    "children": [],
+    "children": [
+      "9-A__1101",
+      "9-A__1108"
+    ],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "9-0__A012": {
+    "id": "9-0__A012",
+    "type": "folder",
+    "title_en": "preliminary dreams",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [],
+    "time": "",
+    "location": "",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A010"
+    ],
+    "children": [
+      "9-A__1201"
+    ],
     "leaf_count": 0,
     "has_content": false,
     "section_keys": []
@@ -6616,6 +6687,162 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": false,
     "section_keys": []
+  },
+  "9-A__1101": {
+    "id": "9-A__1101",
+    "type": "img",
+    "title_en": "From the Crater Rim",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2024-08-02",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1101_2024-08-02-from-the-crater-rim.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1101_2024-08-02-from-the-crater-rim.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A011"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "9-A__1108": {
+    "id": "9-A__1108",
+    "type": "img",
+    "title_en": "Red Ceiling Cave",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2024-05-07",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1108_2024-05-07-red-ceiling-cave.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1108_2024-05-07-red-ceiling-cave.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A011"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "9-A__1201": {
+    "id": "9-A__1201",
+    "type": "img",
+    "title_en": "Apple in the Snow",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2015-03-01",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1201_2015-03-01-apple-in-the-snow.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1201_2015-03-01-apple-in-the-snow.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "9-A__1301": {
+    "id": "9-A__1301",
+    "type": "img",
+    "title_en": "Afternoon Room",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-22",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1301_2018-04-22-afternoon-room.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1301_2018-04-22-afternoon-room.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
   },
   "A-0__0000": {
     "id": "A-0__0000",
@@ -7331,10 +7558,10 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0004_1978-05-09-notebook4 -essays.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0004_1978-05-09-notebook4-essays.webp",
     "pdf_manifest": [
       {
-        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf",
+        "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4-essays.pdf",
         "thumbnail": "assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp"
       }
     ],
@@ -7820,6 +8047,9 @@ window.ARCHIVE_DATA = {
       "B-D__0054",
       "B-D__0060",
       "B-D__0062",
+      "B-D__0065",
+      "B-D__0066",
+      "B-D__0067",
       "B-D__A001",
       "B-D__A002",
       "B-D__A003",
@@ -11175,6 +11405,126 @@ window.ARCHIVE_DATA = {
     "has_content": true,
     "section_keys": [
       "觀景 vista",
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "B-D__0065": {
+    "id": "B-D__0065",
+    "type": "img",
+    "title_en": "Moon Yearning",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2020-07-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0065_2020-07-27-moon-yearning.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0065_2020-07-27-moon-yearning.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "B-0__D000",
+      "9-0__A010"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "B-D__0066": {
+    "id": "B-D__0066",
+    "type": "img",
+    "title_en": "Beets and Oil",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-21",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0066_2018-04-21-beets-and-oil.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0066_2018-04-21-beets-and-oil.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "B-0__D000",
+      "9-0__A010"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
+      "拆建 deconstruct",
+      "評語 ai-experts"
+    ]
+  },
+  "B-D__0067": {
+    "id": "B-D__0067",
+    "type": "img",
+    "title_en": "The Sleepers",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2019-07-05",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0067_2019-07-05-the-sleepers.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0067_2019-07-05-the-sleepers.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "B-0__D000",
+      "9-0__A010"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
       "亂語 text",
       "懸置 epoché",
       "理解 wissen",
