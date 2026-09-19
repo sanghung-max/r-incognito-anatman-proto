@@ -7105,14 +7105,7 @@ window.ARCHIVE_DATA = {
       "7-D__0004",
       "7-D__0005",
       "7-D__0006",
-      "A-D__0001",
-      "A-D__0002",
-      "A-D__0003",
-      "A-D__0004",
-      "A-D__0005",
-      "A-D__0006",
-      "A-D__0007",
-      "A-D__0008",
+      "A-0__D020",
       "B-A__0005",
       "B-A__0006",
       "B-A__0007",
@@ -7128,6 +7121,45 @@ window.ARCHIVE_DATA = {
       "M-A__0003",
       "M-A__0004",
       "M-A__0005"
+    ],
+    "leaf_count": 0,
+    "has_content": false,
+    "section_keys": []
+  },
+  "A-0__D020": {
+    "id": "A-0__D020",
+    "type": "folder",
+    "title_en": "Notes from the Purgatory  76-84",
+    "title_zh": "昔日の載",
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [],
+    "time": "",
+    "location": "",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-B/img_color/B-D__0064_1975-`1-31-sang-pre-1975-24.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0064_1975-`1-31-sang-pre-1975-24.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "A-0__D000"
+    ],
+    "children": [
+      "A-D__0001",
+      "A-D__0002",
+      "A-D__0003",
+      "A-D__0004",
+      "A-D__0005",
+      "A-D__0006",
+      "A-D__0007",
+      "A-D__0008"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -7197,7 +7229,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7223,7 +7255,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0002_1977-06-21-sjc-hkbc-notebook2.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0002_1977-06-21-sjc-hkbc-notebook2.pdf",
@@ -7235,7 +7267,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7261,7 +7293,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0003_1978-04-30-sjc-hkbc-notebook3.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0003_1978-04-30-sjc-hkbc-notebook3.pdf",
@@ -7273,7 +7305,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7299,7 +7331,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0004_1978-05-09-notebook4 -essays.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0004_1978-05-09-notebook4 -essays.pdf",
@@ -7311,7 +7343,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7337,7 +7369,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.pdf",
@@ -7349,7 +7381,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7377,7 +7409,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.pdf",
@@ -7389,7 +7421,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7415,7 +7447,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0007_1979-08-01-late-hkbc-loose-pages.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0007_1979-08-01-late-hkbc-loose-pages.pdf",
@@ -7427,7 +7459,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7453,7 +7485,7 @@ window.ARCHIVE_DATA = {
     "audio": "",
     "video": "",
     "img_color": "",
-    "img_thumb": "assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+    "img_thumb": "assets/board-A/img_thumb/A-D__0008_1983-04-09-hku-loose-pages.webp",
     "pdf_manifest": [
       {
         "src": "assets/board-A/pdfs/A-D__0008_1983-04-09-hku-loose-pages.pdf",
@@ -7465,7 +7497,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "A-0__D000"
+      "A-0__D020"
     ],
     "children": [],
     "leaf_count": 0,
@@ -7652,8 +7684,10 @@ window.ARCHIVE_DATA = {
       "C-F__0093"
     ],
     "leaf_count": 0,
-    "has_content": false,
-    "section_keys": []
+    "has_content": true,
+    "section_keys": [
+      "亂語 text"
+    ]
   },
   "B-0__C000": {
     "id": "B-0__C000",
@@ -7878,6 +7912,9 @@ window.ARCHIVE_DATA = {
     "has_content": true,
     "section_keys": [
       "亂語 text",
+      "懸置 epoché",
+      "理解 wissen",
+      "詮釋 interpret",
       "拆建 deconstruct"
     ]
   },

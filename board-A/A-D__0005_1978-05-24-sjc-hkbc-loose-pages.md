@@ -2,7 +2,7 @@
 id: A-D__0005
 type: pdf
 parents:
-  - A-0__D000
+  - A-0__D020
 title_en: Loose Pages 5 1978
 title_zh:
 authors:
@@ -12,7 +12,7 @@ time: 1978-05-24
 location: Hong Kong
 ui_render: true
 display_priority: false
-img_thumb: assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp
+img_thumb: assets/board-A/img_thumb/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.webp
 pdf: assets/board-A/pdfs/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.pdf
 pdf_thumbnail: assets/board-B/img_thumb/B-D__0055_2015-11-27-sunglasses.webp
 ---

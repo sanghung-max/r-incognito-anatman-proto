@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'archive-cache-202609190204';
+const CACHE_NAME = 'archive-cache-202609190519';
 const ASSETS_TO_CACHE = [
   "/assets/board-1/img_thumb/1-D__0001_1976-02-01-education-learning.webp",
   "/assets/board-2/img_thumb/2-C__0001_1978-08-31-home-of-the-harpies.webp",
@@ -202,6 +202,13 @@ const ASSETS_TO_CACHE = [
   "/assets/board-8/img_color/placeholder.webp",
   "/assets/board-8/img_thumb/placeholder.webp",
   "/assets/board-A/img_thumb/A-D__0001_1976-12-31-notebook1.webp",
+  "/assets/board-A/img_thumb/A-D__0002_1977-06-21-sjc-hkbc-notebook2.webp",
+  "/assets/board-A/img_thumb/A-D__0003_1978-04-30-sjc-hkbc-notebook3.webp",
+  "/assets/board-A/img_thumb/A-D__0004_1978-05-09-notebook4-essays.webp",
+  "/assets/board-A/img_thumb/A-D__0005_1978-05-24-sjc-hkbc-loose-pages.webp",
+  "/assets/board-A/img_thumb/A-D__0006_1978-11-21-sjc-hkc-notebook-essays-dreams.webp",
+  "/assets/board-A/img_thumb/A-D__0007_1979-08-01-late-hkbc-loose-pages.webp",
+  "/assets/board-A/img_thumb/A-D__0008_1983-04-09-hku-loose-pages.webp",
   "/assets/board-A/pdfs/A-D__0001_1976-12-31-notebook1.pdf",
   "/assets/board-A/pdfs/A-D__0002_1977-06-21-sjc-hkbc-notebook2.pdf",
   "/assets/board-A/pdfs/A-D__0003_1978-04-30-sjc-hkbc-notebook3.pdf",
@@ -290,6 +297,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_color/B-D__0061_2023-01-21-family-art.webp",
   "/assets/board-B/img_color/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
   "/assets/board-B/img_color/B-D__0063_2024-10-12_torrey-pine-beach.webp",
+  "/assets/board-B/img_color/B-D__0064_1975-%601-31-sang-pre-1975-24.webp",
   "/assets/board-B/img_thumb/B-A__0005_1982-12-31-iconoclast.webp",
   "/assets/board-B/img_thumb/B-A__0006_1977-12-29-dirge-hope.webp",
   "/assets/board-B/img_thumb/B-A__0007_1977-03-07-hiking-tai-tam.webp",
@@ -380,6 +388,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__0061_2023-01-21-family-art.webp",
   "/assets/board-B/img_thumb/B-D__0062_1975-01-01-sang-pre1975-101c.webp",
   "/assets/board-B/img_thumb/B-D__0063_2024-10-12_torrey-pine-beach.webp",
+  "/assets/board-B/img_thumb/B-D__0064_1975-%601-31-sang-pre-1975-24.webp",
   "/assets/board-B/img_thumb/B-D__A001_1991-01-01-%E9%A2%A8%E7%9A%84%E5%AD%A3%E7%AF%80.webp",
   "/assets/board-B/img_thumb/B-D__A002_1969-01-01-the-boxer.webp",
   "/assets/board-B/img_thumb/B-D__A003_1991-12-31-%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1.webp",

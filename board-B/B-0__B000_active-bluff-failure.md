@@ -22,7 +22,9 @@ img_thumb: assets/board-B/img_thumb/B-D__0031_2026-07-10-solana-beach-active-blu
 
 ## 亂語 / text
 
+### R. Incognito | Sep 18, 2026
 
+In their younger days, R. Incognito and personae learned rudiments of ethnography, hermeneutics, philosophy of science and virtually any disciplines of human knowledge out of necessity - to understand their internal world and external world.  Understanding is the precondition to myth creation, preservation and destruction (aka "meaning", "knowledge" and strategies/tactics to live through life). Rituals, methods and procedures, solutions to problems,  practices, or whatsoever they are called, be they cultural, technological, social, psychological/psychiatric, mental...serve the purpose of both physical and mental/spiritual survival.  
 
 
 
