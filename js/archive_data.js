@@ -6626,7 +6626,34 @@ window.ARCHIVE_DATA = {
       "9-0__A010"
     ],
     "children": [
-      "9-A__1201"
+      "9-A__1201",
+      "9-A__1202",
+      "9-A__1203",
+      "9-A__1204",
+      "9-A__1205",
+      "9-A__1206",
+      "9-A__1207",
+      "9-A__1208",
+      "9-A__1209",
+      "9-A__120A",
+      "9-A__120B",
+      "9-A__120C",
+      "9-A__120D",
+      "9-A__120E",
+      "9-A__120F",
+      "9-A__1210",
+      "9-A__1211",
+      "9-A__1212",
+      "9-A__1213",
+      "9-A__1214",
+      "9-A__1215",
+      "9-A__1216",
+      "9-A__1217",
+      "9-A__1218",
+      "9-A__1219",
+      "9-A__121A",
+      "9-A__121B",
+      "9-A__121C"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -6658,7 +6685,40 @@ window.ARCHIVE_DATA = {
       "9-0__A010"
     ],
     "children": [
-      "9-A__1301"
+      "9-A__1301",
+      "9-A__1302",
+      "9-A__1303",
+      "9-A__1304",
+      "9-A__1305",
+      "9-A__1306",
+      "9-A__1307",
+      "9-A__1308",
+      "9-A__1309",
+      "9-A__130A",
+      "9-A__130B",
+      "9-A__130C",
+      "9-A__130D",
+      "9-A__130E",
+      "9-A__130F",
+      "9-A__1310",
+      "9-A__1311",
+      "9-A__1312",
+      "9-A__1313",
+      "9-A__1314",
+      "9-A__1315",
+      "9-A__1316",
+      "9-A__1317",
+      "9-A__1318",
+      "9-A__1319",
+      "9-A__131A",
+      "9-A__131B",
+      "9-A__131C",
+      "9-A__131D",
+      "9-A__131E",
+      "9-A__131F",
+      "9-A__1320",
+      "9-A__1321",
+      "9-A__1322"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -8224,7 +8284,41 @@ window.ARCHIVE_DATA = {
   "9-A__1201": {
     "id": "9-A__1201",
     "type": "img",
-    "title_en": "Apple in the Snow",
+    "title_en": "ad abundance",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-26",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1201_2018-01-26-ad-abundance.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1201_2018-01-26-ad-abundance.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1202": {
+    "id": "9-A__1202",
+    "type": "img",
+    "title_en": "apple in the snow",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8238,8 +8332,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-9/img_color/9-A__1201_2015-03-01-apple-in-the-snow.webp",
-    "img_thumb": "assets/board-9/img_thumb/9-A__1201_2015-03-01-apple-in-the-snow.webp",
+    "img_color": "assets/board-9/img_color/9-A__1202_2015-03-01-apple-in-the-snow.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1202_2015-03-01-apple-in-the-snow.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -8252,18 +8346,897 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text",
-      "懸置 epoché",
-      "理解 wissen",
-      "詮釋 interpret",
-      "拆建 deconstruct",
-      "評語 ai-experts"
+      "觀景 vista"
+    ]
+  },
+  "9-A__1203": {
+    "id": "9-A__1203",
+    "type": "img",
+    "title_en": "arm in blue light",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-04",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1203_2018-01-04-arm-in-blue-light.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1203_2018-01-04-arm-in-blue-light.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1204": {
+    "id": "9-A__1204",
+    "type": "img",
+    "title_en": "beautifully warped",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2013-06-22",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1204_2013-06-22-beautifully-warped.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1204_2013-06-22-beautifully-warped.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1205": {
+    "id": "9-A__1205",
+    "type": "img",
+    "title_en": "beets and oil",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-21",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1205_2018-04-21-beets-and-oil.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1205_2018-04-21-beets-and-oil.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1206": {
+    "id": "9-A__1206",
+    "type": "img",
+    "title_en": "bountiful summer crop",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2022-08-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1206_2022-08-27-bountiful-summer-crop.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1206_2022-08-27-bountiful-summer-crop.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1207": {
+    "id": "9-A__1207",
+    "type": "img",
+    "title_en": "brunch with friends",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2020-01-25",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1207_2020-01-25-brunch-with-friends.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1207_2020-01-25-brunch-with-friends.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1208": {
+    "id": "9-A__1208",
+    "type": "img",
+    "title_en": "flowers",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-03-02",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1208_2016-03-02-flowers.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1208_2016-03-02-flowers.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1209": {
+    "id": "9-A__1209",
+    "type": "img",
+    "title_en": "fractal food",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2017-02-11",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1209_2017-02-11-fractal-food.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1209_2017-02-11-fractal-food.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120A": {
+    "id": "9-A__120A",
+    "type": "img",
+    "title_en": "fruit stand man",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-22",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120A_2018-01-22-fruit-stand-man.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120A_2018-01-22-fruit-stand-man.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120B": {
+    "id": "9-A__120B",
+    "type": "img",
+    "title_en": "glass empty",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2014-10-24",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120B_2014-10-24-glass-empty.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120B_2014-10-24-glass-empty.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120C": {
+    "id": "9-A__120C",
+    "type": "img",
+    "title_en": "gum wall",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-12-11",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120C_2018-12-11-gum-wall.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120C_2018-12-11-gum-wall.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120D": {
+    "id": "9-A__120D",
+    "type": "img",
+    "title_en": "ladybugs",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-10-14",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120D_2016-10-14-ladybugs.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120D_2016-10-14-ladybugs.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120E": {
+    "id": "9-A__120E",
+    "type": "img",
+    "title_en": "late night in berlin",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120E_2018-01-27-late-night-in-berlin.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120E_2018-01-27-late-night-in-berlin.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__120F": {
+    "id": "9-A__120F",
+    "type": "img",
+    "title_en": "melted cheese",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-29",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__120F_2018-04-29-melted-cheese.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__120F_2018-04-29-melted-cheese.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1210": {
+    "id": "9-A__1210",
+    "type": "img",
+    "title_en": "of the holy blood",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-03-18",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1210_2018-03-18-of-the-holy-blood.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1210_2018-03-18-of-the-holy-blood.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1211": {
+    "id": "9-A__1211",
+    "type": "img",
+    "title_en": "pink blush",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2021-08-19",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1211_2021-08-19-pink-blush.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1211_2021-08-19-pink-blush.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1212": {
+    "id": "9-A__1212",
+    "type": "img",
+    "title_en": "sarajevo at rest",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-05-13",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1212_2018-05-13-sarajevo-at-rest.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1212_2018-05-13-sarajevo-at-rest.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1213": {
+    "id": "9-A__1213",
+    "type": "img",
+    "title_en": "sardine bouquet",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-30",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1213_2018-04-30-sardine-bouquet.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1213_2018-04-30-sardine-bouquet.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1214": {
+    "id": "9-A__1214",
+    "type": "img",
+    "title_en": "self portrait trapped bee",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-10-13",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1214_2016-10-13-self-portrait-trapped-bee.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1214_2016-10-13-self-portrait-trapped-bee.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1215": {
+    "id": "9-A__1215",
+    "type": "img",
+    "title_en": "sheep study",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-30",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1215_2018-04-30-sheep-study.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1215_2018-04-30-sheep-study.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1216": {
+    "id": "9-A__1216",
+    "type": "img",
+    "title_en": "sole",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-01-29",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1216_2016-01-29-sole.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1216_2016-01-29-sole.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1217": {
+    "id": "9-A__1217",
+    "type": "img",
+    "title_en": "steak dinner",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2020-02-01",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1217_2020-02-01-steak-dinner.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1217_2020-02-01-steak-dinner.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1218": {
+    "id": "9-A__1218",
+    "type": "img",
+    "title_en": "the forest nobody notices",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2013-04-08",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1218_2013-04-08-the-forest-nobody-notices.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1218_2013-04-08-the-forest-nobody-notices.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1219": {
+    "id": "9-A__1219",
+    "type": "img",
+    "title_en": "the wall the knife",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-03-03",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1219_2018-03-03-the-wall-the-knife.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1219_2018-03-03-the-wall-the-knife.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__121A": {
+    "id": "9-A__121A",
+    "type": "img",
+    "title_en": "unfortunate squid",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-03-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__121A_2018-03-31-unfortunate-squid.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__121A_2018-03-31-unfortunate-squid.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__121B": {
+    "id": "9-A__121B",
+    "type": "img",
+    "title_en": "water land evolution",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2023-03-05",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__121B_2023-03-05-water-land-evolution.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__121B_2023-03-05-water-land-evolution.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__121C": {
+    "id": "9-A__121C",
+    "type": "img",
+    "title_en": "yolk",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2017-02-11",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__121C_2017-02-11-yolk.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__121C_2017-02-11-yolk.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A012"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
     ]
   },
   "9-A__1301": {
     "id": "9-A__1301",
     "type": "img",
-    "title_en": "Afternoon Room",
+    "title_en": "afternoon room",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8291,12 +9264,1129 @@ window.ARCHIVE_DATA = {
     "leaf_count": 0,
     "has_content": true,
     "section_keys": [
-      "亂語 text",
-      "懸置 epoché",
-      "理解 wissen",
-      "詮釋 interpret",
-      "拆建 deconstruct",
-      "評語 ai-experts"
+      "觀景 vista"
+    ]
+  },
+  "9-A__1302": {
+    "id": "9-A__1302",
+    "type": "img",
+    "title_en": "anonymous in spotlight",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2019-07-24",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1302_2019-07-24-anonymous-in-spotlight.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1302_2019-07-24-anonymous-in-spotlight.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1303": {
+    "id": "9-A__1303",
+    "type": "img",
+    "title_en": "apparition",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-20",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1303_2018-04-20-apparition.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1303_2018-04-20-apparition.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1304": {
+    "id": "9-A__1304",
+    "type": "img",
+    "title_en": "atlas carries the weight",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-03-24",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1304_2018-03-24-atlas-carries-the-weight.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1304_2018-03-24-atlas-carries-the-weight.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1305": {
+    "id": "9-A__1305",
+    "type": "img",
+    "title_en": "backyard by night",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2012-09-15",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1305_2012-09-15-backyard-by-night.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1305_2012-09-15-backyard-by-night.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1306": {
+    "id": "9-A__1306",
+    "type": "img",
+    "title_en": "cat angel",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-05-12",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1306_2018-05-12-cat-angel.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1306_2018-05-12-cat-angel.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1307": {
+    "id": "9-A__1307",
+    "type": "img",
+    "title_en": "digoxin mist",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2024-07-15",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1307_2024-07-15-digoxin-mist.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1307_2024-07-15-digoxin-mist.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1308": {
+    "id": "9-A__1308",
+    "type": "img",
+    "title_en": "dr tj eckleburg moves to los angeles",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2017-12-07",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1308_2017-12-07-dr-tj-eckleburg-moves-to-los-angeles.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1308_2017-12-07-dr-tj-eckleburg-moves-to-los-angeles.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1309": {
+    "id": "9-A__1309",
+    "type": "img",
+    "title_en": "ephemeral things",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-03-18",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1309_2016-03-18-ephemeral-things.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1309_2016-03-18-ephemeral-things.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130A": {
+    "id": "9-A__130A",
+    "type": "img",
+    "title_en": "flame and cross",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "1970-01-01",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130A_1970-01-01-flame-and-cross.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130A_1970-01-01-flame-and-cross.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130B": {
+    "id": "9-A__130B",
+    "type": "img",
+    "title_en": "gargoyle raven",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2024-07-10",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130B_2024-07-10-gargoyle-raven.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130B_2024-07-10-gargoyle-raven.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130C": {
+    "id": "9-A__130C",
+    "type": "img",
+    "title_en": "glass empty",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2014-10-24",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130C_2014-10-24-glass-empty.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130C_2014-10-24-glass-empty.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130D": {
+    "id": "9-A__130D",
+    "type": "img",
+    "title_en": "looming needle",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-12-10",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130D_2018-12-10-looming-needle.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130D_2018-12-10-looming-needle.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130E": {
+    "id": "9-A__130E",
+    "type": "img",
+    "title_en": "lost",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130E_2018-01-27-lost.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130E_2018-01-27-lost.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__130F": {
+    "id": "9-A__130F",
+    "type": "img",
+    "title_en": "memento mori",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2013-06-01",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__130F_2013-06-01-memento-mori.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__130F_2013-06-01-memento-mori.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1310": {
+    "id": "9-A__1310",
+    "type": "img",
+    "title_en": "nobody on the train",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2022-08-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1310_2022-08-27-nobody-on-the-train.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1310_2022-08-27-nobody-on-the-train.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1311": {
+    "id": "9-A__1311",
+    "type": "img",
+    "title_en": "on verge of collapse",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2021-01-08",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1311_2021-01-08-on-verge-of-collapse.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1311_2021-01-08-on-verge-of-collapse.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1312": {
+    "id": "9-A__1312",
+    "type": "img",
+    "title_en": "reflections",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-08-14",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1312_2018-08-14-reflections.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1312_2018-08-14-reflections.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1313": {
+    "id": "9-A__1313",
+    "type": "img",
+    "title_en": "sepulchre",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-27",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1313_2018-01-27-sepulchre.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1313_2018-01-27-sepulchre.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1314": {
+    "id": "9-A__1314",
+    "type": "img",
+    "title_en": "shaped by cloud and wind",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2019-10-07",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1314_2019-10-07-shaped-by-cloud-and-wind.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1314_2019-10-07-shaped-by-cloud-and-wind.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1315": {
+    "id": "9-A__1315",
+    "type": "img",
+    "title_en": "sinking city",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-03-31",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1315_2018-03-31-sinking-city.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1315_2018-03-31-sinking-city.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1316": {
+    "id": "9-A__1316",
+    "type": "img",
+    "title_en": "solitary living",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-04-20",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1316_2018-04-20-solitary-living.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1316_2018-04-20-solitary-living.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1317": {
+    "id": "9-A__1317",
+    "type": "img",
+    "title_en": "table for one",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-12-09",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1317_2018-12-09-table-for-one.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1317_2018-12-09-table-for-one.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1318": {
+    "id": "9-A__1318",
+    "type": "img",
+    "title_en": "the birds",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-08-19",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1318_2016-08-19-the-birds.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1318_2016-08-19-the-birds.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1319": {
+    "id": "9-A__1319",
+    "type": "img",
+    "title_en": "the scattering",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-05-11",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1319_2018-05-11-the-scattering.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1319_2018-05-11-the-scattering.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131A": {
+    "id": "9-A__131A",
+    "type": "img",
+    "title_en": "the shadow",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-23",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131A_2018-01-23-the-shadow.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131A_2018-01-23-the-shadow.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131B": {
+    "id": "9-A__131B",
+    "type": "img",
+    "title_en": "the sleepers",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2019-07-05",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131B_2019-07-05-the-sleepers.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131B_2019-07-05-the-sleepers.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131C": {
+    "id": "9-A__131C",
+    "type": "img",
+    "title_en": "the wave",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2015-02-14",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131C_2015-02-14-the-wave.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131C_2015-02-14-the-wave.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131D": {
+    "id": "9-A__131D",
+    "type": "img",
+    "title_en": "time stands still",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2014-12-11",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131D_2014-12-11-time-stands-still.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131D_2014-12-11-time-stands-still.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131E": {
+    "id": "9-A__131E",
+    "type": "img",
+    "title_en": "transitory medium",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-01-07",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131E_2016-01-07-transitory-medium.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131E_2016-01-07-transitory-medium.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__131F": {
+    "id": "9-A__131F",
+    "type": "img",
+    "title_en": "twins",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2014-11-26",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__131F_2014-11-26-twins.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__131F_2014-11-26-twins.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1320": {
+    "id": "9-A__1320",
+    "type": "img",
+    "title_en": "vanishing leaves",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2024-08-04",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1320_2024-08-04-vanishing-leaves.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1320_2024-08-04-vanishing-leaves.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1321": {
+    "id": "9-A__1321",
+    "type": "img",
+    "title_en": "waiting room",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2018-01-20",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1321_2018-01-20-waiting-room.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1321_2018-01-20-waiting-room.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
+    ]
+  },
+  "9-A__1322": {
+    "id": "9-A__1322",
+    "type": "img",
+    "title_en": "warhol watches",
+    "title_zh": null,
+    "age": null,
+    "description_en": "",
+    "description_zh": "",
+    "authors": [
+      "Frances Hung"
+    ],
+    "time": "2016-10-15",
+    "location": "USA",
+    "ui_render": true,
+    "display_priority": false,
+    "audio": "",
+    "video": "",
+    "img_color": "assets/board-9/img_color/9-A__1322_2016-10-15-warhol-watches.webp",
+    "img_thumb": "assets/board-9/img_thumb/9-A__1322_2016-10-15-warhol-watches.webp",
+    "pdf_manifest": [],
+    "page_pattern": "",
+    "page_thumbnail_pattern": "",
+    "page_start": null,
+    "page_end": null,
+    "parents": [
+      "9-0__A013"
+    ],
+    "children": [],
+    "leaf_count": 0,
+    "has_content": true,
+    "section_keys": [
+      "觀景 vista"
     ]
   },
   "9-B__1102": {
