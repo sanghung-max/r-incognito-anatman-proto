@@ -2,12 +2,12 @@
 id: 8-B__000D
 type: img
 parents:
-- 8-0__B000
-title_en: fiddler delight solar attic fan on the roof
+  - 8-0__B000
+title_en: fiddler delight on the roof - solar attic fan
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2021-06-11
 location: Plano USA
 ui_render: true

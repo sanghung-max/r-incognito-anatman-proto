@@ -7975,7 +7975,7 @@ window.ARCHIVE_DATA = {
   "8-B__0001": {
     "id": "8-B__0001",
     "type": "img",
-    "title_en": "all yard nostalgia",
+    "title_en": "all-yard nostalgia",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8010,7 +8010,7 @@ window.ARCHIVE_DATA = {
   "8-B__0002": {
     "id": "8-B__0002",
     "type": "img",
-    "title_en": "all yard vision",
+    "title_en": "all-yard vision",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8046,7 +8046,7 @@ window.ARCHIVE_DATA = {
     "id": "8-B__0003",
     "type": "img",
     "title_en": "anatman still reigns",
-    "title_zh": null,
+    "title_zh": "無我",
     "age": null,
     "description_en": "",
     "description_zh": "",
@@ -8080,7 +8080,7 @@ window.ARCHIVE_DATA = {
   "8-B__0004": {
     "id": "8-B__0004",
     "type": "img",
-    "title_en": "attic radiant barrier wrap",
+    "title_en": "radiant barrier attic wrap",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8115,7 +8115,7 @@ window.ARCHIVE_DATA = {
   "8-B__0005": {
     "id": "8-B__0005",
     "type": "img",
-    "title_en": "bad to the bone children wall",
+    "title_en": "bad-to-the-bone children wall",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8150,7 +8150,7 @@ window.ARCHIVE_DATA = {
   "8-B__0006": {
     "id": "8-B__0006",
     "type": "img",
-    "title_en": "bathroom renewal",
+    "title_en": "bathroom nightmarish renewal",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8185,7 +8185,7 @@ window.ARCHIVE_DATA = {
   "8-B__0007": {
     "id": "8-B__0007",
     "type": "img",
-    "title_en": "creeping scope second patio in remission",
+    "title_en": "creeping scope - second patio in remission",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8290,7 +8290,7 @@ window.ARCHIVE_DATA = {
   "8-B__000A": {
     "id": "8-B__000A",
     "type": "img",
-    "title_en": "entering sacred ground",
+    "title_en": "entering sacred ground, GODOG!",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8325,7 +8325,7 @@ window.ARCHIVE_DATA = {
   "8-B__000B": {
     "id": "8-B__000B",
     "type": "img",
-    "title_en": "epoxy games turned topsy turvy",
+    "title_en": "epoxy games turned topsy-turvy",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8395,7 +8395,7 @@ window.ARCHIVE_DATA = {
   "8-B__000D": {
     "id": "8-B__000D",
     "type": "img",
-    "title_en": "fiddler delight solar attic fan on the roof",
+    "title_en": "fiddler delight on the roof - solar attic fan",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8500,7 +8500,7 @@ window.ARCHIVE_DATA = {
   "8-B__0010": {
     "id": "8-B__0010",
     "type": "img",
-    "title_en": "get levled for sewage bowl",
+    "title_en": "get leveled for sewage bowl",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8675,7 +8675,7 @@ window.ARCHIVE_DATA = {
   "8-B__0015": {
     "id": "8-B__0015",
     "type": "img",
-    "title_en": "new york new york",
+    "title_en": "new-york, new-york",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8710,7 +8710,7 @@ window.ARCHIVE_DATA = {
   "8-B__0016": {
     "id": "8-B__0016",
     "type": "img",
-    "title_en": "ominpresent mementos",
+    "title_en": "omnipresent mementos",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8745,7 +8745,7 @@ window.ARCHIVE_DATA = {
   "8-B__0017": {
     "id": "8-B__0017",
     "type": "img",
-    "title_en": "panganism at sunset",
+    "title_en": "paganism at sunset",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8815,7 +8815,7 @@ window.ARCHIVE_DATA = {
   "8-B__0019": {
     "id": "8-B__0019",
     "type": "img",
-    "title_en": "pink to stone wall tiles transmuted",
+    "title_en": "pink to stone wall tiles - transmuted",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8850,7 +8850,7 @@ window.ARCHIVE_DATA = {
   "8-B__001A": {
     "id": "8-B__001A",
     "type": "img",
-    "title_en": "relic 70s  astrophotography",
+    "title_en": "relic 1970s  astrophotography",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -8955,7 +8955,7 @@ window.ARCHIVE_DATA = {
   "8-B__001D": {
     "id": "8-B__001D",
     "type": "img",
-    "title_en": "stained glass window you bet",
+    "title_en": "stained glass window? you bet!",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -9095,7 +9095,7 @@ window.ARCHIVE_DATA = {
   "8-B__0021": {
     "id": "8-B__0021",
     "type": "img",
-    "title_en": "tree of life paganism at large",
+    "title_en": "tree of life, paganism at large",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -9130,7 +9130,7 @@ window.ARCHIVE_DATA = {
   "8-B__0022": {
     "id": "8-B__0022",
     "type": "img",
-    "title_en": "trinity wall left",
+    "title_en": "beware of trinity wall left",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -9165,7 +9165,7 @@ window.ARCHIVE_DATA = {
   "8-B__0023": {
     "id": "8-B__0023",
     "type": "img",
-    "title_en": "trinity wall right",
+    "title_en": "beware of trinity wall right",
     "title_zh": null,
     "age": null,
     "description_en": "",
@@ -9200,7 +9200,7 @@ window.ARCHIVE_DATA = {
   "8-B__0024": {
     "id": "8-B__0024",
     "type": "img",
-    "title_en": "where do all the doors go",
+    "title_en": "where do all the doors go?",
     "title_zh": null,
     "age": null,
     "description_en": "",

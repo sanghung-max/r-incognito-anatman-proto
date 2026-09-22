@@ -2,12 +2,12 @@
 id: 8-B__0005
 type: img
 parents:
-- 8-0__B000
-title_en: bad to the bone children wall
+  - 8-0__B000
+title_en: bad-to-the-bone children wall
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2020-07-27
 location: Plano USA
 ui_render: true

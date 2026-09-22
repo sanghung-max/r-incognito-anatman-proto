@@ -2,12 +2,12 @@
 id: 8-B__0015
 type: img
 parents:
-- 8-0__B000
-title_en: new york new york
+  - 8-0__B000
+title_en: new-york, new-york
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2020-05-25
 location: Plano USA
 ui_render: true

@@ -2,12 +2,12 @@
 id: 8-B__0007
 type: img
 parents:
-- 8-0__B000
-title_en: creeping scope second patio in remission
+  - 8-0__B000
+title_en: creeping scope - second patio in remission
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2019-05-07
 location: Plano USA
 ui_render: true

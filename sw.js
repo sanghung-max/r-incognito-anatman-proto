@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'archive-cache-202609220521';
+const CACHE_NAME = 'archive-cache-202609220549';
 const ASSETS_TO_CACHE = [
   "/assets/board-1/img_color/1-A__121D_1970-01-01-breaking-rules.webp",
   "/assets/board-1/img_color/1-A__121E_1970-01-01-caught-red-handed.webp",

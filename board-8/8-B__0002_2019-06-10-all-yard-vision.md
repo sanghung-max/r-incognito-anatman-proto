@@ -2,12 +2,12 @@
 id: 8-B__0002
 type: img
 parents:
-- 8-0__B000
-title_en: all yard vision
+  - 8-0__B000
+title_en: all-yard vision
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2019-06-10
 location: Plano USA
 ui_render: true

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "board-1/1-D__0001_1976-02-01-education-learning.md",
+                "file": "board-8/8-B__0018_2019-02-03-patio-from-scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-D__0001_1976-02-01-education-learning"
+              "title": "8-B__0018_2019-02-03-patio-from-scratchpad"
             }
           }
         ]
@@ -185,29 +185,14 @@
   },
   "active": "1b0db66b240cd2e2",
   "lastOpenFiles": [
-    "assets/data/nodes/8-B__0025.json",
-    "assets/data/nodes/8-B__0024.json",
-    "assets/data/nodes/8-B__0023.json",
-    "assets/data/nodes/8-B__0022.json",
-    "assets/data/nodes/8-B__0021.json",
-    "assets/data/nodes/8-B__0020.json",
-    "assets/data/nodes/8-B__001F.json",
-    "assets/data/nodes/8-B__001E.json",
-    "assets/data/nodes/8-B__001D.json",
-    "assets/data/nodes/8-B__001C.json",
-    "assets/data/nodes/8-B__001B.json",
-    "assets/board-8/img_thumb/8-B__0023_2020-07-26-trinity-wall-right.webp",
-    "assets/board-8/img_thumb/8-B__0025_2019-06-10-wish-you-well.webp",
-    "assets/board-8/img_thumb/8-B__0022_2020-07-26-trinity-wall-left.webp",
-    "assets/board-8/img_thumb/8-B__0024_2017-09-24-where-do-all-the-doors-go.webp",
-    "assets/board-8/img_thumb/8-B__0016_2020-07-26-ominpresent-mementos.webp",
-    "assets/board-8/img_thumb/8-B__0021_2020-07-26-tree-of-life-paganism-at-large.webp",
-    "assets/board-8/img_thumb/8-B__0020_2019-10-04-tranquility-at-dusk.webp",
-    "assets/board-8/img_thumb/8-B__0014_2019-09-01-meditation.webp",
-    "assets/board-8/img_thumb/8-B__0017_2022-08-27-panganism-at-sunset.webp",
-    "assets/board-8/img_thumb/8-B__001C_2015-01-05-sewage-bowl-master-class.webp",
+    "board-8/8-B__0017_2022-08-27-panganism-at-sunset.md",
+    "board-8/8-B__0016_2020-07-26-ominpresent-mementos.md",
+    "board-8/8-B__0015_2020-05-25-new-york-new-york.md",
+    "board-8/8-B__0014_2019-09-01-meditation.md",
+    "board-8/8-B__0013_2017-02-11-jigsaw-puzzle-to-cut-through.md",
+    "board-8/8-B__0012_2018-07-21-gold-to-bronze-chandelier.md",
     "board-8/8-B__0011_2017-07-30-glazing-sinks.md",
-    "board-8/8-B__0010_2015-01-16-get-levled-for-sewage-bowl.md",
+    "board-8/8-B__0010_2015-01-16-get-leveled-for-sewage-bowl.md",
     "board-8/8-B__0009_2018-07-07-electric-cooktop-blue.md",
     "board-8/8-B__0008_2020-05-08-duality-wall-left.md",
     "board-8/8-B__0007_2019-05-07-creeping-scope-second-patio-in-remission.md",
@@ -226,10 +211,25 @@
     "board-8/8-B__000F_2019-05-07-frankenstein-patio.md",
     "board-8/8-B__000E_2021-05-02-flare-from-the-afternoon-sun.md",
     "board-8/8-B__000D_2021-06-11-fiddler-delight-solar-attic-fan-on-the-roof.md",
-    "board-8/8-B__000C_2019-03-19-extraordinarily-crazy-haul.md",
-    "board-8/8-B__000B_2017-10-25-epoxy-games-turned-topsy-turvy.md",
-    "board-8/8-B__000A_2020-07-26-entering-sacred-ground.md",
-    "board-8/8-B__0025_2019-06-10-wish-you-well.md",
-    "board-8/8-B__0024_2017-09-24-where-do-all-the-doors-go.md"
+    "assets/data/nodes/8-B__0025.json",
+    "assets/data/nodes/8-B__0024.json",
+    "assets/data/nodes/8-B__0023.json",
+    "assets/data/nodes/8-B__0022.json",
+    "assets/data/nodes/8-B__0021.json",
+    "assets/data/nodes/8-B__0020.json",
+    "assets/data/nodes/8-B__001F.json",
+    "assets/data/nodes/8-B__001E.json",
+    "assets/data/nodes/8-B__001D.json",
+    "assets/data/nodes/8-B__001C.json",
+    "assets/board-8/img_thumb/8-B__0023_2020-07-26-trinity-wall-right.webp",
+    "assets/board-8/img_thumb/8-B__0025_2019-06-10-wish-you-well.webp",
+    "assets/board-8/img_thumb/8-B__0022_2020-07-26-trinity-wall-left.webp",
+    "assets/board-8/img_thumb/8-B__0024_2017-09-24-where-do-all-the-doors-go.webp",
+    "assets/board-8/img_thumb/8-B__0016_2020-07-26-ominpresent-mementos.webp",
+    "assets/board-8/img_thumb/8-B__0021_2020-07-26-tree-of-life-paganism-at-large.webp",
+    "assets/board-8/img_thumb/8-B__0020_2019-10-04-tranquility-at-dusk.webp",
+    "assets/board-8/img_thumb/8-B__0014_2019-09-01-meditation.webp",
+    "assets/board-8/img_thumb/8-B__0017_2022-08-27-panganism-at-sunset.webp",
+    "assets/board-8/img_thumb/8-B__001C_2015-01-05-sewage-bowl-master-class.webp"
   ]
 }

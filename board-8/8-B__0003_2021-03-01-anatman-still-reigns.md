@@ -2,12 +2,12 @@
 id: 8-B__0003
 type: img
 parents:
-- 8-0__B000
+  - 8-0__B000
 title_en: anatman still reigns
-title_zh:
+title_zh: 無我
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2021-03-01
 location: Plano USA
 ui_render: true

@@ -2,12 +2,12 @@
 id: 8-B__000B
 type: img
 parents:
-- 8-0__B000
-title_en: epoxy games turned topsy turvy
+  - 8-0__B000
+title_en: epoxy games turned topsy-turvy
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2017-10-25
 location: Plano USA
 ui_render: true

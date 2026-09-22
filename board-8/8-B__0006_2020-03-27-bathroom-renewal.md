@@ -2,12 +2,12 @@
 id: 8-B__0006
 type: img
 parents:
-- 8-0__B000
-title_en: bathroom renewal
+  - 8-0__B000
+title_en: bathroom nightmarish renewal
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2020-03-27
 location: Plano USA
 ui_render: true

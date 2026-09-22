@@ -2,12 +2,12 @@
 id: 8-B__0010
 type: img
 parents:
-- 8-0__B000
-title_en: get levled for sewage bowl
+  - 8-0__B000
+title_en: get leveled for sewage bowl
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2015-01-16
 location: Plano USA
 ui_render: true

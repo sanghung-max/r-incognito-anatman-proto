@@ -2,12 +2,12 @@
 id: 8-B__0004
 type: img
 parents:
-- 8-0__B000
-title_en: attic radiant barrier wrap
+  - 8-0__B000
+title_en: radiant barrier attic wrap
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2018-01-28
 location: Plano USA
 ui_render: true

@@ -2,12 +2,12 @@
 id: 8-B__001A
 type: img
 parents:
-- 8-0__B000
-title_en: relic 70s  astrophotography
+  - 8-0__B000
+title_en: relic 1970s  astrophotography
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2018-10-13
 location: Plano USA
 ui_render: true

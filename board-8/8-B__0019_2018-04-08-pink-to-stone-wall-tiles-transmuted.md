@@ -2,12 +2,12 @@
 id: 8-B__0019
 type: img
 parents:
-- 8-0__B000
-title_en: pink to stone wall tiles transmuted
+  - 8-0__B000
+title_en: pink to stone wall tiles - transmuted
 title_zh:
 authors:
-- R. Incognito
-- 無我
+  - R. Incognito
+  - 無我
 time: 2018-04-08
 location: Plano USA
 ui_render: true
