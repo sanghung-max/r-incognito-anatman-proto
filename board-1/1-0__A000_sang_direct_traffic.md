@@ -2,11 +2,11 @@
 id: 1-0__A000
 type: folder
 parents: 1-0__0000
-title_en: braised pork with rattan
-title_zh: 藤條燜豬肉
+title_en: Kinder Joy Club
+title_zh: 幼稚樂園
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0004_2016-05-20-pork-rattan.webp
-img_thumb: assets/board-B/img_thumb/B-D__0004_2016-05-20-pork-rattan.webp
+img_color: assets/board-B/img_color/B-D__0069-1963-07-01-sang-direct-traffic.webp
+img_thumb: assets/board-B/img_thumb/B-D__0069-1963-07-01-sang-direct-traffic.webp
 ---
 
 ## 觀景 / vista
