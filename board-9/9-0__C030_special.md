@@ -1,13 +1,12 @@
 ---
-id: 9-0__A010
-parents:
-  - 9-0__A000
+id: 9-0__C030
+parents: 9-0__0000
 type: folder
-title_en: frances - musings
+title_en: influential community
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0068_1998-01-01-frances-circa-1998.webp
-img_thumb: assets/board-B/img_thumb/B-D__0068_1998-01-01-frances-circa-1998.webp
+img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
 ---
 
 ## 觀景 / vista

@@ -4,7 +4,7 @@ parents:
   - A-0__B030
 type: folder
 title_en: starry field photography 1974-1978
-title_zh:
+title_zh: 星空快照
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0073_1974-12-31-starry-sky.webp
 img_thumb: assets/board-B/img_thumb/B-D__0073_1974-12-31-starry-sky.webp
