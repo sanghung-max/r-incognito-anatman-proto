@@ -5,8 +5,8 @@ type: folder
 title_en: work life community
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D-0089_2016-03-28-work-life-ny.webp
+img_thumb: assets/board-B/img_thumb/B-D-0089_2016-03-28-work-life-ny.webp
 ---
 
 ## 觀景 / vista

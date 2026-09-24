@@ -4,10 +4,10 @@ parents:
   - 9-0__C020
 type: folder
 title_en: SUNYAB - Cognitive Psychology, Computer Science
-title_zh: 1986 - 1989
+title_zh: 紐約州立大學 1986 - 1989
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0083_2016-05-20-sunyab.webp
+img_thumb: assets/board-B/img_thumb/B-D__0083_2016-05-20-sunyab.webp
 ---
 
 ## 觀景 / vista

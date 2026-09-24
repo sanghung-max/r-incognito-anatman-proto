@@ -1,12 +1,13 @@
 ---
 id: 9-0__C020
-parents: 9-0__0000
+parents:
+  - 9-0__C000
 type: folder
 title_en: education institutions
-title_zh:
+title_zh: 學途崎嶇
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0086_2012-08-20-germany-church-1.webp
+img_thumb: assets/board-B/img_thumb/B-D__0086_2012-08-20-germany-church-1.webp
 ---
 
 ## 觀景 / vista

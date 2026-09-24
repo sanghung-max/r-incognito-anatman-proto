@@ -4,10 +4,10 @@ parents:
   - 9-0__C020
 type: folder
 title_en: chinese university of hong kong - psychology TA
-title_zh: 1984 - 1986
+title_zh: 中文大學 1984 - 1986
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0082_1985-12-31-cu-tony-wedding.webp
+img_thumb: assets/board-B/img_thumb/B-D__0082_1985-12-31-cu-tony-wedding.webp
 ---
 
 ## 觀景 / vista

@@ -1,13 +1,13 @@
 ---
-id: A-0__B039
+id: 9-0__C034
 parents:
-  - A-0__B030
+  - 9-0__C030
 type: folder
-title_en: hong kong 1970s - hung hong-chit
+title_en: extended family
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0074_1970-01-01-hung-hong-chit-hk1970.webp
-img_thumb: assets/board-B/img_thumb/B-D__0074_1970-01-01-hung-hong-chit-hk1970.webp
+img_color: assets/board-B/img_color/B-D__007D_2003-02-01-extended-family-with-parents.webp
+img_thumb: assets/board-B/img_thumb/B-D__007D_2003-02-01-extended-family-with-parents.webp
 ---
 
 ## 觀景 / vista

@@ -4,7 +4,7 @@ parents:
   - 9-0__C020
 type: folder
 title_en: UMKC - EMBA
-title_zh: 1996 - 1998
+title_zh: 密蘇里大學 1996 - 1998
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
 img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp

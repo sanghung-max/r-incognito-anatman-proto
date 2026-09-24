@@ -4,7 +4,7 @@ parents:
   - A-0__B030
 type: folder
 title_en: lunar & planetary photography 1974-1978
-title_zh: 土木月照
+title_zh: "洪逸生: 土木月照"
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0072_1978-12-31-lunar-surface.webp
 img_thumb: assets/board-B/img_thumb/B-D__0072_1978-12-31-lunar-surface.webp

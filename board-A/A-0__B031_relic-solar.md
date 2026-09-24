@@ -4,7 +4,7 @@ parents:
   - A-0__B030
 type: folder
 title_en: solar photography 1978
-title_zh: 無道獵日
+title_zh: "洪逸生: 無道獵日"
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0071_1978-12-31_solar.webp
 img_thumb: assets/board-B/img_thumb/B-D__0071_1978-12-31_solar.webp

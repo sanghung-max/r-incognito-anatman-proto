@@ -1,13 +1,13 @@
 ---
-id: 9-0__C033
+id: A-0__B039
 parents:
-  - 9-0__C030
+  - A-0__B030
 type: folder
-title_en: 《Undergrad》
-title_zh: 學苑 1981 - 1985
+title_en: hong kong 1970s
+title_zh: "洪鴻哲: 紀念照香江"
 ui_render: true
-img_color: assets/board-B/img_color/B-D__007C_1982-12-31-undergrad-83-84-editors.webp
-img_thumb: assets/board-B/img_thumb/B-D__007C_1982-12-31-undergrad-83-84-editors.webp
+img_color: assets/board-B/img_color/B-D__0074_1970-01-01-hung-hong-chit-hk1970.webp
+img_thumb: assets/board-B/img_thumb/B-D__0074_1970-01-01-hung-hong-chit-hk1970.webp
 ---
 
 ## 觀景 / vista

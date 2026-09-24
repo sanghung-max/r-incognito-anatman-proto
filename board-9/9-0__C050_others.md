@@ -5,8 +5,8 @@ type: folder
 title_en: others
 title_zh:
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__007F_2025-07-05-hiking-group-switzerland.webp
+img_thumb: assets/board-B/img_thumb/B-D__007F_2025-07-05-hiking-group-switzerland.webp
 ---
 
 ## 觀景 / vista

@@ -4,10 +4,10 @@ parents:
   - 9-0__C020
 type: folder
 title_en: university of hong kong - psychology phillosophy
-title_zh: 1981 - 1984
+title_zh: 香港大學 1981 - 1984
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0081_1986-01-01-hku-daniel-shek.webp
+img_thumb: assets/board-B/img_thumb/B-D__0081_1986-01-01-hku-daniel-shek.webp
 ---
 
 ## 觀景 / vista

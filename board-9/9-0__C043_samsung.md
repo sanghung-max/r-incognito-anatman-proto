@@ -6,8 +6,8 @@ type: folder
 title_en: samsung telecommunications america, samsung electronics america
 title_zh: 2008 - 2023
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0088_2019-12-11-samsung-team.webp
+img_thumb: assets/board-B/img_thumb/B-D__0088_2019-12-11-samsung-team.webp
 ---
 
 ## 觀景 / vista

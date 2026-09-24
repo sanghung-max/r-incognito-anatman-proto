@@ -2,12 +2,12 @@
 id: A-B__310A
 type: img
 parents:
-- A-0__B031
-- 5-0__C031
+  - A-0__B031
+  - 5-0__C031
 title_en: sunset5 102mm  refractor circa 1978
 title_zh:
 authors:
-- Yat-Sang Hung
+  - Yat-Sang Hung
 time: 1970-01-01
 location: Hong Kong
 ui_render: true

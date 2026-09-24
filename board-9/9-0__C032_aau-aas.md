@@ -4,10 +4,10 @@ parents:
   - 9-0__C030
 type: folder
 title_en: Hong Kong Astronomical Society
-title_zh: 1973 - 1981
+title_zh: 香港業餘天文學會 1973 - 1981
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__007B_1974-12-31-amateur-astronomy.webp
+img_thumb: assets/board-B/img_thumb/B-D__007B_1974-12-31-amateur-astronomy.webp
 ---
 
 ## 觀景 / vista

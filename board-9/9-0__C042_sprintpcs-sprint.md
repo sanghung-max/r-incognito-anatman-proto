@@ -6,8 +6,8 @@ type: folder
 title_en: sprint pcs - sprint - sprint with nextel
 title_zh: 1996 - 2008
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0037_2019-07-06-nyc-merry-go-round.webp
-img_thumb: assets/board-B/img_thumb/B-D__0037_2019-07-06-nyc-merry-go-round.webp
+img_color: assets/board-B/img_color/B-D__0087_2006-05-25-sprint-team-with-rks-design.webp
+img_thumb: assets/board-B/img_thumb/B-D__0087_2006-05-25-sprint-team-with-rks-design.webp
 ---
 
 ## 觀景 / vista
