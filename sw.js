@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'archive-cache-202609242336';
+const CACHE_NAME = 'archive-cache-202609250419';
 const ASSETS_TO_CACHE = [
   "/assets/board-1/img_color/1-A__121D_1970-01-01-breaking-rules.webp",
   "/assets/board-1/img_color/1-A__121E_1970-01-01-caught-red-handed.webp",
@@ -934,10 +934,13 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_color/B-D__0080_1996-02-01-hkbc.webp",
   "/assets/board-B/img_color/B-D__0081_1986-01-01-hku-daniel-shek.webp",
   "/assets/board-B/img_color/B-D__0082_1985-12-31-cu-tony-wedding.webp",
+  "/assets/board-B/img_color/B-D__0083_1986-08-31-sunyab.webp",
   "/assets/board-B/img_color/B-D__0086_2012-08-20-germany-church-1.webp",
   "/assets/board-B/img_color/B-D__0087_2006-05-25-sprint-team-with-rks-design.webp",
   "/assets/board-B/img_color/B-D__0088_2019-12-11-samsung-team.webp",
+  "/assets/board-B/img_color/B-D__0089_2016-03-28-work-life-ny.webp",
   "/assets/board-B/img_color/B-D__008B_1974-12-31-sjc-astronomy-club.webp",
+  "/assets/board-B/img_color/B-D__0099_2023-11-21-pumpkin-delight.webp",
   "/assets/board-B/img_thumb/B-A__0005_1982-12-31-iconoclast.webp",
   "/assets/board-B/img_thumb/B-A__0006_1977-12-29-dirge-hope.webp",
   "/assets/board-B/img_thumb/B-A__0007_1977-03-07-hiking-tai-tam.webp",
@@ -1053,10 +1056,13 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__0080_1996-02-01-hkbc.webp",
   "/assets/board-B/img_thumb/B-D__0081_1986-01-01-hku-daniel-shek.webp",
   "/assets/board-B/img_thumb/B-D__0082_1985-12-31-cu-tony-wedding.webp",
+  "/assets/board-B/img_thumb/B-D__0083_1986-08-31-sunyab.webp",
   "/assets/board-B/img_thumb/B-D__0086_2012-08-20-germany-church-1.webp",
   "/assets/board-B/img_thumb/B-D__0087_2006-05-25-sprint-team-with-rks-design.webp",
   "/assets/board-B/img_thumb/B-D__0088_2019-12-11-samsung-team.webp",
+  "/assets/board-B/img_thumb/B-D__0089_2016-03-28-work-life-ny.webp",
   "/assets/board-B/img_thumb/B-D__008B_1974-12-31-sjc-astronomy-club.webp",
+  "/assets/board-B/img_thumb/B-D__0099_2023-11-21-pumpkin-delight.webp",
   "/assets/board-B/img_thumb/B-D__A001_1991-01-01-%E9%A2%A8%E7%9A%84%E5%AD%A3%E7%AF%80.webp",
   "/assets/board-B/img_thumb/B-D__A002_1969-01-01-the-boxer.webp",
   "/assets/board-B/img_thumb/B-D__A003_1991-12-31-%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1.webp",

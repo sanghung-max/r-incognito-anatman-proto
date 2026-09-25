@@ -9474,9 +9474,6 @@ window.ARCHIVE_DATA = {
       "9-0__A000",
       "9-0__B000",
       "9-0__C000",
-      "9-0__C030",
-      "9-0__C040",
-      "9-0__C050",
       "9-0__D000",
       "9-0__Z000"
     ],
@@ -9765,8 +9762,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0068_1998-01-01-frances-circa-1998.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0068_1998-01-01-frances-circa-1998.webp",
+    "img_color": "assets/board-B/img_color/B-D__0099_2023-11-21-pumpkin-delight.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0099_2023-11-21-pumpkin-delight.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -9837,7 +9834,10 @@ window.ARCHIVE_DATA = {
     ],
     "children": [
       "9-0__C010",
-      "9-0__C020"
+      "9-0__C020",
+      "9-0__C030",
+      "9-0__C040",
+      "9-0__C050"
     ],
     "leaf_count": 0,
     "has_content": false,
@@ -10076,8 +10076,8 @@ window.ARCHIVE_DATA = {
     "display_priority": false,
     "audio": "",
     "video": "",
-    "img_color": "assets/board-B/img_color/B-D__0083_2016-05-20-sunyab.webp",
-    "img_thumb": "assets/board-B/img_thumb/B-D__0083_2016-05-20-sunyab.webp",
+    "img_color": "assets/board-B/img_color/B-D__0083_1986-08-31-sunyab.webp",
+    "img_thumb": "assets/board-B/img_thumb/B-D__0083_1986-08-31-sunyab.webp",
     "pdf_manifest": [],
     "page_pattern": "",
     "page_thumbnail_pattern": "",
@@ -10144,7 +10144,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "9-0__0000"
+      "9-0__C000"
     ],
     "children": [
       "9-0__C031",
@@ -10299,7 +10299,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "9-0__0000"
+      "9-0__C000"
     ],
     "children": [
       "9-0__C041",
@@ -10423,7 +10423,7 @@ window.ARCHIVE_DATA = {
     "page_start": null,
     "page_end": null,
     "parents": [
-      "9-0__0000"
+      "9-0__C000"
     ],
     "children": [],
     "leaf_count": 0,
