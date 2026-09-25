@@ -1,6 +1,7 @@
 ---
 id: 9-0__C050
-parents: 9-0__0000
+parents:
+  - 9-0__C000
 type: folder
 title_en: others
 title_zh:

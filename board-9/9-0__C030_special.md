@@ -1,6 +1,7 @@
 ---
 id: 9-0__C030
-parents: 9-0__0000
+parents:
+  - 9-0__C000
 type: folder
 title_en: influential community
 title_zh: 特殊團體

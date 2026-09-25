@@ -1,6 +1,7 @@
 ---
 id: 9-0__C040
-parents: 9-0__0000
+parents:
+  - 9-0__C000
 type: folder
 title_en: work life community
 title_zh:
