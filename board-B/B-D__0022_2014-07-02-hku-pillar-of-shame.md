@@ -1,19 +1,18 @@
 ---
-id: "B-D__0022"  
-parents: ["B-0__D000", "4-0__Z000", "A-0__B020"]
-authors: "R. Incognito"
-type: "img" 
-
-title_en: "Pillar Of Shame@HKU"
-title_zh: "國殤之柱 2014 港大"
-
-
-time: "2014-07-02"
-location: "USA"
-
+id: B-D__0022
+parents:
+  - B-0__D000
+  - 4-0__Z000
+  - A-0__B020
+  - 4-0__B020
+authors: R. Incognito
+type: img
+title_en: Pillar Of Shame@HKU
+title_zh: 國殤之柱 2014 港大
+time: 2014-07-02
+location: USA
 ui_render: true
 display_priority: false
-
 img_color: assets/board-B/img_color/B-D__0022_2014-07-02-hku-pillar-of-shame.webp
 img_thumb: assets/board-B/img_thumb/B-D__0022_2014-07-02-hku-pillar-of-shame.webp
 ---

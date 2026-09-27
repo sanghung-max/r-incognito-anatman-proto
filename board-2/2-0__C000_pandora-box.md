@@ -3,7 +3,7 @@ id: 2-0__C000
 type: folder
 parents: 2-0__0000
 title_en: pandora box
-title_zh: 休克俱樂部:用菜刀斬死你
+title_zh: 希望渡凡間
 ui_render: true
 img_color: assets/board-B/img_color/B-D__0035_2018-11-02-nyc-saw-cut-head.webp
 img_thumb: assets/board-B/img_thumb/B-D__0035_2018-11-02-nyc-saw-cut-head.webp

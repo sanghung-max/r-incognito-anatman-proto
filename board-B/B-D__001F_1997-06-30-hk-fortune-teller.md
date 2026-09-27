@@ -1,7 +1,11 @@
 ---
 id: B-D__001F
-parents: ["B-0__D000", "5-0__Z000", "A-0__B020"]
-authors: "R. Incognito"
+parents:
+  - B-0__D000
+  - 5-0__Z000
+  - A-0__B020
+  - 4-0__B020
+authors: R. Incognito
 type: img
 title_en: Spare a Fortune Cookie?
 title_zh: 聽天由命?

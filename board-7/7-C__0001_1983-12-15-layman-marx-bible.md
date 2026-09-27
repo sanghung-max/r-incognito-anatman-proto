@@ -17,7 +17,7 @@ ui_render: true
 display_priority: false
 img_thumb: assets/board-7/img_thumb/7-C__0001_1983-12-15-layman-marx-bible.webp
 pdf: assets/board-7/pdfs/7-C__0001_1983-12-15-layman-marx-bible.pdf
-pdf_thumbnail: assets/board-B/img_thumb/B-D__0052_2012-02-01-hk-jockey-club.webp
+pdf_thumbnail: assets/board-B/img_thumb/B-D__0090_2012-02-01-hk-jockey-club.webp
 ---
 
 ## 觀景 vista
