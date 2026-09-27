@@ -1,8 +1,8 @@
 ---
-id: 4-0__A011
+id: 4-0__A010
 type: folder
 parents:
-  - 4-0__A010
+  - 4-0__A000
 title_en: self determination suicide
 title_zh: 自決=自盡?
 ui_render: true

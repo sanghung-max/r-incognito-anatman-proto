@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'archive-cache-202609270420';
+const CACHE_NAME = 'archive-cache-202609270458';
 const ASSETS_TO_CACHE = [
   "/assets/board-1/img_color/1-A__121D_1970-01-01-breaking-rules.webp",
   "/assets/board-1/img_color/1-A__121E_1970-01-01-caught-red-handed.webp",
@@ -146,7 +146,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-4/img_color/4-B__2016_2007-11-25-2007-11-25-central-district-escalator-mid-levels.webp",
   "/assets/board-4/img_color/4-B__2017_2007-11-25-2007-11-25-central-district.webp",
   "/assets/board-4/img_color/4-B__2018_2007-11-25-2007-11-25-central-district.webp",
-  "/assets/board-4/img_color/4-B__2019_2007-11-25-2007-11-25-life-as%20-expatriate.webp",
+  "/assets/board-4/img_color/4-B__2019_2007-11-25-2007-11-25-life-as-expatriate.webp",
   "/assets/board-4/img_color/4-B__201A_2007-11-25-2007-11-25-pavilion-mid-level.webp",
   "/assets/board-4/img_color/4-B__201B_2007-11-25-2007-11-25-peak-tram-station.webp",
   "/assets/board-4/img_color/4-B__201C_2008-11-24-2008-11-24-hong-kong-orchid.webp",
@@ -213,7 +213,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-4/img_thumb/4-B__2016_2007-11-25-2007-11-25-central-district-escalator-mid-levels.webp",
   "/assets/board-4/img_thumb/4-B__2017_2007-11-25-2007-11-25-central-district.webp",
   "/assets/board-4/img_thumb/4-B__2018_2007-11-25-2007-11-25-central-district.webp",
-  "/assets/board-4/img_thumb/4-B__2019_2007-11-25-2007-11-25-life-as%20-expatriate.webp",
+  "/assets/board-4/img_thumb/4-B__2019_2007-11-25-2007-11-25-life-as-expatriate.webp",
   "/assets/board-4/img_thumb/4-B__201A_2007-11-25-2007-11-25-pavilion-mid-level.webp",
   "/assets/board-4/img_thumb/4-B__201B_2007-11-25-2007-11-25-peak-tram-station.webp",
   "/assets/board-4/img_thumb/4-B__201C_2008-11-24-2008-11-24-hong-kong-orchid.webp",
@@ -1356,6 +1356,7 @@ const ASSETS_TO_CACHE = [
   "/assets/board-B/img_thumb/B-D__0088_2019-12-11-samsung-team.webp",
   "/assets/board-B/img_thumb/B-D__0089_2016-03-28-work-life-ny.webp",
   "/assets/board-B/img_thumb/B-D__008B_1974-12-31-sjc-astronomy-club.webp",
+  "/assets/board-B/img_thumb/B-D__0090_2012-02-01-hk-jockey-club.webp",
   "/assets/board-B/img_thumb/B-D__0099_2023-11-21-pumpkin-delight.webp",
   "/assets/board-B/img_thumb/B-D__A001_1991-01-01-%E9%A2%A8%E7%9A%84%E5%AD%A3%E7%AF%80.webp",
   "/assets/board-B/img_thumb/B-D__A002_1969-01-01-the-boxer.webp",

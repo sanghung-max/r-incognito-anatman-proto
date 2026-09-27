@@ -2,11 +2,11 @@
 id: 4-0__B000
 type: folder
 parents: 4-0__0000
-title_en: rermembrance
+title_en: remembrance
 title_zh: 香港疊影
 ui_render: true
-img_color: assets/board-B/img_color/B-D__0022_2014-07-02-hku-pillar-of-shame.webp
-img_thumb: assets/board-B/img_thumb/B-D__0022_2014-07-02-hku-pillar-of-shame.webp
+img_color: assets/board-B/img_color/B-D__0059_2014-07-01-hk-tram.webp
+img_thumb: assets/board-B/img_thumb/B-D__0059_2014-07-01-hk-tram.webp
 ---
 
 ## 觀景 / vista
